@@ -1,95 +1,92 @@
 [
   {
     "liga": "Tenis",
-    "evento": "Indian Wells – Octavos de final",
     "hora": "13:00",
-    "stream": ""
+    "partido": "Indian Wells – Octavos de final",
+    "url": ""
   },
   {
     "liga": "Liga Profesional Argentina",
-    "evento": "Tigre vs Vélez Sarsfield",
     "hora": "17:45",
-    "stream": ""
+    "partido": "Tigre vs Vélez Sarsfield",
+    "url": ""
   },
   {
     "liga": "Liga Profesional Argentina",
-    "evento": "Independiente vs Unión Santa Fe",
     "hora": "17:45",
-    "stream": ""
+    "partido": "Independiente vs Unión Santa Fe",
+    "url": ""
   },
   {
     "liga": "CONCACAF Champions Cup",
-    "evento": "Philadelphia Union vs América",
     "hora": "18:00",
-    "stream": ""
+    "partido": "Philadelphia Union vs América",
+    "url": ""
   },
   {
     "liga": "NHL",
-    "evento": "Montreal Canadiens vs Toronto Maple Leafs",
     "hora": "18:00",
-    "stream": ""
+    "partido": "Montreal Canadiens vs Toronto Maple Leafs",
+    "url": ""
   },
   {
     "liga": "Liga Colombia",
-    "evento": "Atlético Bucaramanga vs Deportivo Pereira",
     "hora": "18:20",
-    "stream": ""
+    "partido": "Atlético Bucaramanga vs Deportivo Pereira",
+    "url": ""
   },
   {
     "liga": "Brasileirão",
-    "evento": "Mirassol vs Santos",
     "hora": "19:30",
-    "stream": ""
+    "partido": "Mirassol vs Santos",
+    "url": ""
   },
   {
     "liga": "Copa Libertadores",
-    "evento": "Botafogo vs Barcelona",
     "hora": "19:30",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=hyper1",
-      "https://streamx10.cloud/global1.php?channel=hyper2"
-    ]
+    "partido": "Botafogo vs Barcelona",
+    "url": "https://streamx10.cloud/global1.php?channel=hyper1"
   },
   {
     "liga": "Liga Profesional Argentina",
-    "evento": "Newell's Old Boys vs Platense",
     "hora": "20:00",
-    "stream": ""
+    "partido": "Newell's Old Boys vs Platense",
+    "url": ""
   },
   {
     "liga": "Tenis",
-    "evento": "Indian Wells – Octavos de final",
     "hora": "20:00",
-    "stream": ""
+    "partido": "Indian Wells – Octavos de final",
+    "url": ""
   },
   {
     "liga": "CONCACAF Champions Cup",
-    "evento": "Monterrey vs Cruz Azul",
     "hora": "20:00",
-    "stream": ""
+    "partido": "Monterrey vs Cruz Azul",
+    "url": ""
   },
   {
     "liga": "Liga Profesional Argentina",
-    "evento": "Sarmiento vs Racing Club",
     "hora": "20:00",
-    "stream": ""
+    "partido": "Sarmiento vs Racing Club",
+    "url": ""
   },
   {
     "liga": "Liga MX Femenil",
-    "evento": "Guadalajara vs América",
     "hora": "20:05",
-    "stream": ""
+    "partido": "Guadalajara vs América",
+    "url": ""
   },
   {
     "liga": "Liga Colombia",
-    "evento": "Junior vs Atlético Nacional",
     "hora": "20:30",
-    "stream": ""
+    "partido": "Junior vs Atlético Nacional",
+    "url": ""
   },
   {
     "liga": "CONCACAF Champions Cup",
-    "evento": "Los Ángeles FC vs Alajuelense",
     "hora": "22:00",
-    "stream": ""
+    "partido": "Los Ángeles FC vs Alajuelense",
+    "url": ""
   }
 ]
