@@ -1,20 +1,95 @@
 [
-{
-"liga":"LaLiga",
-"hora":"14:30",
-"partido":"Almería vs Cultural Leonesa",
-"url":"https://streamx10.cloud/global1.php?channel=hyper1"
-},
-{
-"champion":"Champions League",
-"hora":"16:30",
-"partido":"Barcelona vs Newcastle",
-"url":"https://streamx10.cloud/global1.php?channel=disney3"
-},
-{
-"liga":"Champions",
-"hora":"20:45",
-"partido":"PSG vs Bayern",
-"url":"https://elcanaldeportivo.com/espn2hd.php"
-}
+  {
+    "liga": "Tenis",
+    "evento": "Indian Wells – Octavos de final",
+    "hora": "13:00",
+    "stream": ""
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "evento": "Tigre vs Vélez Sarsfield",
+    "hora": "17:45",
+    "stream": ""
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "evento": "Independiente vs Unión Santa Fe",
+    "hora": "17:45",
+    "stream": ""
+  },
+  {
+    "liga": "CONCACAF Champions Cup",
+    "evento": "Philadelphia Union vs América",
+    "hora": "18:00",
+    "stream": ""
+  },
+  {
+    "liga": "NHL",
+    "evento": "Montreal Canadiens vs Toronto Maple Leafs",
+    "hora": "18:00",
+    "stream": ""
+  },
+  {
+    "liga": "Liga Colombia",
+    "evento": "Atlético Bucaramanga vs Deportivo Pereira",
+    "hora": "18:20",
+    "stream": ""
+  },
+  {
+    "liga": "Brasileirão",
+    "evento": "Mirassol vs Santos",
+    "hora": "19:30",
+    "stream": ""
+  },
+  {
+    "liga": "Copa Libertadores",
+    "evento": "Botafogo vs Barcelona",
+    "hora": "19:30",
+    "streams": [
+      "https://streamx10.cloud/global1.php?channel=hyper1",
+      "https://streamx10.cloud/global1.php?channel=hyper2"
+    ]
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "evento": "Newell's Old Boys vs Platense",
+    "hora": "20:00",
+    "stream": ""
+  },
+  {
+    "liga": "Tenis",
+    "evento": "Indian Wells – Octavos de final",
+    "hora": "20:00",
+    "stream": ""
+  },
+  {
+    "liga": "CONCACAF Champions Cup",
+    "evento": "Monterrey vs Cruz Azul",
+    "hora": "20:00",
+    "stream": ""
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "evento": "Sarmiento vs Racing Club",
+    "hora": "20:00",
+    "stream": ""
+  },
+  {
+    "liga": "Liga MX Femenil",
+    "evento": "Guadalajara vs América",
+    "hora": "20:05",
+    "stream": ""
+  },
+  {
+    "liga": "Liga Colombia",
+    "evento": "Junior vs Atlético Nacional",
+    "hora": "20:30",
+    "stream": ""
+  },
+  {
+    "liga": "CONCACAF Champions Cup",
+    "evento": "Los Ángeles FC vs Alajuelense",
+    "hora": "22:00",
+    "stream": ""
+  }
 ]
