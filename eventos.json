@@ -1,129 +1,212 @@
 [
   {
-    "liga": "Tenis",
-    "evento": "Indian Wells – Octavos de final",
-    "hora": "13:00",
-    "streams": []
+    "liga": "UEFA Champions League",
+    "hora": "12:45",
+    "partido": "Bayer Leverkusen vs Arsenal",
+    "url": "https://streamx10.cloud/global1.php?channel=disney1"
+  },
+  {
+    "liga": "UEFA Champions League",
+    "hora": "15:00",
+    "partido": "Real Madrid vs Manchester City",
+    "url": "https://streamx10.cloud/global1.php?channel=espn" 
+  },
+  {
+    "liga": "UEFA Champions League",
+    "hora": "15:00",
+    "partido": "PSG vs Chelsea",
+    "url": ""
+  },
+  {
+    "liga": "UEFA Champions League",
+    "hora": "15:00",
+    "partido": "Bodø/Glimt vs Sporting CP",
+    "url": ""
   },
   {
     "liga": "Liga Profesional Argentina",
-    "evento": "Tigre vs Vélez Sarsfield",
-    "hora": "15:00",
-    "streams": [
-      "http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch29_720.m3u8" 
-    ]
+    "hora": "15:30",
+    "partido": "Argentinos Juniors vs Rosario Central",
+    "url": ""
   },
   {
     "liga": "Liga Profesional Argentina",
-    "evento": "Real Madrid vs Manchester City",
-    "hora": "15:00",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=espn",
-      
-    ]
-  },
-  {
-    "liga": "CONCACAF Champions Cup",
-    "evento": "Philadelphia Union vs América",
-    "hora": "18:00",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=disney5",
-      "https://streamx10.cloud/global1.php?channel=tudnus",
-      "https://streamx10.cloud/global1.php?channel=foxone2"
-    ]
-  },
-  {
-    "liga": "NHL",
-    "evento": "Montreal Canadiens vs Toronto Maple Leafs",
-    "hora": "18:00",
-    "streams": []
-  },
-  {
-    "liga": "Liga Colombia",
-    "evento": "Atlético Bucaramanga vs Deportivo Pereira",
-    "hora": "18:20",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=winplus",
-      "https://streamx10.cloud/global1.php?channel=winplus2"
-    ]
-  },
-  {
-    "liga": "Brasileirão",
-    "evento": "Mirassol vs Santos",
-    "hora": "19:30",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=fanatiz4"
-    ]
+    "hora": "15:30",
+    "partido": "Banfield vs Gimnasia La Plata",
+    "url": ""
   },
   {
     "liga": "Copa Libertadores",
-    "evento": "Botafogo vs Barcelona SC",
-    "hora": "19:30",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=disney1",
-      "https://streamx10.cloud/global1.php?channel=fanatiz3",
-      "https://streamx10.cloud/global1.php?channel=espn",
-      "https://streamx10.cloud/global1.php?channel=fox1ar",
-      "https://streamx10.cloud/global1.php?channel=espn3mx"
-    ]
+    "hora": "17:00",
+    "partido": "Sporting Cristal vs Carabobo",
+    "url": ""
+  },
+  {
+    "liga": "Brasileirão",
+    "hora": "17:00",
+    "partido": "Atlético Mineiro vs Internacional",
+    "url": ""
   },
   {
     "liga": "Liga Profesional Argentina",
-    "evento": "Newell's Old Boys vs Platense",
-    "hora": "20:00",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=tntar",
-      "https://streamx10.cloud/global1.php?channel=fanatiz1"
-    ]
+    "hora": "17:45",
+    "partido": "Boca Juniors vs San Lorenzo",
+    "url": ""
   },
   {
-    "liga": "Tenis",
-    "evento": "Indian Wells – Octavos de final",
-    "hora": "20:00",
-    "streams": []
+    "liga": "Liga Profesional Argentina",
+    "hora": "17:45",
+    "partido": "Tigre vs Vélez Sarsfield",
+    "url": ""
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "hora": "17:45",
+    "partido": "Independiente vs Unión Santa Fe",
+    "url": ""
+  },
+  {
+    "liga": "Brasileirão",
+    "hora": "18:00",
+    "partido": "Bahia vs Vitória",
+    "url": ""
   },
   {
     "liga": "CONCACAF Champions Cup",
-    "evento": "Monterrey vs Cruz Azul",
-    "hora": "20:00",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=disney2",
-      "https://streamx10.cloud/global1.php?channel=tudnus",
-      "https://streamx10.cloud/global1.php?channel=foxone3"
-    ]
+    "hora": "18:00",
+    "partido": "Nashville SC vs Inter Miami",
+    "url": ""
   },
   {
-    "liga": "Liga Profesional Argentina",
-    "evento": "Sarmiento vs Racing Club",
-    "hora": "20:00",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=espnpremium",
-      "https://streamx10.cloud/global1.php?channel=fanatiz5"
-    ]
+    "liga": "CONCACAF Champions Cup",
+    "hora": "18:00",
+    "partido": "Philadelphia Union vs América",
+    "url": ""
   },
   {
-    "liga": "Liga MX Femenil",
-    "evento": "Guadalajara vs América",
-    "hora": "20:05",
-    "streams": []
+    "liga": "NHL",
+    "hora": "18:00",
+    "partido": "Montreal Canadiens vs Toronto Maple Leafs",
+    "url": ""
+  },
+  {
+    "liga": "NBA",
+    "hora": "18:30",
+    "partido": "Cavaliers vs Magic",
+    "url": ""
   },
   {
     "liga": "Liga Colombia",
-    "evento": "Junior vs Atlético Nacional",
-    "hora": "20:30",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=winplus",
-      "https://streamx10.cloud/global1.php?channel=winplus2"
-    ]
+    "hora": "18:20",
+    "partido": "Atlético Bucaramanga vs Deportivo Pereira",
+    "url": ""
+  },
+  {
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "partido": "Deportes Tolima vs O'Higgins",
+    "url": ""
+  },
+  {
+    "liga": "Brasileirão",
+    "hora": "19:30",
+    "partido": "Flamengo vs Cruzeiro",
+    "url": ""
+  },
+  {
+    "liga": "Brasileirão",
+    "hora": "19:30",
+    "partido": "Corinthians vs Coritiba",
+    "url": ""
+  },
+  {
+    "liga": "Brasileirão",
+    "hora": "19:30",
+    "partido": "Mirassol vs Santos",
+    "url": ""
+  },
+  {
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "partido": "Botafogo vs Barcelona",
+    "url": "https://streamx10.cloud/global1.php?channel=hyper1"
+  },
+  {
+    "liga": "Tenis",
+    "hora": "13:00",
+    "partido": "Indian Wells – Octavos de final",
+    "url": ""
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "hora": "20:00",
+    "partido": "Independiente Rivadavia vs Barracas Central",
+    "url": ""
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "hora": "20:00",
+    "partido": "Atlético Tucumán vs Aldosivi",
+    "url": ""
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "hora": "20:00",
+    "partido": "Newell's Old Boys vs Platense",
+    "url": ""
+  },
+  {
+    "liga": "Liga Profesional Argentina",
+    "hora": "20:00",
+    "partido": "Sarmiento vs Racing Club",
+    "url": ""
+  },
+  {
+    "liga": "Tenis",
+    "hora": "20:00",
+    "partido": "Indian Wells – Octavos de final (noche)",
+    "url": ""
   },
   {
     "liga": "CONCACAF Champions Cup",
-    "evento": "Los Ángeles FC vs Alajuelense",
+    "hora": "20:00",
+    "partido": "Monterrey vs Cruz Azul",
+    "url": ""
+  },
+  {
+    "liga": "Liga MX Femenil",
+    "hora": "20:05",
+    "partido": "Guadalajara vs América",
+    "url": ""
+  },
+  {
+    "liga": "CONCACAF Champions Cup",
+    "hora": "20:30",
+    "partido": "LA Galaxy vs Mount Pleasant Academy",
+    "url": ""
+  },
+  {
+    "liga": "Liga Colombia",
+    "hora": "20:30",
+    "partido": "Junior vs Atlético Nacional",
+    "url": ""
+  },
+  {
+    "liga": "NBA",
+    "hora": "21:00",
+    "partido": "Rockets vs Nuggets",
+    "url": ""
+  },
+  {
+    "liga": "CONCACAF Champions Cup",
     "hora": "22:00",
-    "streams": [
-      "https://streamx10.cloud/global1.php?channel=disney3",
-      "https://streamx10.cloud/global1.php?channel=tudnus",
-      "https://streamx10.cloud/global1.php?channel=foxone4"
-    ]
+    "partido": "Los Ángeles FC vs Alajuelense",
+    "url": ""
+  },
+  {
+    "liga": "CONCACAF Champions Cup",
+    "hora": "22:30",
+    "partido": "San Diego vs Toluca",
+    "url": ""
   }
 ]
