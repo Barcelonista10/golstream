@@ -10,8 +10,7 @@
     "evento": "Tigre vs Vélez Sarsfield",
     "hora": "17:45",
     "streams": [
-      "https://streamx10.cloud/global1.php?channel=espnpremium",
-      "https://streamx10.cloud/global1.php?channel=fanatiz1"
+      "http://45.225.68.1:8532/Live/878e0987f8fffce401028e0283b0b24d/local-ch29_720.m3u8" 
     ]
   },
   {
