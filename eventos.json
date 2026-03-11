@@ -14,8 +14,14 @@
   {
     "liga": "UEFA Champions League",
     "hora": "15:00",
+    "partido": "Real Madrid vs Manchester City",
+    "url": "https://streamx10.cloud/global1.php?channel=foxone2" 
+  },
+  {
+    "liga": "UEFA Champions League",
+    "hora": "15:00",
     "partido": "PSG vs Chelsea",
-    "url": ""
+    "url": "https://streamx10.cloud/global1.php?channel=espn2"
   },
   {
     "liga": "UEFA Champions League",
