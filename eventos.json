@@ -9,13 +9,7 @@
     "liga": "UEFA Champions League",
     "hora": "15:00",
     "partido": "Real Madrid vs Manchester City",
-    "url": "https://streamx10.cloud/global1.php?channel=espn" 
-  },
-  {
-    "liga": "UEFA Champions League",
-    "hora": "15:00",
-    "partido": "Real Madrid vs Manchester City",
-    "url": "https://streamx10.cloud/global1.php?channel=foxone2" 
+    "url": "https://streamx10.cloud/global1.php?channel=espn"
   },
   {
     "liga": "UEFA Champions League",
@@ -132,15 +126,9 @@
     "url": ""
   },
   {
-    "liga": "Copa Libertadores",
-    "hora": "19:30",
-    "partido": "Botafogo vs Barcelona",
-    "url": "https://streamx10.cloud/global1.php?channel=hyper1"
-  },
-  {
     "liga": "Tenis",
     "hora": "13:00",
-    "partido": "Indian Wells – Octavos de final",
+    "partido": "Indian Wells - Octavos de final",
     "url": ""
   },
   {
@@ -170,7 +158,7 @@
   {
     "liga": "Tenis",
     "hora": "20:00",
-    "partido": "Indian Wells – Octavos de final (noche)",
+    "partido": "Indian Wells - Octavos de final (noche)",
     "url": ""
   },
   {
