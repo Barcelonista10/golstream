@@ -1,280 +1,280 @@
 {
-  "channels": [
+  "canales": [
     {
-      "id": "espn",
-      "name": "ESPN",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn"
+      "nombre": "ESPN",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn2",
-      "name": "ESPN 2",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn2"
+      "nombre": "ESPN 2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn3",
-      "name": "ESPN 3",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn3"
+      "nombre": "ESPN 3",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn4",
-      "name": "ESPN 4",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn4"
+      "nombre": "ESPN 4",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn5",
-      "name": "ESPN 5",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn5"
+      "nombre": "ESPN 5",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn6",
-      "name": "ESPN 6",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn6"
+      "nombre": "ESPN 6",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn6",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn7",
-      "name": "ESPN 7",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn7"
+      "nombre": "ESPN 7",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn7",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espnpremium",
-      "name": "ESPN Premium",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium"
+      "nombre": "ESPN Premium",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "dsports",
-      "name": "DSports",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=dsports"
+      "nombre": "DSports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "dsports2",
-      "name": "DSports 2",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+      "nombre": "DSports 2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "dsportsplus",
-      "name": "DSports+",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus"
+      "nombre": "DSports+",
+      "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "foxsports",
-      "name": "Fox Sports",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports"
+      "nombre": "Fox Sports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "foxsports2",
-      "name": "Fox Sports 2",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2"
+      "nombre": "Fox Sports 2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "foxsports3",
-      "name": "Fox Sports 3",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3"
+      "nombre": "Fox Sports 3",
+      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "tntsports",
-      "name": "TNT Sports",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=tntsports"
+      "nombre": "TNT Sports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "tycsports",
-      "name": "TyC Sports",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+      "nombre": "TyC Sports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "liga1max",
-      "name": "Liga 1 MAX",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=liga1max"
+      "nombre": "Liga 1 MAX",
+      "url": "https://la14hd.com/vivo/canales.php?stream=liga1max",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "movistar",
-      "name": "Movistar Deportes",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=movistar"
+      "nombre": "Movistar Deportes",
+      "url": "https://la14hd.com/vivo/canales.php?stream=movistar",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "ecdf_ligapro",
-      "name": "ECDF Liga Pro",
-      "category": "Deportes",
-      "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro"
+      "nombre": "ECDF Liga Pro",
+      "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "winsports",
-      "name": "Win Sports",
-      "category": "Deportes - Colombia",
-      "url": "https://la14hd.com/vivo/canales.php?stream=winsports"
+      "nombre": "Win Sports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "winsports2",
-      "name": "Win Sports 2",
-      "category": "Deportes - Colombia",
-      "url": "https://la14hd.com/vivo/canales.php?stream=winsports2"
+      "nombre": "Win Sports 2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=winsports2",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "winsportsplus",
-      "name": "Win Sports+",
-      "category": "Deportes - Colombia",
-      "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus"
+      "nombre": "Win Sports+",
+      "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espnmx",
-      "name": "ESPN MX",
-      "category": "Deportes - México",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espnmx"
+      "nombre": "ESPN MX",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espnmx",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn2mx",
-      "name": "ESPN 2 MX",
-      "category": "Deportes - México",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn2mx"
+      "nombre": "ESPN 2 MX",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn2mx",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn3mx",
-      "name": "ESPN 3 MX",
-      "category": "Deportes - México",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn3mx"
+      "nombre": "ESPN 3 MX",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn3mx",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espn4mx",
-      "name": "ESPN 4 MX",
-      "category": "Deportes - México",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn4mx"
+      "nombre": "ESPN 4 MX",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espn4mx",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "azteca7",
-      "name": "Azteca 7",
-      "category": "Deportes - México",
-      "url": "https://la14hd.com/vivo/canales.php?stream=azteca7"
+      "nombre": "Azteca 7",
+      "url": "https://la14hd.com/vivo/canales.php?stream=azteca7",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "tvc_deportes",
-      "name": "TVC Deportes",
-      "category": "Deportes - México",
-      "url": "https://la14hd.com/vivo/canales.php?stream=tvc_deportes"
+      "nombre": "TVC Deportes",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tvc_deportes",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "azteca_deportes",
-      "name": "Azteca Deportes",
-      "category": "Deportes - México",
-      "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes"
+      "nombre": "Azteca Deportes",
+      "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "sky_sports_laliga",
-      "name": "Sky Sports LaLiga",
-      "category": "Deportes - Europa",
-      "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga"
+      "nombre": "Sky Sports LaLiga",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "beinsportes",
-      "name": "beIN Sports",
-      "category": "Deportes - Europa",
-      "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes"
+      "nombre": "beIN Sports",
+      "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "beinsport_xtra_espanol",
-      "name": "beIN Sports Xtra Español",
-      "category": "Deportes - Europa",
-      "url": "https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol"
+      "nombre": "beIN Sports Xtra",
+      "url": "https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "foxdeportes",
-      "name": "Fox Deportes",
-      "category": "Deportes - USA",
-      "url": "https://la14hd.com/vivo/canales.php?stream=foxdeportes"
+      "nombre": "Fox Deportes",
+      "url": "https://la14hd.com/vivo/canales.php?stream=foxdeportes",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "espndeportes",
-      "name": "ESPN Deportes",
-      "category": "Deportes - USA",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes"
+      "nombre": "ESPN Deportes",
+      "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "tudn",
-      "name": "TUDN",
-      "category": "Deportes - USA",
-      "url": "https://la14hd.com/vivo/canales.php?stream=tudn"
+      "nombre": "TUDN",
+      "url": "https://la14hd.com/vivo/canales.php?stream=tudn",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "foxsports1_usa",
-      "name": "Fox Sports 1 USA",
-      "category": "Deportes - USA",
-      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports1_usa"
+      "nombre": "Fox Sports 1 USA",
+      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports1_usa",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "foxsports2_usa",
-      "name": "Fox Sports 2 USA",
-      "category": "Deportes - USA",
-      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2_usa"
+      "nombre": "Fox Sports 2 USA",
+      "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2_usa",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "universo",
-      "name": "Universo",
-      "category": "Deportes - USA",
-      "url": "https://la14hd.com/vivo/canales.php?stream=universo"
+      "nombre": "Universo",
+      "url": "https://la14hd.com/vivo/canales.php?stream=universo",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "usanetwork",
-      "name": "USA Network",
-      "category": "Deportes - USA",
-      "url": "https://la14hd.com/vivo/canales.php?stream=usanetwork"
+      "nombre": "USA Network",
+      "url": "https://la14hd.com/vivo/canales.php?stream=usanetwork",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "telemundo",
-      "name": "Telemundo",
-      "category": "Deportes - USA",
-      "url": "https://la14hd.com/vivo/canales.php?stream=telemundo"
+      "nombre": "Telemundo",
+      "url": "https://la14hd.com/vivo/canales.php?stream=telemundo",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "premiere1",
-      "name": "Premiere 1",
-      "category": "Deportes - Brasil",
-      "url": "https://la14hd.com/vivo/canales.php?stream=premiere1"
+      "nombre": "Premiere 1",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere1",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "premiere2",
-      "name": "Premiere 2",
-      "category": "Deportes - Brasil",
-      "url": "https://la14hd.com/vivo/canales.php?stream=premiere2"
+      "nombre": "Premiere 2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere2",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "premiere3",
-      "name": "Premiere 3",
-      "category": "Deportes - Brasil",
-      "url": "https://la14hd.com/vivo/canales.php?stream=premiere3"
+      "nombre": "Premiere 3",
+      "url": "https://la14hd.com/vivo/canales.php?stream=premiere3",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "sportv",
-      "name": "SporTV",
-      "category": "Deportes - Brasil",
-      "url": "https://la14hd.com/vivo/canales.php?stream=sportv"
+      "nombre": "SporTV",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "sportv2",
-      "name": "SporTV 2",
-      "category": "Deportes - Brasil",
-      "url": "https://la14hd.com/vivo/canales.php?stream=sportv2"
+      "nombre": "SporTV 2",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv2",
+      "categoria": "deportes",
+      "calidad": "HD"
     },
     {
-      "id": "sportv3",
-      "name": "SporTV 3",
-      "category": "Deportes - Brasil",
-      "url": "https://la14hd.com/vivo/canales.php?stream=sportv3"
+      "nombre": "SporTV 3",
+      "url": "https://la14hd.com/vivo/canales.php?stream=sportv3",
+      "categoria": "deportes",
+      "calidad": "HD"
     }
   ]
 }
