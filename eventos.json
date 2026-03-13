@@ -1,20 +1,16 @@
-{
-  "eventos": [
-    {
-      "nombre": "Arsenal vs Chelsea",
-      "liga": "Premier League",
-      "fecha": "2026-12-03",
-      "hora": "23:41",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn",
-      "calidad": "HD"
-    },
-    {
-      "nombre": "Real Madrid vs Barcelona",
-      "liga": "La Liga",
-      "fecha": "2026-12-04",
-      "hora": "20:00",
-      "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
-      "calidad": "HD"
-    }
-  ]
-}
+[
+  {
+    "partido": "Arsenal vs Chelsea",
+    "liga": "Premier League",
+    "fecha": "2026-03-12",
+    "hora": "23:41",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn"
+  },
+  {
+    "partido": "Real Madrid vs Barcelona",
+    "liga": "La Liga",
+    "fecha": "2026-03-13",
+    "hora": "20:00",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn2"
+  }
+]
