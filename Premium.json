@@ -1,21 +1,7 @@
-{
-  "version": "1.0",
-  "channels": [
-    {
-      "id": 1,
-      "name": "GoldenEdge",
-      "logo": "https://i.ibb.co/XscpWfr/golden.png",
-      "url": "https://embed.saohgdasregions.fun/embed/goldenedge.html",
-      "category": "Premium",
-      "type": "embed",
-      "isHD": true
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "name": "Premium",
-      "icon": "⭐"
-    }
-  ]
-}
+[
+  {
+    "name": "GoldenEdge",
+    "url": "https://sportscastpro.blogspot.com/p/reproductor-adblocker.html?get=https://embed.saohgdasregions.fun/embed/goldenedge.html",
+    "isHD": true
+  }
+]
