@@ -1,7 +1,7 @@
 [
   {
     "name": "HBO",
-    "url": "https://52v5qeafc1.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8",
+    "url": "https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/GLmKKh4cuy8TDKO4uKooERdb5CRY9I_HPvQRKI1XeTME7Dc0ccM4VV456WdRGjEexHuzL6aRb0is8h0hiPs0OA/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/master_dynamic_delta.m3u8?type=live",
     "isHD": true
   }
 ]
