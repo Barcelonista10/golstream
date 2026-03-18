@@ -1,20 +1,786 @@
 [
   {
-    "nombre": "FREE TV FAMILIA",
-    "url": "https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-60240f57676235002df19f49.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=8mkSYQRQBt2WjzFyFqP1",
-    "categoria": "premium",
-    "calidad": "HD"
+    "nombre": "ZCL• NICK JR (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54428.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/nick_jrp.png",
+    "categoria": "→ ZAPPING CHILE ←"
   },
   {
-    "nombre": "TV familia",
-    "url": "https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8",
-    "categoria": "premium",
-    "calidad": "HD"
+    "nombre": "ZCL• DISNEY JR (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54423.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/disneyjr.png",
+    "categoria": "→ ZAPPING CHILE ←"
   },
   {
-    "nombre": "Canal 3",
-    "url": "https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8",
-    "categoria": "premium",
-    "calidad": "HD"
+    "nombre": "ZCL• DISCOVERY KIDS (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54429.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/discoverykidsp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• NICKELODEON (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54420.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/yxdZpxXD/nickelodeon.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CARTOON NETWORK (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54424.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/cartoonnetworkp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CARTOONITO (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54426.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/cartoonitob.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISNEY CHANNEL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54422.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/disneychannelp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DREAMWORKS (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54436.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/8zBzWDM9/dreamworks.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ETC TV (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54434.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/etcp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• BABY TV (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54430.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/babytvp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TOONCAST (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54425.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/tooncastp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• NTV (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54433.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/ntv.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TV+ (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54367.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/tvmasp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• LA RED (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54364.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/laredp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TV CHILE (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/56872.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/jq9ytRQ4/tv-chile-blanco.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TVN 3 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/61269.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/zX8fstXT/tvn3blanco.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TVN (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54370.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/tvnp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• MEGA (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54373.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/megap.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CHV (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54378.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/chvp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• GANAR O SERVIR (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/72898.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://www.eldinamo.cl/wp-content/uploads/2024/02/26-125105_emzb_reality-Ganar-o-Servir-880x500.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CANAL 13 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54380.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/13p.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• 13C (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54384.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/13cp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• REC 13 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54386.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/recp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• 24 HORAS (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54371.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/24horasp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CNN CHILE (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54397.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/cnnchilep.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• T13 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54396.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/t13p.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CNN ESPANOL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54399.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/cnnespanolp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CNN INTERNACIONAL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54437.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/ZnHWrd99/cnni.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• BCC WORLD NEW (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54438.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/j2LpXV2z/bbcnews.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• FRANCE 24 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54439.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/WpZLhVRv/fr24es.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ANTENA 3 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54525.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/Antena_3b.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• A&E (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54447.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/ayep.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• A3 SERIES (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54478.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/a3seriesp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• WARNER (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54452.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/warnerp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• SONY (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54451.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/sonyp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• STAR CHANNEL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54441.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/star.channelp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TNT SERIES (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54450.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/tntseriesp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• FX (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54444.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/fxhdp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• COMEDY CENTRAL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54440.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/65RvjyDm/comedy.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• UNIVERSAL TV (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54462.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/universalp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• SYFY (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54446.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/syfyp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TELEMUNDO INTERNACIONAL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54523.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/telemundoinp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• AXN (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54448.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/axnp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• STUDIO UNIVERSAL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54461.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/studiouniversalp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CINEMAX (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54366.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/XJRwqFR9/cinemax.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CINECANAL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54468.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/cinecanalp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TNT (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54449.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/tntp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• PARAMOUNT CHANNEL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54472.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/paramountp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• AMC (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54469.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/amcp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• SPACE (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54470.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/spacep.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• EUROPA EUROPA (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54432.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/Vs7JKXGg/europaeuropa.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TCM (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54476.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/tcmp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HISTORY (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54481.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/historyp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HISTORY 2 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54482.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/h2p.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISCOVERY CHANNEL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54486.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/discoveryp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• NATGEO (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54483.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/natgeop.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISCOVERY TURBO (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54494.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/discovery.turbop.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISCOVERY ID (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54492.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/discovery.investigationp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISCOVERY TLC (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54491.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/discovery.tlc.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• FILM & ARTS (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54516.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/LXQZgPGx/filmandarts.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ANIMAL PLANET (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54485.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/animalplanetp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISCOVERY WORLD (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54489.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/discovery.worldp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISCOVERY SCIENCE (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54493.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/discovery.science.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISCOVERY THEATER (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54490.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/discovery.theaterp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• E! ENTERNAINMENT (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54508.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/eentertainmnentp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DISCOVERY H&H (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54487.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/discovery.homeandhealthp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• MAS CHIC (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54496.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/maschicp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• EL GOURMET (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54498.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/elgourmetp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• DIRECTV SPORTS (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54409.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/directvsportschileb.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ESPN (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54413.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/espnp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ESPN 2 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54414.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/espn2p.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ESPN 3 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54415.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/espn3p.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ESPN EXTRA (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54417.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/espn.extrap.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ESPN 4 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54416.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/ESPN4B.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• FOX SPORTS 1 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54410.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/foxsports1p.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• FOX SPORTS 2 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54411.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/foxsports2p.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• FOX SPORTS 3 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54412.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/foxsports3p.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CDO PREMIUM (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54408.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/8z4D9gRr/cdo.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HTV (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54503.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/htvp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HBO (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54453.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/hbocosubB.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HBO 2 (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54455.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/hbo2b.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HBO FAMILY (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54458.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/hbofamilyb.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HBO+ (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54454.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/HBOMASB.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HBO SIGNATURE (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54457.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/hbosignatureb.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HBO POP (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54460.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/hbopopb.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• HBO XTREME (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54459.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/hboxtreamb.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• UNIVERSAL PREMIERE (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54463.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/universalpremierB.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• UNIVERSAL CINEMA (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54464.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/universalcinamaB.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• UNIVERSAL COMEDY (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54465.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/universalcomedyB.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• UNIVERSAL CRIME (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54466.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/universalcrimeB.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• UNIVERSAL REALITY (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54467.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/Universal_RealityB.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• RT EN ESPANOL (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54400.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/rtenespanolp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TELETRAK (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54419.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/teletrakb.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CAMARA DE DIPUTADOS (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54401.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.net/LOGOS/camarap.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• BIO BIO TV (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54398.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/biobiotvp.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• CAROLINA TV (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/54504.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://puntoz.xyz/LOGOS/carolinatvB.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• ZONA LATINA (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/56873.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://i.postimg.cc/BbqZGL7n/zona-latina-blanco.png",
+    "categoria": "→ ZAPPING CHILE ←"
+  },
+  {
+    "nombre": "ZCL• TIGO SPORTS (HD)",
+    "url": "http://newultra.xyz:8080/live/user1091/37484327/253657.m3u8",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "https://www.comunidad-ola.com/portal/images/Logosempresas/tigo_sports_logo_2.jpg",
+    "categoria": "→ ZAPPING CHILE ←"
   }
 ]
