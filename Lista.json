@@ -1,3 +1,258 @@
-{
-  "m3u": "http://dplatino.net:80/get.php?username=Matriz673&password=Tubular14&type=m3u_plus"
-}
+[
+  {
+    "nombre": "24/7* TlM0N & PUMB∆*",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/456263.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 LOS SIMPSONS",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/316941.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://127.0.0.1/",
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Don gato y su Pandilla ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362429.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 FUTURAMA",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/316942.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://flx.lat:8080/images/daea1a007ed18a34901f1ea896238fc3.png",
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | DRAGON BALL Z",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/316973.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": "http://mundo2.pro:80/images/66f2e8ab629eab6cc052e831beaa21a5.png",
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 l C∆Z∆ F∆NT∆SM∆S retro ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/381419.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 Casa de Mickey mouse ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362461.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Los Pingüinos Madagascar ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366250.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Miracolous",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366253.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Ganes o Pierdas ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366259.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 Picapiedras",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362435.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 Dragon Ball GT",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362436.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 el Mundo de Gumball",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362440.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7  Clarence ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362439.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 l M∆H∆ ¥ EL 0S0",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/383312.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 Padrinos Magicos ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362433.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Los Backyardigans",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366258.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 Pinky y Cerebro ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362437.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Dora la Exploradora ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366252.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Peppa Pig",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362430.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 Blue ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362434.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 Pajaro Loco ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362438.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Bob esponja ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362432.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | L∆ SIRENIT∆ ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/376352.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Princesas DlSN€Y",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366257.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Tom y Jerry ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366256.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 l Shrek",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/381420.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Princesa Sofia ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366255.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | Pato aventura ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366254.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7| Paw Trol",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/362431.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 | LA Pantera Rosa",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/366251.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  },
+  {
+    "nombre": "24/7 l B∆BY SH∆RK ",
+    "url": "http://gama-mx.com:80//live/usuario16IO/8rgei39/407508.ts",
+    "tipo": "hls",
+    "referer": null,
+    "imagen": null,
+    "categoria": "♐ 24/7 INFANTILES ♐"
+  }
+]
