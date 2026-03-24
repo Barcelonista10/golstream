@@ -1,114 +1,93 @@
 [
   {
-    "partido": "Boyacá Chicó vs Deportes Tolima (Opción 1)",
+    "partido": "Deportivo Maldonado vs Torque",
+    "liga": "Primera División",
+    "hora": "12:00",
+    "fecha": "2026-03-24",
+    "url": "https://streamx339.cloud/global1.php?channel=disney1"
+  },
+  {
+    "partido": "Liverpool vs Central Español",
+    "liga": "Primera División",
+    "hora": "15:00",
+    "fecha": "2026-03-24",
+    "url": "https://streamx339.cloud/global1.php?channel=disney2"
+  },
+  {
+    "partido": "Deportivo Pereira vs Cúcuta Deportivo (Opción 1)",
     "liga": "Liga BetPlay",
-    "hora": "14:00",
-    "fecha": "2026-03-23",
+    "hora": "15:30",
+    "fecha": "2026-03-24",
     "url": "https://streamx339.cloud/global1.php?channel=winplus"
   },
   {
-    "partido": "Boyacá Chicó vs Deportes Tolima (Opción 2)",
+    "partido": "Deportivo Pereira vs Cúcuta Deportivo (Opción 2)",
     "liga": "Liga BetPlay",
-    "hora": "14:00",
-    "fecha": "2026-03-23",
+    "hora": "15:30",
+    "fecha": "2026-03-24",
     "url": "https://streamx339.cloud/global1.php?channel=winplus2"
   },
   {
-    "partido": "Boyacá Chicó vs Deportes Tolima (Opción 3)",
-    "liga": "Liga BetPlay",
-    "hora": "14:00",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=fanatiz1"
+    "partido": "Universidad Chile vs Unión La Calera",
+    "liga": "Copa de la Liga",
+    "hora": "16:00",
+    "fecha": "2026-03-24",
+    "url": "https://streamx339.cloud/global1.php?channel=max1"
   },
   {
-    "partido": "CD Castellon vs Cultural Leonesa",
-    "liga": "LaLiga 2",
-    "hora": "14:30",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=hyper1"
-  },
-  {
-    "partido": "Santa Fe vs Medellín (Opción 1)",
+    "partido": "Junior vs Atlético Bucaramanga (Opción 1)",
     "liga": "Liga BetPlay",
-    "hora": "16:10",
-    "fecha": "2026-03-23",
+    "hora": "18:00",
+    "fecha": "2026-03-24",
     "url": "https://streamx339.cloud/global1.php?channel=winplus"
   },
   {
-    "partido": "Santa Fe vs Medellín (Opción 2)",
+    "partido": "Junior vs Atlético Bucaramanga (Opción 2)",
     "liga": "Liga BetPlay",
-    "hora": "16:10",
-    "fecha": "2026-03-23",
+    "hora": "18:00",
+    "fecha": "2026-03-24",
     "url": "https://streamx339.cloud/global1.php?channel=winplus2"
   },
   {
-    "partido": "Santa Fe vs Medellín (Opción 3)",
-    "liga": "Liga BetPlay",
-    "hora": "16:10",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=fanatiz2"
-  },
-  {
-    "partido": "Sportivo Trinidense vs Deportivo Recoleta",
-    "liga": "Copa de Primera",
-    "hora": "16:30",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=fanatiz3"
-  },
-  {
-    "partido": "Estudiantes LP vs Central Córdoba SdE (Opción 1)",
-    "liga": "Liga Profesional",
-    "hora": "17:00",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=espnpremium"
-  },
-  {
-    "partido": "Estudiantes LP vs Central Córdoba SdE (Opción 2)",
-    "liga": "Liga Profesional",
-    "hora": "17:00",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=fanatiz4"
-  },
-  {
-    "partido": "Jaguares de Córdoba vs Rionegro Águilas (Opción 1)",
-    "liga": "Liga BetPlay",
-    "hora": "18:20",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=winplus"
-  },
-  {
-    "partido": "Jaguares de Córdoba vs Rionegro Águilas (Opción 2)",
-    "liga": "Liga BetPlay",
-    "hora": "18:20",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=winplus2"
-  },
-  {
-    "partido": "Jaguares de Córdoba vs Rionegro Águilas (Opción 3)",
-    "liga": "Liga BetPlay",
-    "hora": "18:20",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=fanatiz5"
-  },
-  {
-    "partido": "Rubio Ñú vs Sportivo Ameliano",
-    "liga": "Copa de Primera",
+    "partido": "Deportes Concepción vs Colo-Colo",
+    "liga": "Copa de la Liga",
     "hora": "18:30",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=fanatiz1"
+    "fecha": "2026-03-24",
+    "url": "https://streamx339.cloud/global1.php?channel=max2"
   },
   {
-    "partido": "Huracán vs Barracas Central (Opción 1)",
-    "liga": "Liga Profesional",
-    "hora": "19:15",
-    "fecha": "2026-03-23",
+    "partido": "Deportivo Maldonado vs Torque",
+    "liga": "Primera División",
+    "hora": "18:30",
+    "fecha": "2026-03-24",
+    "url": "https://streamx339.cloud/global1.php?channel=disney1"
+  },
+  {
+    "partido": "Magic vs Cavaliers",
+    "liga": "NBA",
+    "hora": "19:00",
+    "fecha": "2026-03-24",
     "url": "https://streamx339.cloud/global1.php?channel=tntar"
   },
   {
-    "partido": "Huracán vs Barracas Central (Opción 2)",
-    "liga": "Liga Profesional",
-    "hora": "19:15",
-    "fecha": "2026-03-23",
-    "url": "https://streamx339.cloud/global1.php?channel=fanatiz2"
+    "partido": "Fortaleza CEIF vs Deportivo Pasto (Opción 1)",
+    "liga": "Liga BetPlay",
+    "hora": "20:00",
+    "fecha": "2026-03-24",
+    "url": "https://streamx339.cloud/global1.php?channel=winplus"
+  },
+  {
+    "partido": "Fortaleza CEIF vs Deportivo Pasto (Opción 2)",
+    "liga": "Liga BetPlay",
+    "hora": "20:00",
+    "fecha": "2026-03-24",
+    "url": "https://streamx339.cloud/global1.php?channel=winplus2"
+  },
+  {
+    "partido": "Nuggets vs Suns",
+    "liga": "NBA",
+    "hora": "22:00",
+    "fecha": "2026-03-24",
+    "url": "https://streamx339.cloud/global1.php?channel=tntar"
   }
 ]
