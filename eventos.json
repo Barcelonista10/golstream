@@ -1,231 +1,429 @@
 [
   {
-    "title": "09:30 - FIFA Series 2026: Tanzania vs Liechtenstein",
-    "fecha": "",
+    "partido": "FIFA Series 2026: Tanzania vs Liechtenstein",
+    "liga": "",
     "hora": "09:30",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=fifaplus1"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fifaplus1"
   },
   {
-    "title": "10:00 - Amistoso Internacional: Moldavia vs Lituania",
-    "fecha": "",
+    "partido": "Amistoso Internacional: Moldavia vs Lituania",
+    "liga": "",
     "hora": "10:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney16"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney16"
   },
   {
-    "title": "11:00 - Primera División: Racing vs Progreso",
-    "fecha": "",
+    "partido": "Primera División: Racing vs Progreso",
+    "liga": "",
     "hora": "11:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney1"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney1"
   },
   {
-    "title": "12:00 - Mundial 2026 - Eliminatorias de la UEFA: Turquía vs Rumania | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Turquía vs Rumania | Playoffs (Opción 1)",
+    "liga": "",
     "hora": "12:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney2",
-    "s2": "https://streamx339.cloud/global1.php?channel=espn",
-    "s3": "https://streamx339.cloud/global1.php?channel=espn2ar",
-    "s4": "https://streamx339.cloud/global1.php?channel=sportv1",
-    "s5": "https://streamx339.cloud/global1.php?channel=fox2usa"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney2"
   },
   {
-    "title": "12:00 - UEFA Nations League: Gibraltar vs Letonia",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Turquía vs Rumania | Playoffs (Opción 2)",
+    "liga": "",
     "hora": "12:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney3",
-    "s2": "https://streamx339.cloud/global1.php?channel=sportv3"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espn"
   },
   {
-    "title": "12:00 - UEFA Nations League: Malta vs Luxemburgo",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Turquía vs Rumania | Playoffs (Opción 3)",
+    "liga": "",
     "hora": "12:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney4"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espn2ar"
   },
   {
-    "title": "12:00 - Amistoso Internacional: Chipre vs Bielorrusia",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Turquía vs Rumania | Playoffs (Opción 4)",
+    "liga": "",
     "hora": "12:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney5"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=sportv1"
   },
   {
-    "title": "12:00 - Amistoso Internacional: Georgia vs Israel",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Turquía vs Rumania | Playoffs (Opción 5)",
+    "liga": "",
     "hora": "12:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney6"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fox2usa"
   },
   {
-    "title": "14:00 - Primera División: Danubio vs Defensor Sporting",
+    "partido": "UEFA Nations League: Gibraltar vs Letonia (Opción 1)",
+    "liga": "",
+    "hora": "12:00",
     "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney3"
+  },
+  {
+    "partido": "UEFA Nations League: Gibraltar vs Letonia (Opción 2)",
+    "liga": "",
+    "hora": "12:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=sportv3"
+  },
+  {
+    "partido": "UEFA Nations League: Malta vs Luxemburgo",
+    "liga": "",
+    "hora": "12:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney4"
+  },
+  {
+    "partido": "Amistoso Internacional: Chipre vs Bielorrusia",
+    "liga": "",
+    "hora": "12:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney5"
+  },
+  {
+    "partido": "Amistoso Internacional: Georgia vs Israel",
+    "liga": "",
+    "hora": "12:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney6"
+  },
+  {
+    "partido": "Primera División: Danubio vs Defensor Sporting",
+    "liga": "",
     "hora": "14:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney7"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney7"
   },
   {
-    "title": "14:45 - Mundial 2026 - Eliminatorias de la UEFA: Italia vs Irlanda del Norte | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Italia vs Irlanda del Norte | Playoffs (Opción 1)",
+    "liga": "",
     "hora": "14:45",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney8",
-    "s2": "https://streamx339.cloud/global1.php?channel=espn2"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney8"
   },
   {
-    "title": "14:45 - Mundial 2026 - Eliminatorias de la UEFA: Polonia vs Albania | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Italia vs Irlanda del Norte | Playoffs (Opción 2)",
+    "liga": "",
     "hora": "14:45",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney9"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espn2"
   },
   {
-    "title": "14:45 - Mundial 2026 - Eliminatorias de la UEFA: Dinamarca vs Macedonia del Norte | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Polonia vs Albania | Playoffs",
+    "liga": "",
     "hora": "14:45",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney10"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney9"
   },
   {
-    "title": "14:45 - Mundial 2026 - Eliminatorias de la UEFA: República Checa vs República de Irlanda | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Dinamarca vs Macedonia del Norte | Playoffs",
+    "liga": "",
     "hora": "14:45",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney11"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney10"
   },
   {
-    "title": "14:45 - Mundial 2026 - Eliminatorias de la UEFA: Eslovaquia vs Kosovo | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: República Checa vs República de Irlanda | Playoffs",
+    "liga": "",
     "hora": "14:45",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney12"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney11"
   },
   {
-    "title": "14:45 - Mundial 2026 - Eliminatorias de la UEFA: Ucrania vs Suecia | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Eslovaquia vs Kosovo | Playoffs",
+    "liga": "",
     "hora": "14:45",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney13"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney12"
   },
   {
-    "title": "14:45 - Mundial 2026 - Eliminatorias de la UEFA: Gales vs Bosnia-Herzegovina | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Ucrania vs Suecia | Playoffs",
+    "liga": "",
     "hora": "14:45",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney14",
-    "s2": "https://streamx339.cloud/global1.php?channel=espn3"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney13"
   },
   {
-    "title": "15:00 - Amistoso Internacional: Brasil vs Francia",
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Gales vs Bosnia-Herzegovina | Playoffs (Opción 1)",
+    "liga": "",
+    "hora": "14:45",
     "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney14"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatorias de la UEFA: Gales vs Bosnia-Herzegovina | Playoffs (Opción 2)",
+    "liga": "",
+    "hora": "14:45",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espn3"
+  },
+  {
+    "partido": "Amistoso Internacional: Brasil vs Francia (Opción 1)",
+    "liga": "",
     "hora": "15:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney15",
-    "s2": "https://streamx339.cloud/global1.php?channel=espn",
-    "s3": "https://streamx339.cloud/global1.php?channel=espndeportes",
-    "s4": "https://streamx339.cloud/global1.php?channel=espnmx",
-    "s5": "https://streamx339.cloud/global1.php?channel=sportv1"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney15"
   },
   {
-    "title": "16:00 - Copa de la Liga: Deportes Limache vs Palestino",
+    "partido": "Amistoso Internacional: Brasil vs Francia (Opción 2)",
+    "liga": "",
+    "hora": "15:00",
     "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espn"
+  },
+  {
+    "partido": "Amistoso Internacional: Brasil vs Francia (Opción 3)",
+    "liga": "",
+    "hora": "15:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espndeportes"
+  },
+  {
+    "partido": "Amistoso Internacional: Brasil vs Francia (Opción 4)",
+    "liga": "",
+    "hora": "15:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espnmx"
+  },
+  {
+    "partido": "Amistoso Internacional: Brasil vs Francia (Opción 5)",
+    "liga": "",
+    "hora": "15:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=sportv1"
+  },
+  {
+    "partido": "Copa de la Liga: Deportes Limache vs Palestino",
+    "liga": "",
     "hora": "16:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=max1"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=max1"
   },
   {
-    "title": "17:00 - Mundial 2026 - Eliminatoria Interconfederal: Bolivia vs Surinam | Playoffs",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Bolivia vs Surinam | Playoffs (Opción 1)",
+    "liga": "",
     "hora": "17:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=dsports",
-    "s2": "https://streamx339.cloud/global1.php?channel=winsports",
-    "s3": "https://streamx339.cloud/global1.php?channel=fanatiz1",
-    "s4": "https://streamx339.cloud/global1.php?channel=telemundo_ahora",
-    "s5": "https://streamx339.cloud/global1.php?channel=tudnmx",
-    "s6": "https://streamx339.cloud/global1.php?channel=sportv1",
-    "s7": "https://streamx339.cloud/global1.php?channel=cazetv1"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=dsports"
   },
   {
-    "title": "18:00 - Copa de Primera: Deportivo Recoleta vs Rubio Ñú",
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Bolivia vs Surinam | Playoffs (Opción 2)",
+    "liga": "",
+    "hora": "17:00",
     "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=winsports"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Bolivia vs Surinam | Playoffs (Opción 3)",
+    "liga": "",
+    "hora": "17:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fanatiz1"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Bolivia vs Surinam | Playoffs (Opción 4)",
+    "liga": "",
+    "hora": "17:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=telemundo_ahora"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Bolivia vs Surinam | Playoffs (Opción 5)",
+    "liga": "",
+    "hora": "17:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=tudnmx"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Bolivia vs Surinam | Playoffs (Opción 6)",
+    "liga": "",
+    "hora": "17:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=sportv1"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Bolivia vs Surinam | Playoffs (Opción 7)",
+    "liga": "",
+    "hora": "17:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=cazetv1"
+  },
+  {
+    "partido": "Copa de Primera: Deportivo Recoleta vs Rubio Ñú",
+    "liga": "",
     "hora": "18:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=fanatiz2"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fanatiz2"
   },
   {
-    "title": "18:30 - Copa de la Liga: Everton vs O'Higgins",
-    "fecha": "",
+    "partido": "Copa de la Liga: Everton vs O'Higgins",
+    "liga": "",
     "hora": "18:30",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=max2"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=max2"
   },
   {
-    "title": "18:30 - Copa de la Liga: Univ. Concepción vs Cobresal",
-    "fecha": "",
+    "partido": "Copa de la Liga: Univ. Concepción vs Cobresal",
+    "liga": "",
     "hora": "18:30",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=max3"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=max3"
   },
   {
-    "title": "18:30 - Amistoso Internacional: Colombia vs Croacia",
-    "fecha": "",
+    "partido": "Amistoso Internacional: Colombia vs Croacia (Opción 1)",
+    "liga": "",
     "hora": "18:30",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=caracoltv",
-    "s2": "https://streamx339.cloud/global1.php?channel=fox2usa"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=caracoltv"
   },
   {
-    "title": "19:00 - Liga Profesional: Argentinos Juniors vs Lanús",
+    "partido": "Amistoso Internacional: Colombia vs Croacia (Opción 2)",
+    "liga": "",
+    "hora": "18:30",
     "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fox2usa"
+  },
+  {
+    "partido": "Liga Profesional: Argentinos Juniors vs Lanús (Opción 1)",
+    "liga": "",
     "hora": "19:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=tntar",
-    "s2": "https://streamx339.cloud/global1.php?channel=fanatiz3"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=tntar"
   },
   {
-    "title": "21:00 - F1: GP de Japón - Entrenamientos #1",
+    "partido": "Liga Profesional: Argentinos Juniors vs Lanús (Opción 2)",
+    "liga": "",
+    "hora": "19:00",
     "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fanatiz3"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #1 (Opción 1)",
+    "liga": "",
     "hora": "21:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney1",
-    "s2": "https://streamx339.cloud/global1.php?channel=daznf1",
-    "s3": "https://streamx339.cloud/global1.php?channel=fox1ar",
-    "s4": "https://streamx339.cloud/global1.php?channel=espn2",
-    "s5": "https://streamx339.cloud/global1.php?channel=appletv1",
-    "s6": "https://streamx339.cloud/global1.php?channel=sportv3"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=disney1"
   },
   {
-    "title": "22:00 - Mundial 2026 - Eliminatoria Interconfederal: Nueva Caledonia vs Jamaica | Playoffs",
+    "partido": "F1: GP de Japón - Entrenamientos #1 (Opción 2)",
+    "liga": "",
+    "hora": "21:00",
     "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=daznf1"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #1 (Opción 3)",
+    "liga": "",
+    "hora": "21:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fox1ar"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #1 (Opción 4)",
+    "liga": "",
+    "hora": "21:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espn2"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #1 (Opción 5)",
+    "liga": "",
+    "hora": "21:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=appletv1"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #1 (Opción 6)",
+    "liga": "",
+    "hora": "21:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=sportv3"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Nueva Caledonia vs Jamaica | Playoffs (Opción 1)",
+    "liga": "",
     "hora": "22:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=dsports",
-    "s2": "https://streamx339.cloud/global1.php?channel=winsports",
-    "s3": "https://streamx339.cloud/global1.php?channel=fanatiz4",
-    "s4": "https://streamx339.cloud/global1.php?channel=telemundo_ahora",
-    "s5": "https://streamx339.cloud/global1.php?channel=tudnmx",
-    "s6": "https://streamx339.cloud/global1.php?channel=sportv1",
-    "s7": "https://streamx339.cloud/global1.php?channel=cazetv1"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=dsports"
   },
   {
-    "title": "22:00 - FIFA Series 2026: Chile vs Islas de Cabo Verde",
-    "fecha": "",
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Nueva Caledonia vs Jamaica | Playoffs (Opción 2)",
+    "liga": "",
     "hora": "22:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=fifaplus1"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=winsports"
   },
   {
-    "title": "01:00 - F1: GP de Japón - Entrenamientos #2",
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Nueva Caledonia vs Jamaica | Playoffs (Opción 3)",
+    "liga": "",
+    "hora": "22:00",
     "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fanatiz4"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Nueva Caledonia vs Jamaica | Playoffs (Opción 4)",
+    "liga": "",
+    "hora": "22:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=telemundo_ahora"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Nueva Caledonia vs Jamaica | Playoffs (Opción 5)",
+    "liga": "",
+    "hora": "22:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=tudnmx"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Nueva Caledonia vs Jamaica | Playoffs (Opción 6)",
+    "liga": "",
+    "hora": "22:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=sportv1"
+  },
+  {
+    "partido": "Mundial 2026 - Eliminatoria Interconfederal: Nueva Caledonia vs Jamaica | Playoffs (Opción 7)",
+    "liga": "",
+    "hora": "22:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=cazetv1"
+  },
+  {
+    "partido": "FIFA Series 2026: Chile vs Islas de Cabo Verde",
+    "liga": "",
+    "hora": "22:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fifaplus1"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #2 (Opción 1)",
+    "liga": "",
     "hora": "01:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=daznf1",
-    "s2": "https://streamx339.cloud/global1.php?channel=fox1ar",
-    "s3": "https://streamx339.cloud/global1.php?channel=espn",
-    "s4": "https://streamx339.cloud/global1.php?channel=sportv3"
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=daznf1"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #2 (Opción 2)",
+    "liga": "",
+    "hora": "01:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=fox1ar"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #2 (Opción 3)",
+    "liga": "",
+    "hora": "01:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=espn"
+  },
+  {
+    "partido": "F1: GP de Japón - Entrenamientos #2 (Opción 4)",
+    "liga": "",
+    "hora": "01:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=sportv3"
   }
 ]
