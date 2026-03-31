@@ -1,21 +1,23 @@
 [
   {
-    "categoria": "Agenda Deportiva",
-    "items": [
-      {
-        "nombre": "Barcelona vs Madrid",
-        "imagen": "https://i.imgur.com/xyz.jpg",
-        "links": [
-          {
-            "nombre": "Servidor 1",
-            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-          },
-          {
-            "nombre": "Servidor 2",
-            "url": "https://test-streams.mux.dev/test_001/stream.m3u8"
-          }
-        ]
-      }
-    ]
+    "partido": "Millonarios vs Fortaleza CEIF (Win Sports +)",
+    "liga": "Categoría Primera A",
+    "hora": "20:00",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canal.php?stream=winsportsplus"
+  },
+  {
+    "partido": "Millonarios vs Fortaleza CEIF (Win Sports + HD)",
+    "liga": "Categoría Primera A",
+    "hora": "20:00",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canal.php?stream=winsports2"
+  },
+  {
+    "partido": "Millonarios vs Fortaleza CEIF (Win Sports + |  opc3)",
+    "liga": "Categoría Primera A",
+    "hora": "20:00",
+    "fecha": "",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/winplus.html"
   }
 ]
