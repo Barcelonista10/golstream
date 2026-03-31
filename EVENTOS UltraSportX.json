@@ -1,23 +1,25 @@
 [
   {
-    "partido": "Millonarios vs Fortaleza CEIF (Win Sports +)",
-    "liga": "Categoría Primera A",
-    "hora": "20:00",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "partido": "Millonarios vs Fortaleza CEIF (Win Sports + HD)",
-    "liga": "Categoría Primera A",
-    "hora": "20:00",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canal.php?stream=winsports2"
-  },
-  {
-    "partido": "Millonarios vs Fortaleza CEIF (Win Sports + |  opc3)",
-    "liga": "Categoría Primera A",
-    "hora": "20:00",
-    "fecha": "",
-    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/winplus.html"
+    "categoria": "Agenda Deportiva",
+    "items": [
+      {
+        "nombre": "Millonarios vs Fortaleza CEIF",
+        "imagen": "https://i.imgur.com/8Km9tLL.jpg",
+        "links": [
+          {
+            "nombre": "Win Sports +",
+            "url": "https://la14hd.com/vivo/canal.php?stream=winsportsplus"
+          },
+          {
+            "nombre": "Win Sports + HD",
+            "url": "https://la14hd.com/vivo/canal.php?stream=winsports2"
+          },
+          {
+            "nombre": "Opción 3",
+            "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/winplus.html"
+          }
+        ]
+      }
+    ]
   }
 ]
