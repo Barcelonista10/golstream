@@ -1,12 +1,120 @@
 [
   {
-    "partido": "Iraq vs Bolivia",
-    "liga": "Mundial 2026 - Repechaje Interconfederal",
-    "hora": "10:00pm",
+    "partido": "FC Andorra vs Málaga",
+    "liga": "LaLiga 2",
+    "hora": "12:00pm",
     "fecha": "",
-    "Peacock TV | Español": "https://streamtpnew.com/global1.php?stream=peacock2",
-    "Dsports | Español": "https://streamtpnew.com/global1.php?stream=dsports",
-    "Win Sports | Español": "https://streamtpnew.com/global1.php?stream=winsports",
-    "Sport TV 1 BR | Portugues": "https://streamtpnew.com/global1.php?stream=sporttvbr1"
+    "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion"
+  },
+  {
+    "partido": "Racing Santander vs Sporting Gijón",
+    "liga": "LaLiga 2",
+    "hora": "2:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion"
+  },
+  {
+    "partido": "Colo-Colo vs Huachipato",
+    "liga": "Copa de la Liga",
+    "hora": "4:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=max1"
+  },
+  {
+    "partido": "Alianza vs Deportivo Pasto",
+    "liga": "Liga BetPlay",
+    "hora": "4:10pm",
+    "fecha": "",
+    "Win Sports +": "https://streamtpnew.com/global1.php?stream=winplus",
+    "Win Sports + (Op2)": "https://streamtpnew.com/global1.php?stream=winplus2"
+  },
+  {
+    "partido": "Rubio Ñú vs Guaraní",
+    "liga": "Copa de Primera",
+    "hora": "4:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz1"
+  },
+  {
+    "partido": "Defensa y Justicia vs Chaco For Ever",
+    "liga": "Copa Argentina",
+    "hora": "5:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=tycsports"
+  },
+  {
+    "partido": "Botafogo vs Mirassol",
+    "liga": "Brasileirão",
+    "hora": "5:30pm",
+    "fecha": "",
+    "Premiere 1 BR": "https://streamtpnew.com/global1.php?stream=premiere1",
+    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz2"
+  },
+  {
+    "partido": "Internacional vs São Paulo",
+    "liga": "Brasileirão",
+    "hora": "5:30pm",
+    "fecha": "",
+    "Premiere 2 BR": "https://streamtpnew.com/global1.php?stream=premiere2",
+    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz3"
+  },
+  {
+    "partido": "Cruzeiro vs Vitória",
+    "liga": "Brasileirão",
+    "hora": "6:00pm",
+    "fecha": "",
+    "Premiere 3 BR": "https://streamtpnew.com/global1.php?stream=premiere3",
+    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz4"
+  },
+  {
+    "partido": "Bahia vs Athletico-PR",
+    "liga": "Brasileirão",
+    "hora": "6:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz5"
+  },
+  {
+    "partido": "Lanús vs Platense",
+    "liga": "Liga Profesional",
+    "hora": "6:00pm",
+    "fecha": "",
+    "TNT Sports Argentina": "https://streamtpnew.com/global1.php?stream=tntsports",
+    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz6"
+  },
+  {
+    "partido": "Coritiba vs Vasco da Gama",
+    "liga": "Brasileirão",
+    "hora": "6:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz7"
+  },
+  {
+    "partido": "Santa Fe vs Llaneros",
+    "liga": "Liga BetPlay",
+    "hora": "6:30pm",
+    "fecha": "",
+    "Win Sports +": "https://streamtpnew.com/global1.php?stream=winplus",
+    "Win Sports + (Op2)": "https://streamtpnew.com/global1.php?stream=winplus2"
+  },
+  {
+    "partido": "Sportivo Trinidense vs Olimpia",
+    "liga": "Copa de Primera",
+    "hora": "6:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz8"
+  },
+  {
+    "partido": "Instituto vs Atlanta",
+    "liga": "Copa Argentina",
+    "hora": "7:15pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=tycsports"
+  },
+  {
+    "partido": "Fluminense vs Corinthians",
+    "liga": "Brasileirão",
+    "hora": "7:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz9"
   }
 ]
