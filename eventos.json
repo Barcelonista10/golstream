@@ -1,120 +1,126 @@
 [
   {
-    "partido": "FC Andorra vs Málaga",
-    "liga": "LaLiga 2",
-    "hora": "12:00pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion"
-  },
-  {
     "partido": "Racing Santander vs Sporting Gijón",
     "liga": "LaLiga 2",
-    "hora": "2:30pm",
+    "hora": "14:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=laligahypermotion"
+    "url": "https://streamx339.cloud/global1.php?channel=hyper1"
   },
   {
     "partido": "Colo-Colo vs Huachipato",
     "liga": "Copa de la Liga",
-    "hora": "4:00pm",
+    "hora": "16:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=max1"
+    "url": "https://streamx339.cloud/global1.php?channel=max1"
   },
   {
     "partido": "Alianza vs Deportivo Pasto",
     "liga": "Liga BetPlay",
-    "hora": "4:10pm",
+    "hora": "16:10",
     "fecha": "",
-    "Win Sports +": "https://streamtpnew.com/global1.php?stream=winplus",
-    "Win Sports + (Op2)": "https://streamtpnew.com/global1.php?stream=winplus2"
+    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
+    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
   },
   {
     "partido": "Rubio Ñú vs Guaraní",
     "liga": "Copa de Primera",
-    "hora": "4:30pm",
+    "hora": "16:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz1"
+    "url": "https://streamx339.cloud/global1.php?channel=fanatiz1"
   },
   {
     "partido": "Defensa y Justicia vs Chaco For Ever",
     "liga": "Copa Argentina",
-    "hora": "5:00pm",
+    "hora": "17:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tycsports"
+    "tyc": "https://streamx339.cloud/global1.php?channel=tyc",
+    "tycint": "https://streamx339.cloud/global1.php?channel=tycint"
   },
   {
     "partido": "Botafogo vs Mirassol",
     "liga": "Brasileirão",
-    "hora": "5:30pm",
+    "hora": "17:30",
     "fecha": "",
-    "Premiere 1 BR": "https://streamtpnew.com/global1.php?stream=premiere1",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz2"
+    "premiere1": "https://streamx339.cloud/global1.php?channel=premiere1",
+    "fanatiz2": "https://streamx339.cloud/global1.php?channel=fanatiz2"
   },
   {
     "partido": "Internacional vs São Paulo",
     "liga": "Brasileirão",
-    "hora": "5:30pm",
+    "hora": "17:30",
     "fecha": "",
-    "Premiere 2 BR": "https://streamtpnew.com/global1.php?stream=premiere2",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz3"
+    "premiere2": "https://streamx339.cloud/global1.php?channel=premiere2",
+    "fanatiz3": "https://streamx339.cloud/global1.php?channel=fanatiz3"
   },
   {
     "partido": "Cruzeiro vs Vitória",
     "liga": "Brasileirão",
-    "hora": "6:00pm",
+    "hora": "18:00",
     "fecha": "",
-    "Premiere 3 BR": "https://streamtpnew.com/global1.php?stream=premiere3",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz4"
+    "premiere3": "https://streamx339.cloud/global1.php?channel=premiere3",
+    "fanatiz4": "https://streamx339.cloud/global1.php?channel=fanatiz4"
   },
   {
     "partido": "Bahia vs Athletico-PR",
     "liga": "Brasileirão",
-    "hora": "6:00pm",
+    "hora": "18:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz5"
+    "premiere5": "https://streamx339.cloud/global1.php?channel=premiere5",
+    "fanatiz5": "https://streamx339.cloud/global1.php?channel=fanatiz5"
   },
   {
     "partido": "Lanús vs Platense",
     "liga": "Liga Profesional",
-    "hora": "6:00pm",
+    "hora": "18:00",
     "fecha": "",
-    "TNT Sports Argentina": "https://streamtpnew.com/global1.php?stream=tntsports",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz6"
+    "tntar": "https://streamx339.cloud/global1.php?channel=tntar",
+    "fanatiz6": "https://streamx339.cloud/global1.php?channel=fanatiz6"
   },
   {
     "partido": "Coritiba vs Vasco da Gama",
     "liga": "Brasileirão",
-    "hora": "6:30pm",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz7"
+    "premiere4": "https://streamx339.cloud/global1.php?channel=premiere4",
+    "fanatiz7": "https://streamx339.cloud/global1.php?channel=fanatiz7"
   },
   {
     "partido": "Santa Fe vs Llaneros",
     "liga": "Liga BetPlay",
-    "hora": "6:30pm",
+    "hora": "18:30",
     "fecha": "",
-    "Win Sports +": "https://streamtpnew.com/global1.php?stream=winplus",
-    "Win Sports + (Op2)": "https://streamtpnew.com/global1.php?stream=winplus2"
+    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
+    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
   },
   {
     "partido": "Sportivo Trinidense vs Olimpia",
     "liga": "Copa de Primera",
-    "hora": "6:30pm",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz8"
+    "url": "https://streamx339.cloud/global1.php?channel=fanatiz8"
   },
   {
     "partido": "Instituto vs Atlanta",
     "liga": "Copa Argentina",
-    "hora": "7:15pm",
+    "hora": "19:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tycsports"
+    "tyc": "https://streamx339.cloud/global1.php?channel=tyc",
+    "tycint": "https://streamx339.cloud/global1.php?channel=tycint"
   },
   {
     "partido": "Fluminense vs Corinthians",
     "liga": "Brasileirão",
-    "hora": "7:30pm",
+    "hora": "19:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz9"
+    "winsports": "https://streamx339.cloud/global1.php?channel=winsports",
+    "fanatiz9": "https://streamx339.cloud/global1.php?channel=fanatiz9"
+  },
+  {
+    "partido": "Atlético Nacional vs Cúcuta Deportivo",
+    "liga": "Liga BetPlay",
+    "hora": "20:30",
+    "fecha": "",
+    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
+    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
   }
 ]
