@@ -2,127 +2,145 @@
   {
     "partido": "Barcelona vs Real Madrid",
     "liga": "UEFA Women's Champions League",
-    "hora": "11:45am",
+    "hora": "11:45",
     "fecha": "",
-    "ESPN": "https://streamtpnew.com/global1.php?stream=espn"
+    "espn": "https://streamx339.cloud/global1.php?channel=espn",
+    "espndeportes": "https://streamx339.cloud/global1.php?channel=espndeportes"
   },
   {
     "partido": "Las Palmas vs Granada",
     "liga": "LaLiga 2",
-    "hora": "12:00pm",
+    "hora": "12:00",
     "fecha": "",
-    "laligahypermotion": "https://streamtpnew.com/global1.php?stream=laligahypermotion"
+    "url": "https://streamx339.cloud/global1.php?channel=hyper1"
   },
   {
     "partido": "Barracas Central vs Sarmiento",
     "liga": "Liga Profesional",
-    "hora": "1:00pm",
+    "hora": "13:00",
     "fecha": "",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz1",
-    "ESPN Premium Argentina": "https://streamtpnew.com/global1.php?stream=espnpremium"
+    "espnpremium": "https://streamx339.cloud/global1.php?channel=espnpremium",
+    "fanatiz1": "https://streamx339.cloud/global1.php?channel=fanatiz1"
+  },
+  {
+    "partido": "CD Castellon vs Almería",
+    "liga": "LaLiga 2",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=hyper2"
+  },
+  {
+    "partido": "Real Sociedad II vs Eibar",
+    "liga": "LaLiga 2",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://streamx339.cloud/global1.php?channel=hyper3"
   },
   {
     "partido": "Boyacá Chicó vs Deportivo Pereira",
     "liga": "Liga BetPlay",
-    "hora": "2:00pm",
+    "hora": "14:00",
     "fecha": "",
-    "Win Sports +": "https://streamtpnew.com/global1.php?stream=winplus",
-    "Win Sports + (Op2)": "https://streamtpnew.com/global1.php?stream=winplus2"
+    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
+    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
   },
   {
     "partido": "OL Lyonnes vs Wolfsburg",
     "liga": "UEFA Women's Champions League",
-    "hora": "2:00pm",
+    "hora": "14:00",
     "fecha": "",
-    "ESPN": "https://streamtpnew.com/global1.php?stream=espn"
+    "espn": "https://streamx339.cloud/global1.php?channel=espn",
+    "espndeportes": "https://streamx339.cloud/global1.php?channel=espndeportes"
   },
   {
     "partido": "Leganés vs Real Zaragoza",
     "liga": "LaLiga 2",
-    "hora": "2:30pm",
+    "hora": "14:30",
     "fecha": "",
-    "laligahypermotion": "https://streamtpnew.com/global1.php?stream=laligahypermotion"
+    "url": "https://streamx339.cloud/global1.php?channel=hyper1"
   },
   {
     "partido": "Tigre vs Independiente Rivadavia",
     "liga": "Liga Profesional",
-    "hora": "3:30pm",
+    "hora": "15:30",
     "fecha": "",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz2",
-    "TNT Sports Argentina": "https://streamtpnew.com/global1.php?stream=tntsports"
+    "tntar": "https://streamx339.cloud/global1.php?channel=tntar",
+    "fanatiz2": "https://streamx339.cloud/global1.php?channel=fanatiz2",
+    "tycint": "https://streamx339.cloud/global1.php?channel=tycint"
   },
   {
     "partido": "Universidad Católica vs Palestino",
     "liga": "Liga de Primera",
-    "hora": "4:00pm",
+    "hora": "16:00",
     "fecha": "",
-    "MAX1": "https://streamtpnew.com/global1.php?stream=max1"
+    "url": "https://streamx339.cloud/global1.php?channel=max1"
   },
   {
     "partido": "América de Cali vs Atlético Bucaramanga",
     "liga": "Liga BetPlay",
-    "hora": "4:10pm",
+    "hora": "16:10",
     "fecha": "",
-    "Win Sports +": "https://streamtpnew.com/global1.php?stream=winplus",
-    "Win Sports + (Op2)": "https://streamtpnew.com/global1.php?stream=winplus2"
+    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
+    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
   },
   {
     "partido": "Santos vs Remo",
     "liga": "Brasileirão",
-    "hora": "5:00pm",
+    "hora": "17:00",
     "fecha": "",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz3",
-    "Premiere 1 BR": "https://streamtpnew.com/global1.php?stream=premiere1"
+    "premiere1": "https://streamx339.cloud/global1.php?channel=premiere1",
+    "fanatiz3": "https://streamx339.cloud/global1.php?channel=fanatiz3"
   },
   {
     "partido": "Chapecoense vs Atlético Mineiro",
     "liga": "Brasileirão",
-    "hora": "5:00pm",
+    "hora": "17:00",
     "fecha": "",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz4",
-    "Premiere 3 BR": "https://streamtpnew.com/global1.php?stream=premiere3"
+    "winsports": "https://streamx339.cloud/global1.php?channel=winsports",
+    "fanatiz4": "https://streamx339.cloud/global1.php?channel=fanatiz4",
+    "premiere3": "https://streamx339.cloud/global1.php?channel=premiere3"
   },
   {
     "partido": "Jaguares de Córdoba vs Millonarios",
     "liga": "Liga BetPlay",
-    "hora": "6:20pm",
+    "hora": "18:20",
     "fecha": "",
-    "Win Sports +": "https://streamtpnew.com/global1.php?stream=winplus",
-    "Win Sports + (Op2)": "https://streamtpnew.com/global1.php?stream=winplus2"
+    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
+    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
   },
   {
     "partido": "Talleres Córdoba vs Boca Juniors",
     "liga": "Liga Profesional",
-    "hora": "6:30pm",
+    "hora": "18:30",
     "fecha": "",
-    "Disney+": "https://streamtpnew.com/global1.php?stream=disney1",
-    "ESPN": "https://streamtpnew.com/global1.php?stream=espn",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz5",
-    "ESPN Premium Argentina": "https://streamtpnew.com/global1.php?stream=espnpremium"
+    "disney1": "https://streamx339.cloud/global1.php?channel=disney1",
+    "espnpremium": "https://streamx339.cloud/global1.php?channel=espnpremium",
+    "fanatiz5": "https://streamx339.cloud/global1.php?channel=fanatiz5",
+    "espn": "https://streamx339.cloud/global1.php?channel=espn"
   },
   {
     "partido": "Palmeiras vs Grêmio",
     "liga": "Brasileirão",
-    "hora": "7:30pm",
+    "hora": "19:30",
     "fecha": "",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz1",
-    "Premiere 3 BR": "https://streamtpnew.com/global1.php?stream=premiere3",
-    "Win Sports": "https://streamtpnew.com/global1.php?stream=winsports"
+    "winsports": "https://streamx339.cloud/global1.php?channel=winsports",
+    "premiere3": "https://streamx339.cloud/global1.php?channel=premiere3",
+    "fanatiz1": "https://streamx339.cloud/global1.php?channel=fanatiz1"
   },
   {
     "partido": "RB Bragantino vs Flamengo",
     "liga": "Brasileirão",
-    "hora": "7:30pm",
+    "hora": "19:30",
     "fecha": "",
-    "Fanatiz": "https://streamtpnew.com/global1.php?stream=fanatiz2",
-    "Premiere 1 BR": "https://streamtpnew.com/global1.php?stream=premiere1"
+    "premiere1": "https://streamx339.cloud/global1.php?channel=premiere1",
+    "fanatiz2": "https://streamx339.cloud/global1.php?channel=fanatiz2"
   },
   {
     "partido": "Once Caldas vs Medellín",
     "liga": "Liga BetPlay",
-    "hora": "8:30pm",
+    "hora": "20:30",
     "fecha": "",
-    "Win Sports +": "https://streamtpnew.com/global1.php?stream=winplus",
-    "Win Sports + (Op2)": "https://streamtpnew.com/global1.php?stream=winplus2"
+    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
+    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
   }
 ]
