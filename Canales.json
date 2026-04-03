@@ -1,18 +1,310 @@
 [
   {
-    "titulo": "Peaky Blinders: El hombre inmortal",
-    "genero": "Crimen / Drama",
-    "anio": "2026",
-    "duracion": "",
-    "poster": "https://image.tmdb.org/t/p/w300/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
-    "url": "https://pelicinehd.com/?trembed=1&trid=18893&trtype=1"
+    "nombre": "ESPN",
+    "categoria": "LATINOAMERICA",
+    "stream": "espn",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+    "activo": true
   },
   {
-    "titulo": "Peaky Blinders: El hombre inmortal",
-    "genero": "Crimen / Drama",
-    "anio": "2026",
-    "duracion": "",
-    "poster": "https://image.tmdb.org/t/p/w300/l9S8MLUyi2diTc2Gf3KDAOQTuVx.jpg",
-    "url": "https://pelicinehd.com/?trembed=0&trid=18893&trtype=1"
+    "nombre": "ESPN 2",
+    "categoria": "LATINOAMERICA",
+    "stream": "espn2",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN 3",
+    "categoria": "LATINOAMERICA",
+    "stream": "espn3",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN 4",
+    "categoria": "LATINOAMERICA",
+    "stream": "espn4",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN 5",
+    "categoria": "LATINOAMERICA",
+    "stream": "espn5",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN 6",
+    "categoria": "LATINOAMERICA",
+    "stream": "espn6",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn6",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN 7",
+    "categoria": "LATINOAMERICA",
+    "stream": "espn7",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn7",
+    "activo": true
+  },
+  {
+    "nombre": "DSports",
+    "categoria": "LATINOAMERICA",
+    "stream": "dsports",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
+    "activo": true
+  },
+  {
+    "nombre": "DSports 2",
+    "categoria": "LATINOAMERICA",
+    "stream": "dsports2",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+    "activo": true
+  },
+  {
+    "nombre": "DSports Plus",
+    "categoria": "LATINOAMERICA",
+    "stream": "dsportsplus",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
+    "activo": true
+  },
+  {
+    "nombre": "ECDF LigaPro (eventos)",
+    "categoria": "LATINOAMERICA",
+    "stream": "ecdf_ligapro",
+    "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
+    "activo": true
+  },
+  {
+    "nombre": "Fox Sports",
+    "categoria": "ARGENTINA",
+    "stream": "foxsports",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
+    "activo": true
+  },
+  {
+    "nombre": "Fox Sports 2",
+    "categoria": "ARGENTINA",
+    "stream": "foxsports2",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2",
+    "activo": true
+  },
+  {
+    "nombre": "Fox Sports 3",
+    "categoria": "ARGENTINA",
+    "stream": "foxsports3",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3",
+    "activo": true
+  },
+  {
+    "nombre": "TNT Sports",
+    "categoria": "ARGENTINA",
+    "stream": "tntsports",
+    "url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN Premium",
+    "categoria": "ARGENTINA",
+    "stream": "espnpremium",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
+    "activo": true
+  },
+  {
+    "nombre": "TyC Sports",
+    "categoria": "ARGENTINA",
+    "stream": "tycsports",
+    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
+    "activo": true
+  },
+  {
+    "nombre": "Telefe",
+    "categoria": "ARGENTINA",
+    "stream": "telefe",
+    "url": "https://la14hd.com/vivo/canales.php?stream=telefe",
+    "activo": true
+  },
+  {
+    "nombre": "Liga1 MAX",
+    "categoria": "PERÚ",
+    "stream": "liga1max",
+    "url": "https://la14hd.com/vivo/canales.php?stream=liga1max",
+    "activo": true
+  },
+  {
+    "nombre": "Win Sports Plus",
+    "categoria": "COLOMBIA",
+    "stream": "winsportsplus",
+    "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
+    "activo": true
+  },
+  {
+    "nombre": "Win Sports plus (2)",
+    "categoria": "COLOMBIA",
+    "stream": "winsports2",
+    "url": "https://la14hd.com/vivo/canales.php?stream=winsports2",
+    "activo": true
+  },
+  {
+    "nombre": "Win Sports",
+    "categoria": "COLOMBIA",
+    "stream": "winsports",
+    "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
+    "activo": true
+  },
+  {
+    "nombre": "Fox Sports",
+    "categoria": "MÉXICO",
+    "stream": "foxsportsmx",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsportsmx",
+    "activo": false
+  },
+  {
+    "nombre": "Fox Sports 3",
+    "categoria": "MÉXICO",
+    "stream": "foxsports3mx",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3mx",
+    "activo": false
+  },
+  {
+    "nombre": "Fox Sports Premium",
+    "categoria": "MÉXICO",
+    "stream": "foxsportspremium",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsportspremium",
+    "activo": false
+  },
+  {
+    "nombre": "ESPN",
+    "categoria": "MÉXICO",
+    "stream": "espnmx",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espnmx",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN 2",
+    "categoria": "MÉXICO",
+    "stream": "espn2mx",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn2mx",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN 4",
+    "categoria": "MÉXICO",
+    "stream": "espn4mx",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn4mx",
+    "activo": true
+  },
+  {
+    "nombre": "Azteca 7",
+    "categoria": "MÉXICO",
+    "stream": "azteca7",
+    "url": "https://la14hd.com/vivo/canales.php?stream=azteca7",
+    "activo": true
+  },
+  {
+    "nombre": "TVC Deportes",
+    "categoria": "MÉXICO",
+    "stream": "tvc_deportes",
+    "url": "https://la14hd.com/vivo/canales.php?stream=tvc_deportes",
+    "activo": true
+  },
+  {
+    "nombre": "Azteca Deportes",
+    "categoria": "MÉXICO",
+    "stream": "azteca_deportes",
+    "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes",
+    "activo": true
+  },
+  {
+    "nombre": "Sky Sports LaLiga",
+    "categoria": "MÉXICO",
+    "stream": "sky_sports_laliga",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga",
+    "activo": true
+  },
+  {
+    "nombre": "Fox Deportes",
+    "categoria": "USA",
+    "stream": "foxdeportes",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxdeportes",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN Deportes",
+    "categoria": "USA",
+    "stream": "espndeportes",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
+    "activo": true
+  },
+  {
+    "nombre": "TUDN",
+    "categoria": "USA",
+    "stream": "tudn",
+    "url": "https://la14hd.com/vivo/canales.php?stream=tudn",
+    "activo": true
+  },
+  {
+    "nombre": "BeIN Sports Español",
+    "categoria": "USA",
+    "stream": "beinsportes",
+    "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
+    "activo": true
+  },
+  {
+    "nombre": "BeIN Sports Xtra Español",
+    "categoria": "USA",
+    "stream": "beinsport_xtra_espanol",
+    "url": "https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol",
+    "activo": true
+  },
+  {
+    "nombre": "Telemundo",
+    "categoria": "USA",
+    "stream": "telemundo",
+    "url": "https://la14hd.com/vivo/canales.php?stream=telemundo",
+    "activo": true
+  },
+  {
+    "nombre": "TNT Sports Chile",
+    "categoria": "CHILE",
+    "stream": "eventos13",
+    "url": "https://la14hd.com/vivo/canales.php?stream=eventos13",
+    "activo": false
+  },
+  {
+    "nombre": "Premiere 1",
+    "categoria": "BRASIL",
+    "stream": "premiere1",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere1",
+    "activo": true
+  },
+  {
+    "nombre": "Sportv",
+    "categoria": "BRASIL",
+    "stream": "sportv",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sportv",
+    "activo": true
+  },
+  {
+    "nombre": "Sportv 2",
+    "categoria": "BRASIL",
+    "stream": "sportv2",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sportv2",
+    "activo": true
+  },
+  {
+    "nombre": "Sportv 3",
+    "categoria": "BRASIL",
+    "stream": "sportv3",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sportv3",
+    "activo": true
+  },
+  {
+    "nombre": "LaLigaTV BAR",
+    "categoria": "ESPAÑA",
+    "stream": "laligatvbar",
+    "url": "https://la14hd.com/vivo/canales.php?stream=laligatvbar",
+    "activo": false
   }
 ]
