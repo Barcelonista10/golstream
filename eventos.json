@@ -1,146 +1,143 @@
 [
   {
-    "partido": "Barcelona vs Real Madrid",
-    "liga": "UEFA Women's Champions League",
-    "hora": "11:45",
+    "title": "11:00 - Liga 1: Sporting Cristal vs Deportivo Moquegua",
     "fecha": "",
-    "espn": "https://streamx339.cloud/global1.php?channel=espn",
-    "espndeportes": "https://streamx339.cloud/global1.php?channel=espndeportes"
+    "hora": "11:00",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=fanatiz1"
   },
   {
-    "partido": "Las Palmas vs Granada",
-    "liga": "LaLiga 2",
-    "hora": "12:00",
+    "title": "13:00 - Liga Profesional: Gimnasia Mendoza vs Vélez Sarsfield",
     "fecha": "",
-    "url": "https://streamx339.cloud/global1.php?channel=hyper1"
-  },
-  {
-    "partido": "Barracas Central vs Sarmiento",
-    "liga": "Liga Profesional",
     "hora": "13:00",
-    "fecha": "",
-    "espnpremium": "https://streamx339.cloud/global1.php?channel=espnpremium",
-    "fanatiz1": "https://streamx339.cloud/global1.php?channel=fanatiz1"
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=tntar",
+    "s2": "https://streamx339.cloud/global1.php?channel=fanatiz2",
+    "s3": "https://streamx339.cloud/global1.php?channel=tycint"
   },
   {
-    "partido": "CD Castellon vs Almería",
-    "liga": "LaLiga 2",
+    "title": "13:00 - Liga Profesional Saudí: Al Nassr vs Al Najma",
+    "fecha": "",
     "hora": "13:00",
-    "fecha": "",
-    "url": "https://streamx339.cloud/global1.php?channel=hyper2"
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=foxone1"
   },
   {
-    "partido": "Real Sociedad II vs Eibar",
-    "liga": "LaLiga 2",
-    "hora": "13:00",
+    "title": "13:45 - Ligue 1: PSG vs Toulouse",
     "fecha": "",
-    "url": "https://streamx339.cloud/global1.php?channel=hyper3"
+    "hora": "13:45",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=disney1",
+    "s2": "https://streamx339.cloud/global1.php?channel=espn",
+    "s3": "https://streamx339.cloud/global1.php?channel=foxone2"
   },
   {
-    "partido": "Boyacá Chicó vs Deportivo Pereira",
-    "liga": "Liga BetPlay",
+    "title": "14:00 - LaLiga: Rayo Vallecano vs Elche",
+    "fecha": "",
     "hora": "14:00",
-    "fecha": "",
-    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
-    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=disney2",
+    "s2": "https://streamx339.cloud/global1.php?channel=espn5",
+    "s3": "https://streamx339.cloud/global1.php?channel=espndeportes",
+    "s4": "https://streamx339.cloud/global1.php?channel=espnplus1",
+    "s5": "https://streamx339.cloud/global1.php?channel=espnplus2"
   },
   {
-    "partido": "OL Lyonnes vs Wolfsburg",
-    "liga": "UEFA Women's Champions League",
-    "hora": "14:00",
+    "title": "15:00 - Liga 1: Alianza Atlético vs Atlético Grau",
     "fecha": "",
-    "espn": "https://streamx339.cloud/global1.php?channel=espn",
-    "espndeportes": "https://streamx339.cloud/global1.php?channel=espndeportes"
+    "hora": "15:00",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=fanatiz3"
   },
   {
-    "partido": "Leganés vs Real Zaragoza",
-    "liga": "LaLiga 2",
-    "hora": "14:30",
+    "title": "15:00 - Primera División: Boston River vs Wanderers",
     "fecha": "",
-    "url": "https://streamx339.cloud/global1.php?channel=hyper1"
+    "hora": "15:00",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=disney3"
   },
   {
-    "partido": "Tigre vs Independiente Rivadavia",
-    "liga": "Liga Profesional",
+    "title": "15:15 - Liga Profesional: Unión Santa Fe vs Deportivo Riestra",
+    "fecha": "",
+    "hora": "15:15",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=tntar",
+    "s2": "https://streamx339.cloud/global1.php?channel=fanatiz4",
+    "s3": "https://streamx339.cloud/global1.php?channel=tycint"
+  },
+  {
+    "title": "15:30 - Liga de Primera: Coquimbo Unido vs Cobresal",
+    "fecha": "",
     "hora": "15:30",
-    "fecha": "",
-    "tntar": "https://streamx339.cloud/global1.php?channel=tntar",
-    "fanatiz2": "https://streamx339.cloud/global1.php?channel=fanatiz2",
-    "tycint": "https://streamx339.cloud/global1.php?channel=tycint"
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=max1"
   },
   {
-    "partido": "Universidad Católica vs Palestino",
-    "liga": "Liga de Primera",
-    "hora": "16:00",
+    "title": "17:30 - Liga Profesional: San Lorenzo vs Estudiantes LP",
     "fecha": "",
-    "url": "https://streamx339.cloud/global1.php?channel=max1"
+    "hora": "17:30",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=espnpremium",
+    "s2": "https://streamx339.cloud/global1.php?channel=fanatiz5",
+    "s3": "https://streamx339.cloud/global1.php?channel=tycint"
   },
   {
-    "partido": "América de Cali vs Atlético Bucaramanga",
-    "liga": "Liga BetPlay",
-    "hora": "16:10",
+    "title": "18:00 - Liga de Primera: O'Higgins vs Audax Italiano",
     "fecha": "",
-    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
-    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
+    "hora": "18:00",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=max2"
   },
   {
-    "partido": "Santos vs Remo",
-    "liga": "Brasileirão",
-    "hora": "17:00",
+    "title": "18:15 - Liga 1: Cienciano vs ADT",
     "fecha": "",
-    "premiere1": "https://streamx339.cloud/global1.php?channel=premiere1",
-    "fanatiz3": "https://streamx339.cloud/global1.php?channel=fanatiz3"
+    "hora": "18:15",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=fanatiz6"
   },
   {
-    "partido": "Chapecoense vs Atlético Mineiro",
-    "liga": "Brasileirão",
-    "hora": "17:00",
+    "title": "18:20 - Liga BetPlay: Fortaleza CEIF vs Inter Bogotá",
     "fecha": "",
-    "winsports": "https://streamx339.cloud/global1.php?channel=winsports",
-    "fanatiz4": "https://streamx339.cloud/global1.php?channel=fanatiz4",
-    "premiere3": "https://streamx339.cloud/global1.php?channel=premiere3"
-  },
-  {
-    "partido": "Jaguares de Córdoba vs Millonarios",
-    "liga": "Liga BetPlay",
     "hora": "18:20",
-    "fecha": "",
-    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
-    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=winplus",
+    "s2": "https://streamx339.cloud/global1.php?channel=winplus2"
   },
   {
-    "partido": "Talleres Córdoba vs Boca Juniors",
-    "liga": "Liga Profesional",
+    "title": "18:30 - Primera División: Nacional vs Central Español",
+    "fecha": "",
     "hora": "18:30",
-    "fecha": "",
-    "disney1": "https://streamx339.cloud/global1.php?channel=disney1",
-    "espnpremium": "https://streamx339.cloud/global1.php?channel=espnpremium",
-    "fanatiz5": "https://streamx339.cloud/global1.php?channel=fanatiz5",
-    "espn": "https://streamx339.cloud/global1.php?channel=espn"
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=disney1"
   },
   {
-    "partido": "Palmeiras vs Grêmio",
-    "liga": "Brasileirão",
-    "hora": "19:30",
+    "title": "20:00 - Liga MX: Puebla vs Juárez",
     "fecha": "",
-    "winsports": "https://streamx339.cloud/global1.php?channel=winsports",
-    "premiere3": "https://streamx339.cloud/global1.php?channel=premiere3",
-    "fanatiz1": "https://streamx339.cloud/global1.php?channel=fanatiz1"
+    "hora": "20:00",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=tudnus",
+    "s2": "https://streamx339.cloud/global1.php?channel=foxone1"
   },
   {
-    "partido": "RB Bragantino vs Flamengo",
-    "liga": "Brasileirão",
-    "hora": "19:30",
+    "title": "20:30 - Liga BetPlay: Junior vs Deportivo Cali",
     "fecha": "",
-    "premiere1": "https://streamx339.cloud/global1.php?channel=premiere1",
-    "fanatiz2": "https://streamx339.cloud/global1.php?channel=fanatiz2"
-  },
-  {
-    "partido": "Once Caldas vs Medellín",
-    "liga": "Liga BetPlay",
     "hora": "20:30",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=winplus",
+    "s2": "https://streamx339.cloud/global1.php?channel=winplus2"
+  },
+  {
+    "title": "22:00 - Liga MX: Necaxa vs Mazatlán",
     "fecha": "",
-    "winplus": "https://streamx339.cloud/global1.php?channel=winplus",
-    "winplus2": "https://streamx339.cloud/global1.php?channel=winplus2"
+    "hora": "22:00",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=clarosports"
+  },
+  {
+    "title": "22:06 - Liga MX: Tijuana vs Tigres UANL",
+    "fecha": "",
+    "hora": "22:06",
+    "duracion": 120,
+    "s1": "https://streamx339.cloud/global1.php?channel=tudnus"
   }
 ]
