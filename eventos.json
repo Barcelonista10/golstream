@@ -1,143 +1,156 @@
 [
   {
-    "title": "11:00 - Liga 1: Sporting Cristal vs Deportivo Moquegua",
+    "partido": "Gimnasia Mendoza vs Vélez Sarsfield (TNT Sports Argentina)",
+    "liga": "Liga Profesional",
+    "hora": "1:00pm",
     "fecha": "",
-    "hora": "11:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=fanatiz1"
+    "url": "https://streamtpnew.com/global1.php?stream=tntsports"
   },
   {
-    "title": "13:00 - Liga Profesional: Gimnasia Mendoza vs Vélez Sarsfield",
+    "partido": "Gimnasia Mendoza vs Vélez Sarsfield (Fanatiz)",
+    "liga": "Liga Profesional",
+    "hora": "1:00pm",
     "fecha": "",
-    "hora": "13:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=tntar",
-    "s2": "https://streamx339.cloud/global1.php?channel=fanatiz2",
-    "s3": "https://streamx339.cloud/global1.php?channel=tycint"
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz2"
   },
   {
-    "title": "13:00 - Liga Profesional Saudí: Al Nassr vs Al Najma",
+    "partido": "PSG vs Toulouse",
+    "liga": "Ligue 1",
+    "hora": "1:45pm",
     "fecha": "",
-    "hora": "13:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=foxone1"
+    "url": "https://streamtpnew.com/global1.php?stream=espn"
   },
   {
-    "title": "13:45 - Ligue 1: PSG vs Toulouse",
+    "partido": "Rayo Vallecano vs Elche (ESPN)",
+    "liga": "LaLiga",
+    "hora": "2:00pm",
     "fecha": "",
-    "hora": "13:45",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney1",
-    "s2": "https://streamx339.cloud/global1.php?channel=espn",
-    "s3": "https://streamx339.cloud/global1.php?channel=foxone2"
+    "url": "https://streamtpnew.com/global1.php?stream=espn5"
   },
   {
-    "title": "14:00 - LaLiga: Rayo Vallecano vs Elche",
+    "partido": "Rayo Vallecano vs Elche (ESPN+ | Español)",
+    "liga": "LaLiga",
+    "hora": "2:00pm",
     "fecha": "",
-    "hora": "14:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney2",
-    "s2": "https://streamx339.cloud/global1.php?channel=espn5",
-    "s3": "https://streamx339.cloud/global1.php?channel=espndeportes",
-    "s4": "https://streamx339.cloud/global1.php?channel=espnplus1",
-    "s5": "https://streamx339.cloud/global1.php?channel=espnplus2"
+    "url": "https://streamtpnew.com/global1.php?stream=espnplus1"
   },
   {
-    "title": "15:00 - Liga 1: Alianza Atlético vs Atlético Grau",
+    "partido": "Rayo Vallecano vs Elche (ESPN+ | English)",
+    "liga": "LaLiga",
+    "hora": "2:00pm",
     "fecha": "",
-    "hora": "15:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=fanatiz3"
+    "url": "https://streamtpnew.com/global1.php?stream=espnplus2"
   },
   {
-    "title": "15:00 - Primera División: Boston River vs Wanderers",
+    "partido": "Alianza Atlético vs Atlético Grau",
+    "liga": "Liga 1",
+    "hora": "3:00pm",
     "fecha": "",
-    "hora": "15:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney3"
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz3"
   },
   {
-    "title": "15:15 - Liga Profesional: Unión Santa Fe vs Deportivo Riestra",
+    "partido": "Boston River vs Wanderers",
+    "liga": "Primera División",
+    "hora": "3:00pm",
     "fecha": "",
-    "hora": "15:15",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=tntar",
-    "s2": "https://streamx339.cloud/global1.php?channel=fanatiz4",
-    "s3": "https://streamx339.cloud/global1.php?channel=tycint"
+    "url": "https://streamtpnew.com/global1.php?stream=disney3"
   },
   {
-    "title": "15:30 - Liga de Primera: Coquimbo Unido vs Cobresal",
+    "partido": "Unión Santa Fe vs Deportivo Riestra (TNT Sports Argentina)",
+    "liga": "Liga Profesional",
+    "hora": "3:15pm",
     "fecha": "",
-    "hora": "15:30",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=max1"
+    "url": "https://streamtpnew.com/global1.php?stream=tntsports"
   },
   {
-    "title": "17:30 - Liga Profesional: San Lorenzo vs Estudiantes LP",
+    "partido": "Unión Santa Fe vs Deportivo Riestra (Fanatiz)",
+    "liga": "Liga Profesional",
+    "hora": "3:15pm",
     "fecha": "",
-    "hora": "17:30",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=espnpremium",
-    "s2": "https://streamx339.cloud/global1.php?channel=fanatiz5",
-    "s3": "https://streamx339.cloud/global1.php?channel=tycint"
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz4"
   },
   {
-    "title": "18:00 - Liga de Primera: O'Higgins vs Audax Italiano",
+    "partido": "Coquimbo Unido vs Cobresal",
+    "liga": "Liga de Primera",
+    "hora": "3:30pm",
     "fecha": "",
-    "hora": "18:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=max2"
+    "url": "https://streamtpnew.com/global1.php?stream=max1"
   },
   {
-    "title": "18:15 - Liga 1: Cienciano vs ADT",
+    "partido": "San Lorenzo vs Estudiantes LP (ESPN Premium Argentina)",
+    "liga": "Liga Profesional",
+    "hora": "4:30pm",
     "fecha": "",
-    "hora": "18:15",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=fanatiz6"
+    "url": "https://streamtpnew.com/global1.php?stream=espnpremium"
   },
   {
-    "title": "18:20 - Liga BetPlay: Fortaleza CEIF vs Inter Bogotá",
+    "partido": "San Lorenzo vs Estudiantes LP (Fanatiz)",
+    "liga": "Liga Profesional",
+    "hora": "4:30pm",
     "fecha": "",
-    "hora": "18:20",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=winplus",
-    "s2": "https://streamx339.cloud/global1.php?channel=winplus2"
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz5"
   },
   {
-    "title": "18:30 - Primera División: Nacional vs Central Español",
+    "partido": "O'Higgins vs Audax Italiano",
+    "liga": "Liga de Primera",
+    "hora": "6:00pm",
     "fecha": "",
-    "hora": "18:30",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=disney1"
+    "url": "https://streamtpnew.com/global1.php?stream=max2"
   },
   {
-    "title": "20:00 - Liga MX: Puebla vs Juárez",
+    "partido": "Cienciano vs ADT",
+    "liga": "Liga 1",
+    "hora": "6:15pm",
     "fecha": "",
-    "hora": "20:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=tudnus",
-    "s2": "https://streamx339.cloud/global1.php?channel=foxone1"
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz6"
   },
   {
-    "title": "20:30 - Liga BetPlay: Junior vs Deportivo Cali",
+    "partido": "Fortaleza CEIF vs Inter Bogotá (Win Sports +)",
+    "liga": "Liga BetPlay",
+    "hora": "6:20pm",
     "fecha": "",
-    "hora": "20:30",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=winplus",
-    "s2": "https://streamx339.cloud/global1.php?channel=winplus2"
+    "url": "https://streamtpnew.com/global1.php?stream=winplus"
   },
   {
-    "title": "22:00 - Liga MX: Necaxa vs Mazatlán",
+    "partido": "Fortaleza CEIF vs Inter Bogotá (Win Sports + (Op2))",
+    "liga": "Liga BetPlay",
+    "hora": "6:20pm",
     "fecha": "",
-    "hora": "22:00",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=clarosports"
+    "url": "https://streamtpnew.com/global1.php?stream=winplus2"
   },
   {
-    "title": "22:06 - Liga MX: Tijuana vs Tigres UANL",
+    "partido": "Nacional vs Central Español",
+    "liga": "Primera División",
+    "hora": "6:30pm",
     "fecha": "",
-    "hora": "22:06",
-    "duracion": 120,
-    "s1": "https://streamx339.cloud/global1.php?channel=tudnus"
+    "url": "https://streamtpnew.com/global1.php?stream=disney1"
+  },
+  {
+    "partido": "Puebla vs Juárez",
+    "liga": "Liga MX",
+    "hora": "8:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
+  },
+  {
+    "partido": "Junior vs Deportivo Cali (Win Sports +)",
+    "liga": "Liga BetPlay",
+    "hora": "8:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=winplus"
+  },
+  {
+    "partido": "Junior vs Deportivo Cali (Win Sports + (Op2))",
+    "liga": "Liga BetPlay",
+    "hora": "8:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=winplus2"
+  },
+  {
+    "partido": "Tijuana vs Tigres UANL",
+    "liga": "Liga MX",
+    "hora": "10:05pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
   }
 ]
