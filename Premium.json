@@ -1,380 +1,156 @@
 [
   {
-    "nombre": "ESPN",
-    "categoria": "LATINOAMERICA",
-    "stream": "espn",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn",
-    "activo": true
+    "partido": "Gimnasia Mendoza vs Vélez Sarsfield (TNT Sports Argentina)",
+    "liga": "Liga Profesional",
+    "hora": "1:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=tntsports"
   },
   {
-    "nombre": "ESPN 2",
-    "categoria": "LATINOAMERICA",
-    "stream": "espn2",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2",
-    "activo": true
+    "partido": "Gimnasia Mendoza vs Vélez Sarsfield (Fanatiz)",
+    "liga": "Liga Profesional",
+    "hora": "1:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz2"
   },
   {
-    "nombre": "ESPN 3",
-    "categoria": "LATINOAMERICA",
-    "stream": "espn3",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn3",
-    "activo": true
+    "partido": "PSG vs Toulouse",
+    "liga": "Ligue 1",
+    "hora": "1:45pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=espn"
   },
   {
-    "nombre": "ESPN 4",
-    "categoria": "LATINOAMERICA",
-    "stream": "espn4",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn4",
-    "activo": true
+    "partido": "Rayo Vallecano vs Elche (ESPN)",
+    "liga": "LaLiga",
+    "hora": "2:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=espn5"
   },
   {
-    "nombre": "ESPN 5",
-    "categoria": "LATINOAMERICA",
-    "stream": "espn5",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn5",
-    "activo": true
+    "partido": "Rayo Vallecano vs Elche (ESPN+ | Español)",
+    "liga": "LaLiga",
+    "hora": "2:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=espnplus1"
   },
   {
-    "nombre": "ESPN 6",
-    "categoria": "LATINOAMERICA",
-    "stream": "espn6",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn6",
-    "activo": true
+    "partido": "Rayo Vallecano vs Elche (ESPN+ | English)",
+    "liga": "LaLiga",
+    "hora": "2:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=espnplus2"
   },
   {
-    "nombre": "ESPN 7",
-    "categoria": "LATINOAMERICA",
-    "stream": "espn7",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn7",
-    "activo": true
+    "partido": "Alianza Atlético vs Atlético Grau",
+    "liga": "Liga 1",
+    "hora": "3:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz3"
   },
   {
-    "nombre": "DSports",
-    "categoria": "LATINOAMERICA",
-    "stream": "dsports",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
-    "activo": true
+    "partido": "Boston River vs Wanderers",
+    "liga": "Primera División",
+    "hora": "3:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=disney3"
   },
   {
-    "nombre": "DSports 2",
-    "categoria": "LATINOAMERICA",
-    "stream": "dsports2",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
-    "activo": true
+    "partido": "Unión Santa Fe vs Deportivo Riestra (TNT Sports Argentina)",
+    "liga": "Liga Profesional",
+    "hora": "3:15pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=tntsports"
   },
   {
-    "nombre": "DSports Plus",
-    "categoria": "LATINOAMERICA",
-    "stream": "dsportsplus",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
-    "activo": true
+    "partido": "Unión Santa Fe vs Deportivo Riestra (Fanatiz)",
+    "liga": "Liga Profesional",
+    "hora": "3:15pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz4"
   },
   {
-    "nombre": "ECDF LigaPro (eventos)",
-    "categoria": "LATINOAMERICA",
-    "stream": "ecdf_ligapro",
-    "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro",
-    "activo": true
+    "partido": "Coquimbo Unido vs Cobresal",
+    "liga": "Liga de Primera",
+    "hora": "3:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=max1"
   },
   {
-    "nombre": "Fox Sports",
-    "categoria": "ARGENTINA",
-    "stream": "foxsports",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports",
-    "activo": true
+    "partido": "San Lorenzo vs Estudiantes LP (ESPN Premium Argentina)",
+    "liga": "Liga Profesional",
+    "hora": "4:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=espnpremium"
   },
   {
-    "nombre": "Fox Sports 2",
-    "categoria": "ARGENTINA",
-    "stream": "foxsports2",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2",
-    "activo": true
+    "partido": "San Lorenzo vs Estudiantes LP (Fanatiz)",
+    "liga": "Liga Profesional",
+    "hora": "4:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz5"
   },
   {
-    "nombre": "Fox Sports 3",
-    "categoria": "ARGENTINA",
-    "stream": "foxsports3",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3",
-    "activo": true
+    "partido": "O'Higgins vs Audax Italiano",
+    "liga": "Liga de Primera",
+    "hora": "6:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=max2"
   },
   {
-    "nombre": "TNT Sports",
-    "categoria": "ARGENTINA",
-    "stream": "tntsports",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tntsports",
-    "activo": true
+    "partido": "Cienciano vs ADT",
+    "liga": "Liga 1",
+    "hora": "6:15pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=fanatiz6"
   },
   {
-    "nombre": "ESPN Premium",
-    "categoria": "ARGENTINA",
-    "stream": "espnpremium",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium",
-    "activo": true
+    "partido": "Fortaleza CEIF vs Inter Bogotá (Win Sports +)",
+    "liga": "Liga BetPlay",
+    "hora": "6:20pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=winplus"
   },
   {
-    "nombre": "TyC Sports",
-    "categoria": "ARGENTINA",
-    "stream": "tycsports",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
-    "activo": true
+    "partido": "Fortaleza CEIF vs Inter Bogotá (Win Sports + (Op2))",
+    "liga": "Liga BetPlay",
+    "hora": "6:20pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=winplus2"
   },
   {
-    "nombre": "TyC Sports Internacional (USA)",
-    "categoria": "ARGENTINA",
-    "stream": "tycinternacional",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tycinternacional",
-    "activo": true
+    "partido": "Nacional vs Central Español",
+    "liga": "Primera División",
+    "hora": "6:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=disney1"
   },
   {
-    "nombre": "Telefe",
-    "categoria": "ARGENTINA",
-    "stream": "telefe",
-    "url": "https://la14hd.com/vivo/canales.php?stream=telefe",
-    "activo": true
+    "partido": "Puebla vs Juárez",
+    "liga": "Liga MX",
+    "hora": "8:00pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
   },
   {
-    "nombre": "Liga1 MAX",
-    "categoria": "PERÚ",
-    "stream": "liga1max",
-    "url": "https://la14hd.com/vivo/canales.php?stream=liga1max",
-    "activo": true
+    "partido": "Junior vs Deportivo Cali (Win Sports +)",
+    "liga": "Liga BetPlay",
+    "hora": "8:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=winplus"
   },
   {
-    "nombre": "Movistar Deportes",
-    "categoria": "PERÚ",
-    "stream": "movistar",
-    "url": "https://la14hd.com/vivo/canales.php?stream=movistar",
-    "activo": true
+    "partido": "Junior vs Deportivo Cali (Win Sports + (Op2))",
+    "liga": "Liga BetPlay",
+    "hora": "8:30pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=winplus2"
   },
   {
-    "nombre": "Win Sports Plus",
-    "categoria": "COLOMBIA",
-    "stream": "winsportsplus",
-    "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
-    "activo": true
-  },
-  {
-    "nombre": "Win Sports plus (2)",
-    "categoria": "COLOMBIA",
-    "stream": "winsports2",
-    "url": "https://la14hd.com/vivo/canales.php?stream=winsports2",
-    "activo": true
-  },
-  {
-    "nombre": "Win Sports",
-    "categoria": "COLOMBIA",
-    "stream": "winsports",
-    "url": "https://la14hd.com/vivo/canales.php?stream=winsports",
-    "activo": true
-  },
-  {
-    "nombre": "ESPN",
-    "categoria": "MÉXICO",
-    "stream": "espnmx",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espnmx",
-    "activo": true
-  },
-  {
-    "nombre": "ESPN 2",
-    "categoria": "MÉXICO",
-    "stream": "espn2mx",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2mx",
-    "activo": true
-  },
-  {
-    "nombre": "ESPN 3",
-    "categoria": "MÉXICO",
-    "stream": "espn3mx",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn3mx",
-    "activo": true
-  },
-  {
-    "nombre": "ESPN 4",
-    "categoria": "MÉXICO",
-    "stream": "espn4mx",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn4mx",
-    "activo": true
-  },
-  {
-    "nombre": "Azteca 7",
-    "categoria": "MÉXICO",
-    "stream": "azteca7",
-    "url": "https://la14hd.com/vivo/canales.php?stream=azteca7",
-    "activo": true
-  },
-  {
-    "nombre": "TVC Deportes",
-    "categoria": "MÉXICO",
-    "stream": "tvc_deportes",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tvc_deportes",
-    "activo": true
-  },
-  {
-    "nombre": "Azteca Deportes",
-    "categoria": "MÉXICO",
-    "stream": "azteca_deportes",
-    "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes",
-    "activo": true
-  },
-  {
-    "nombre": "Sky Sports LaLiga",
-    "categoria": "MÉXICO",
-    "stream": "sky_sports_laliga",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga",
-    "activo": true
-  },
-  {
-    "nombre": "Fox Deportes",
-    "categoria": "USA",
-    "stream": "foxdeportes",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxdeportes",
-    "activo": true
-  },
-  {
-    "nombre": "ESPN Deportes",
-    "categoria": "USA",
-    "stream": "espndeportes",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
-    "activo": true
-  },
-  {
-    "nombre": "TUDN",
-    "categoria": "USA",
-    "stream": "tudn",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tudn",
-    "activo": true
-  },
-  {
-    "nombre": "Fox Sports 1",
-    "categoria": "USA",
-    "stream": "foxsports1_usa",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports1_usa",
-    "activo": true
-  },
-  {
-    "nombre": "Fox Sports 2",
-    "categoria": "USA",
-    "stream": "foxsports2_usa",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2_usa",
-    "activo": true
-  },
-  {
-    "nombre": "Universo",
-    "categoria": "USA",
-    "stream": "universo",
-    "url": "https://la14hd.com/vivo/canales.php?stream=universo",
-    "activo": true
-  },
-  {
-    "nombre": "BeIN Sports Español",
-    "categoria": "USA",
-    "stream": "beinsportes",
-    "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes",
-    "activo": true
-  },
-  {
-    "nombre": "BeIN Sports Xtra Español",
-    "categoria": "USA",
-    "stream": "beinsport_xtra_espanol",
-    "url": "https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol",
-    "activo": true
-  },
-  {
-    "nombre": "Telemundo",
-    "categoria": "USA",
-    "stream": "telemundo",
-    "url": "https://la14hd.com/vivo/canales.php?stream=telemundo",
-    "activo": true
-  },
-  {
-    "nombre": "Premiere 1",
-    "categoria": "BRASIL",
-    "stream": "premiere1",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere1",
-    "activo": true
-  },
-  {
-    "nombre": "Premiere 2",
-    "categoria": "BRASIL",
-    "stream": "premiere2",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere2",
-    "activo": true
-  },
-  {
-    "nombre": "Premiere 3",
-    "categoria": "BRASIL",
-    "stream": "premiere3",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere3",
-    "activo": true
-  },
-  {
-    "nombre": "Premiere 4",
-    "categoria": "BRASIL",
-    "stream": "premiere4",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere4",
-    "activo": true
-  },
-  {
-    "nombre": "Premiere 5",
-    "categoria": "BRASIL",
-    "stream": "premiere5",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere5",
-    "activo": true
-  },
-  {
-    "nombre": "Premiere 6",
-    "categoria": "BRASIL",
-    "stream": "premiere6",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere6",
-    "activo": true
-  },
-  {
-    "nombre": "Premiere 7",
-    "categoria": "BRASIL",
-    "stream": "premiere7",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere7",
-    "activo": true
-  },
-  {
-    "nombre": "Sportv",
-    "categoria": "BRASIL",
-    "stream": "sportv",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sportv",
-    "activo": true
-  },
-  {
-    "nombre": "Sportv 2",
-    "categoria": "BRASIL",
-    "stream": "sportv2",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sportv2",
-    "activo": true
-  },
-  {
-    "nombre": "Sportv 3",
-    "categoria": "BRASIL",
-    "stream": "sportv3",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sportv3",
-    "activo": true
-  },
-  {
-    "nombre": "ESPN 1 NL",
-    "categoria": "MUNDO",
-    "stream": "espn1_nl",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn1_nl",
-    "activo": true
-  },
-  {
-    "nombre": "ESPN 2 NL",
-    "categoria": "MUNDO",
-    "stream": "espn2_nl",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2_nl",
-    "activo": true
-  },
-  {
-    "nombre": "ESPN 3 NL",
-    "categoria": "MUNDO",
-    "stream": "espn3_nl",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn3_nl",
-    "activo": true
+    "partido": "Tijuana vs Tigres UANL",
+    "liga": "Liga MX",
+    "hora": "10:05pm",
+    "fecha": "",
+    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
   }
 ]
