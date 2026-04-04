@@ -1,156 +1,530 @@
 [
   {
-    "partido": "Gimnasia Mendoza vs Vélez Sarsfield (TNT Sports Argentina)",
-    "liga": "Liga Profesional",
-    "hora": "1:00pm",
+    "partido": "Fiorentina vs Juventus",
+    "liga": "Serie A femenina",
+    "hora": "05:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tntsports"
+    "Disney+": "https://tvtvhd.com/canales.php?stream=disney1",
+    "DSports": "https://tvtvhd.com/canales.php?stream=dsports",
+    "DSports | OP2": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+    "DSports | OP3": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
   },
   {
-    "partido": "Gimnasia Mendoza vs Vélez Sarsfield (Fanatiz)",
-    "liga": "Liga Profesional",
-    "hora": "1:00pm",
+    "partido": "Arminia Bielefeld vs Darmstadt 98",
+    "liga": "2. Bundesliga",
+    "hora": "06:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz2"
+    "url": "https://tvtvhd.com/canales.php?stream=disney1"
   },
   {
-    "partido": "PSG vs Toulouse",
+    "partido": "Magdeburg vs Bochum",
+    "liga": "2. Bundesliga",
+    "hora": "06:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "partido": "Kaiserslautern vs Fortuna Düsseldorf",
+    "liga": "2. Bundesliga",
+    "hora": "06:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=disney3"
+  },
+  {
+    "partido": "Gençlerbirliği vs Göztepe",
+    "liga": "Super Lig",
+    "hora": "06:30",
+    "fecha": "",
+    "ESPN 5": "https://tvtvhd.com/canales.php?stream=espn5",
+    "ESPN 5 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
+    "ESPN 5 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
+  },
+  {
+    "partido": "Manchester City vs Liverpool",
+    "liga": "FA Cup",
+    "hora": "06:45",
+    "fecha": "",
+    "ESPN": "https://tvtvhd.com/canales.php?stream=espn",
+    "ESPN Internacional": "https://tvtvhd.com/tv/canal.php?stream=even1",
+    "ESPN España": "https://tvtvhd.com/tv/canal.php?stream=disney18",
+    "ESPN AR┃OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+    "ESPN AR┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+    "ESPN Deportes": "https://tvtvhd.com/canales.php?stream=espndeportes",
+    "ESPN Deportes  | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+    "ESPN Deportes  | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
+  },
+  {
+    "partido": "Real Sociedad vs Levante",
+    "liga": "LaLiga",
+    "hora": "07:00",
+    "fecha": "",
+    "DSports": "https://tvtvhd.com/canales.php?stream=dsports",
+    "DSports | OP2": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+    "DSports | OP3": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+  },
+  {
+    "partido": "Cádiz vs Córdoba",
+    "liga": "LaLiga SmartBank",
+    "hora": "07:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+  },
+  {
+    "partido": "Sassuolo vs Cagliari",
+    "liga": "Serie A",
+    "hora": "08:00",
+    "fecha": "",
+    "ESPN 3": "https://tvtvhd.com/canales.php?stream=espn3",
+    "ESPN 3 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+    "ESPN 3 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+    "ESPN MX": "https://tvtvhd.com/canales.php?stream=espnmx",
+    "ESPN MX | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+    "ESPN MX | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
+  },
+  {
+    "partido": "Racing vs Juventud",
+    "liga": "Primera División",
+    "hora": "08:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Hoffenheim vs Mainz 05",
+    "liga": "Bundesliga",
+    "hora": "08:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Borussia M'gladbach vs Heidenheim",
+    "liga": "Bundesliga",
+    "hora": "08:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Bayer Leverkusen vs Wolfsburg",
+    "liga": "Bundesliga",
+    "hora": "08:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Werder Bremen vs RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "08:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Freiburg vs Bayern München",
+    "liga": "Bundesliga",
+    "hora": "08:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Hamburger SV vs Augsburg",
+    "liga": "Bundesliga",
+    "hora": "08:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Mallorca vs Real Madrid",
+    "liga": "LaLiga",
+    "hora": "09:15",
+    "fecha": "",
+    "DSports": "https://tvtvhd.com/canales.php?stream=dsports",
+    "DSports | OP2": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+    "DSports | OP3": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
+  },
+  {
+    "partido": "Albacete vs Burgos",
+    "liga": "LaLiga SmartBank",
+    "hora": "09:15",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+  },
+  {
+    "partido": "PSV vs Utrecht",
+    "liga": "Eredivisie",
+    "hora": "09:30",
+    "fecha": "",
+    "ESPN 2": "https://tvtvhd.com/canales.php?stream=espn2",
+    "ESPN 2 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+    "ESPN 2 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
+    "ESPN 3 MX": "https://tvtvhd.com/canales.php?stream=espn3mx",
+    "ESPN NL": "https://tvtvhd.com/canales.php?stream=espn1_nl",
+    "ESPN NL | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
+    "ESPN NL | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
+  },
+  {
+    "partido": "La Luz vs Atenas",
+    "liga": "Segunda División",
+    "hora": "10:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Strasbourg vs Nice",
     "liga": "Ligue 1",
-    "hora": "1:45pm",
+    "hora": "10:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espn"
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "partido": "Rayo Vallecano vs Elche (ESPN)",
+    "partido": "Verona vs Fiorentina",
+    "liga": "Serie A",
+    "hora": "11:00",
+    "fecha": "",
+    "ESPN MX": "https://tvtvhd.com/canales.php?stream=espnmx",
+    "ESPN MX | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+    "ESPN MX | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
+  },
+  {
+    "partido": "Augusta Nationals Women’s Amateur Championship",
+    "liga": "Golf",
+    "hora": "11:00",
+    "fecha": "",
+    "ESPN 4": "https://tvtvhd.com/canales.php?stream=espn4",
+    "ESPN 4 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
+    "ESPN 4 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
+  },
+  {
+    "partido": "Chelsea vs Port Vale",
+    "liga": "FA Cup",
+    "hora": "11:15",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Deportivo La Coruña vs Málaga",
+    "liga": "LaLiga SmartBank",
+    "hora": "11:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+  },
+  {
+    "partido": "Real Betis vs Espanyol",
     "liga": "LaLiga",
-    "hora": "2:00pm",
+    "hora": "11:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espn5"
+    "DSports": "https://tvtvhd.com/canales.php?stream=dsports",
+    "DSports | OP2": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
+    "DSports | OP3": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
   },
   {
-    "partido": "Rayo Vallecano vs Elche (ESPN+ | Español)",
-    "liga": "LaLiga",
-    "hora": "2:00pm",
+    "partido": "Stuttgart vs Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "11:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnplus1"
+    "ESPN": "https://tvtvhd.com/canales.php?stream=espn",
+    "ESPN AR┃OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+    "ESPN AR┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn"
   },
   {
-    "partido": "Rayo Vallecano vs Elche (ESPN+ | English)",
-    "liga": "LaLiga",
-    "hora": "2:00pm",
+    "partido": "Aldosivi vs Estudiantes Río Cuarto",
+    "liga": "Liga Profesional",
+    "hora": "11:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnplus2"
+    "ESPN Premium": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+    "ESPN Premium┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium"
   },
   {
-    "partido": "Alianza Atlético vs Atlético Grau",
+    "partido": "Cultural Leonesa vs Real Valladolid",
+    "liga": "LaLiga SmartBank",
+    "hora": "11:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
+  },
+  {
+    "partido": "Telstar vs Groningen",
+    "liga": "Eredivisie",
+    "hora": "11:45",
+    "fecha": "",
+    "ESPN NL": "https://tvtvhd.com/canales.php?stream=espn1_nl",
+    "ESPN NL | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
+    "ESPN NL | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
+  },
+  {
+    "partido": "AZ vs Fortuna Sittard",
+    "liga": "Eredivisie",
+    "hora": "11:45",
+    "fecha": "",
+    "ESPN 3 MX": "https://tvtvhd.com/canales.php?stream=espn3mx",
+    "ESPN 2 MX": "https://tvtvhd.com/canales.php?stream=espn2mx"
+  },
+  {
+    "partido": "Brest vs Rennes",
+    "liga": "Ligue 1",
+    "hora": "12:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Al Hilal vs Al Taawon",
+    "liga": "Pro League",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
+  },
+  {
+    "partido": "Deportivo Garcilaso vs Sport Boys",
     "liga": "Liga 1",
-    "hora": "3:00pm",
+    "hora": "13:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz3"
+    "Liga1MAX": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+    "Liga1Max | OP3": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
   },
   {
-    "partido": "Boston River vs Wanderers",
+    "partido": "Danubio vs Torque",
     "liga": "Primera División",
-    "hora": "3:00pm",
+    "hora": "13:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=disney3"
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "partido": "Unión Santa Fe vs Deportivo Riestra (TNT Sports Argentina)",
-    "liga": "Liga Profesional",
-    "hora": "3:15pm",
+    "partido": "Dynamo Dresden vs Hertha BSC",
+    "liga": "2. Bundesliga",
+    "hora": "13:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tntsports"
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "partido": "Unión Santa Fe vs Deportivo Riestra (Fanatiz)",
-    "liga": "Liga Profesional",
-    "hora": "3:15pm",
+    "partido": "Lazio vs Parma",
+    "liga": "Serie A",
+    "hora": "13:45",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz4"
+    "ESPN 3": "https://tvtvhd.com/canales.php?stream=espn3",
+    "ESPN 3 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
+    "ESPN 3 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
+    "ESPN MX": "https://tvtvhd.com/canales.php?stream=espnmx",
+    "ESPN MX | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
+    "ESPN MX | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
   },
   {
-    "partido": "Coquimbo Unido vs Cobresal",
-    "liga": "Liga de Primera",
-    "hora": "3:30pm",
+    "partido": "Southampton vs Arsenal",
+    "liga": "FA Cup",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=max1"
+    "ESPN 2": "https://tvtvhd.com/canales.php?stream=espn2",
+    "ESPN 2 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
+    "ESPN 2 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
   },
   {
-    "partido": "San Lorenzo vs Estudiantes LP (ESPN Premium Argentina)",
-    "liga": "Liga Profesional",
-    "hora": "4:30pm",
+    "partido": "Always Ready vs Real Tomayapo",
+    "liga": "Primera División",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnpremium"
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "partido": "San Lorenzo vs Estudiantes LP (Fanatiz)",
-    "liga": "Liga Profesional",
-    "hora": "4:30pm",
+    "partido": "Excelsior vs NEC",
+    "liga": "Eredivisie",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz5"
+    "ESPN NL": "https://tvtvhd.com/canales.php?stream=espn1_nl",
+    "ESPN NL | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
+    "ESPN NL | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
   },
   {
-    "partido": "O'Higgins vs Audax Italiano",
-    "liga": "Liga de Primera",
-    "hora": "6:00pm",
+    "partido": "Miami Heat vs Washington Wizards",
+    "liga": "NBA",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=max2"
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "partido": "Cienciano vs ADT",
+    "partido": "Independiente del Valle vs Orense",
+    "liga": "Serie A",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "partido": "Ajax vs Twente",
+    "liga": "Eredivisie",
+    "hora": "14:00",
+    "fecha": "",
+    "ESPN 2 MX": "https://tvtvhd.com/canales.php?stream=espn2mx",
+    "ESPN 2 NL": "https://tvtvhd.com/canales.php?stream=espn2_nl"
+  },
+  {
+    "partido": "Denver Nuggets vs San Antonio Spurs",
+    "liga": "NBA",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "partido": "Atlético Madrid vs Barcelona",
+    "liga": "LaLiga",
+    "hora": "14:00",
+    "fecha": "",
+    "ESPN": "https://tvtvhd.com/canales.php?stream=espn",
+    "ESPN AR┃OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn",
+    "ESPN AR┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn",
+    "ESPN Deportes": "https://tvtvhd.com/canales.php?stream=espndeportes",
+    "ESPN Deportes  | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
+    "ESPN Deportes  | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
+  },
+  {
+    "partido": "Lille vs Lens",
+    "liga": "Ligue 1",
+    "hora": "14:05",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=beinsportes"
+  },
+  {
+    "partido": "Deportivo Colonia vs Plaza Colonia",
+    "liga": "Segunda División",
+    "hora": "14:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Deportes Limache vs Unión La Calera",
+    "liga": "Primera División",
+    "hora": "15:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=max1"
+  },
+  {
+    "partido": "Melgar vs Cusco",
     "liga": "Liga 1",
-    "hora": "6:15pm",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz6"
+    "Liga1MAX": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+    "Liga1Max | OP3": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
   },
   {
-    "partido": "Fortaleza CEIF vs Inter Bogotá (Win Sports +)",
-    "liga": "Liga BetPlay",
-    "hora": "6:20pm",
+    "partido": "Independiente vs Racing Club",
+    "liga": "Liga Profesional",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winplus"
+    "ESPN Premium": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
+    "ESPN Premium┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium"
   },
   {
-    "partido": "Fortaleza CEIF vs Inter Bogotá (Win Sports + (Op2))",
-    "liga": "Liga BetPlay",
-    "hora": "6:20pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winplus2"
-  },
-  {
-    "partido": "Nacional vs Central Español",
+    "partido": "Real Potosí vs Aurora",
     "liga": "Primera División",
-    "hora": "6:30pm",
+    "hora": "16:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=disney1"
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "partido": "Puebla vs Juárez",
-    "liga": "Liga MX",
-    "hora": "8:00pm",
+    "partido": "São Paulo vs Cruzeiro",
+    "liga": "Brasileirão",
+    "hora": "16:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
+    "url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
-    "partido": "Junior vs Deportivo Cali (Win Sports +)",
-    "liga": "Liga BetPlay",
-    "hora": "8:30pm",
+    "partido": "Olimpia vs Nacional Asunción",
+    "liga": "Primera División",
+    "hora": "16:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winplus"
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
-    "partido": "Junior vs Deportivo Cali (Win Sports + (Op2))",
-    "liga": "Liga BetPlay",
-    "hora": "8:30pm",
+    "partido": "Universidad Católica vs Guayaquil City",
+    "liga": "Serie A",
+    "hora": "16:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winplus2"
+    "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "partido": "Tijuana vs Tigres UANL",
-    "liga": "Liga MX",
-    "hora": "10:05pm",
+    "partido": "Progreso vs Peñarol",
+    "liga": "Primera División",
+    "hora": "17:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
+    "url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "partido": "Everton vs Ñublense",
+    "liga": "Primera División",
+    "hora": "18:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=max1"
+  },
+  {
+    "partido": "Philadelphia 76ers vs Detroit Pistons",
+    "liga": "NBA",
+    "hora": "18:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "partido": "Coritiba vs Fluminense",
+    "liga": "Brasileirão",
+    "hora": "18:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=premiere1"
+  },
+  {
+    "partido": "Deportivo Recoleta vs Sportivo San Lorenzo",
+    "liga": "Primera División",
+    "hora": "18:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+  },
+  {
+    "partido": "Inter Miami vs Austin",
+    "liga": "Major League Soccer",
+    "hora": "18:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=mls1es"
+  },
+  {
+    "partido": "San Antonio Bulo Bulo vs Oriente Petrolero",
+    "liga": "Primera División",
+    "hora": "18:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "partido": "Cerro Porteño vs 2 de Mayo",
+    "liga": "Primera División",
+    "hora": "18:30",
+    "fecha": "",
+    "url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+  },
+  {
+    "partido": "Emelec vs Deportivo Cuenca",
+    "liga": "Serie A",
+    "hora": "19:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "partido": "Vasco da Gama vs Botafogo",
+    "liga": "Brasileirão",
+    "hora": "19:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "partido": "Rosario Central vs Atlético Tucumán",
+    "liga": "Liga Profesional",
+    "hora": "19:00",
+    "fecha": "",
+    "url": "https://tvtvhd.com/canales.php?stream=tntsports"
+  },
+  {
+    "partido": "Deportes Tolima vs Santa Fe",
+    "liga": "Categoría Primera A",
+    "hora": "19:30",
+    "fecha": "",
+    "Win Sports +": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
+    "Win Sports + | OP3": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus"
+  },
+  {
+    "partido": "Universitario vs Alianza Lima",
+    "liga": "Liga 1",
+    "hora": "20:00",
+    "fecha": "",
+    "Liga1MAX": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
+    "Liga1Max | OP3": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
   }
 ]
