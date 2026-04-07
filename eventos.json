@@ -1,530 +1,578 @@
 [
   {
-    "partido": "Fiorentina vs Juventus",
-    "liga": "Serie A femenina",
-    "hora": "05:30",
-    "fecha": "",
-    "Disney+": "https://tvtvhd.com/canales.php?stream=disney1",
-    "DSports": "https://tvtvhd.com/canales.php?stream=dsports",
-    "DSports | OP2": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-    "DSports | OP3": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
-  },
-  {
-    "partido": "Arminia Bielefeld vs Darmstadt 98",
-    "liga": "2. Bundesliga",
-    "hora": "06:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "partido": "Magdeburg vs Bochum",
-    "liga": "2. Bundesliga",
-    "hora": "06:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "partido": "Kaiserslautern vs Fortuna Düsseldorf",
-    "liga": "2. Bundesliga",
-    "hora": "06:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "partido": "Gençlerbirliği vs Göztepe",
-    "liga": "Super Lig",
-    "hora": "06:30",
-    "fecha": "",
-    "ESPN 5": "https://tvtvhd.com/canales.php?stream=espn5",
-    "ESPN 5 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn5",
-    "ESPN 5 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn5"
-  },
-  {
-    "partido": "Manchester City vs Liverpool",
-    "liga": "FA Cup",
-    "hora": "06:45",
-    "fecha": "",
-    "ESPN": "https://tvtvhd.com/canales.php?stream=espn",
-    "ESPN Internacional": "https://tvtvhd.com/tv/canal.php?stream=even1",
-    "ESPN España": "https://tvtvhd.com/tv/canal.php?stream=disney18",
-    "ESPN AR┃OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-    "ESPN AR┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-    "ESPN Deportes": "https://tvtvhd.com/canales.php?stream=espndeportes",
-    "ESPN Deportes  | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-    "ESPN Deportes  | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
-  },
-  {
-    "partido": "Real Sociedad vs Levante",
-    "liga": "LaLiga",
-    "hora": "07:00",
-    "fecha": "",
-    "DSports": "https://tvtvhd.com/canales.php?stream=dsports",
-    "DSports | OP2": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-    "DSports | OP3": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
-  },
-  {
-    "partido": "Cádiz vs Córdoba",
-    "liga": "LaLiga SmartBank",
-    "hora": "07:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "partido": "Sassuolo vs Cagliari",
-    "liga": "Serie A",
-    "hora": "08:00",
-    "fecha": "",
-    "ESPN 3": "https://tvtvhd.com/canales.php?stream=espn3",
-    "ESPN 3 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-    "ESPN 3 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-    "ESPN MX": "https://tvtvhd.com/canales.php?stream=espnmx",
-    "ESPN MX | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
-    "ESPN MX | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
-  },
-  {
-    "partido": "Racing vs Juventud",
-    "liga": "Primera División",
-    "hora": "08:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Hoffenheim vs Mainz 05",
-    "liga": "Bundesliga",
-    "hora": "08:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Borussia M'gladbach vs Heidenheim",
-    "liga": "Bundesliga",
-    "hora": "08:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Bayer Leverkusen vs Wolfsburg",
-    "liga": "Bundesliga",
-    "hora": "08:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Werder Bremen vs RB Leipzig",
-    "liga": "Bundesliga",
-    "hora": "08:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Freiburg vs Bayern München",
-    "liga": "Bundesliga",
-    "hora": "08:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Hamburger SV vs Augsburg",
-    "liga": "Bundesliga",
-    "hora": "08:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Mallorca vs Real Madrid",
-    "liga": "LaLiga",
-    "hora": "09:15",
-    "fecha": "",
-    "DSports": "https://tvtvhd.com/canales.php?stream=dsports",
-    "DSports | OP2": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-    "DSports | OP3": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
-  },
-  {
-    "partido": "Albacete vs Burgos",
-    "liga": "LaLiga SmartBank",
-    "hora": "09:15",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "partido": "PSV vs Utrecht",
-    "liga": "Eredivisie",
-    "hora": "09:30",
-    "fecha": "",
-    "ESPN 2": "https://tvtvhd.com/canales.php?stream=espn2",
-    "ESPN 2 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-    "ESPN 2 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn2",
-    "ESPN 3 MX": "https://tvtvhd.com/canales.php?stream=espn3mx",
-    "ESPN NL": "https://tvtvhd.com/canales.php?stream=espn1_nl",
-    "ESPN NL | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
-    "ESPN NL | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
-  },
-  {
-    "partido": "La Luz vs Atenas",
-    "liga": "Segunda División",
-    "hora": "10:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Strasbourg vs Nice",
-    "liga": "Ligue 1",
-    "hora": "10:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Verona vs Fiorentina",
-    "liga": "Serie A",
-    "hora": "11:00",
-    "fecha": "",
-    "ESPN MX": "https://tvtvhd.com/canales.php?stream=espnmx",
-    "ESPN MX | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
-    "ESPN MX | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
-  },
-  {
-    "partido": "Augusta Nationals Women’s Amateur Championship",
-    "liga": "Golf",
-    "hora": "11:00",
-    "fecha": "",
-    "ESPN 4": "https://tvtvhd.com/canales.php?stream=espn4",
-    "ESPN 4 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn4",
-    "ESPN 4 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn4"
-  },
-  {
-    "partido": "Chelsea vs Port Vale",
-    "liga": "FA Cup",
-    "hora": "11:15",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Deportivo La Coruña vs Málaga",
-    "liga": "LaLiga SmartBank",
-    "hora": "11:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "partido": "Real Betis vs Espanyol",
-    "liga": "LaLiga",
-    "hora": "11:30",
-    "fecha": "",
-    "DSports": "https://tvtvhd.com/canales.php?stream=dsports",
-    "DSports | OP2": "https://tvtvhd.com/vivo/canal.php?stream=dsports",
-    "DSports | OP3": "https://tvtvhd.com/vivo/canales.php?stream=dsports"
-  },
-  {
-    "partido": "Stuttgart vs Borussia Dortmund",
-    "liga": "Bundesliga",
-    "hora": "11:30",
-    "fecha": "",
-    "ESPN": "https://tvtvhd.com/canales.php?stream=espn",
-    "ESPN AR┃OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-    "ESPN AR┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn"
-  },
-  {
-    "partido": "Aldosivi vs Estudiantes Río Cuarto",
-    "liga": "Liga Profesional",
-    "hora": "11:30",
-    "fecha": "",
-    "ESPN Premium": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
-    "ESPN Premium┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium"
-  },
-  {
-    "partido": "Cultural Leonesa vs Real Valladolid",
-    "liga": "LaLiga SmartBank",
-    "hora": "11:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
-  },
-  {
-    "partido": "Telstar vs Groningen",
-    "liga": "Eredivisie",
-    "hora": "11:45",
-    "fecha": "",
-    "ESPN NL": "https://tvtvhd.com/canales.php?stream=espn1_nl",
-    "ESPN NL | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
-    "ESPN NL | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
-  },
-  {
-    "partido": "AZ vs Fortuna Sittard",
-    "liga": "Eredivisie",
-    "hora": "11:45",
-    "fecha": "",
-    "ESPN 3 MX": "https://tvtvhd.com/canales.php?stream=espn3mx",
-    "ESPN 2 MX": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "partido": "Brest vs Rennes",
-    "liga": "Ligue 1",
-    "hora": "12:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Al Hilal vs Al Taawon",
-    "liga": "Pro League",
-    "hora": "13:00",
-    "fecha": "",
-    "url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-  },
-  {
-    "partido": "Deportivo Garcilaso vs Sport Boys",
-    "liga": "Liga 1",
-    "hora": "13:15",
-    "fecha": "",
-    "Liga1MAX": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-    "Liga1Max | OP3": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
-  },
-  {
-    "partido": "Danubio vs Torque",
-    "liga": "Primera División",
-    "hora": "13:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Dynamo Dresden vs Hertha BSC",
-    "liga": "2. Bundesliga",
-    "hora": "13:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "partido": "Lazio vs Parma",
-    "liga": "Serie A",
-    "hora": "13:45",
-    "fecha": "",
-    "ESPN 3": "https://tvtvhd.com/canales.php?stream=espn3",
-    "ESPN 3 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn3",
-    "ESPN 3 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn3",
-    "ESPN MX": "https://tvtvhd.com/canales.php?stream=espnmx",
-    "ESPN MX | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espnmx",
-    "ESPN MX | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnmx"
-  },
-  {
-    "partido": "Southampton vs Arsenal",
-    "liga": "FA Cup",
+    "partido": "Sporting CP vs Arsenal",
+    "liga": "UEFA Champions League",
     "hora": "14:00",
     "fecha": "",
-    "ESPN 2": "https://tvtvhd.com/canales.php?stream=espn2",
-    "ESPN 2 | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn2",
-    "ESPN 2 | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn2"
+    "canal": "ESPN2",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn2"
   },
   {
-    "partido": "Always Ready vs Real Tomayapo",
-    "liga": "Primera División",
+    "partido": "Sporting CP vs Arsenal",
+    "liga": "UEFA Champions League",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney2"
   },
   {
-    "partido": "Excelsior vs NEC",
-    "liga": "Eredivisie",
+    "partido": "Sporting CP vs Arsenal",
+    "liga": "UEFA Champions League",
     "hora": "14:00",
     "fecha": "",
-    "ESPN NL": "https://tvtvhd.com/canales.php?stream=espn1_nl",
-    "ESPN NL | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn1_nl",
-    "ESPN NL | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn1_nl"
+    "canal": "ESPN2 Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/espn2.html"
   },
   {
-    "partido": "Miami Heat vs Washington Wizards",
-    "liga": "NBA",
+    "partido": "Sporting CP vs Arsenal",
+    "liga": "UEFA Champions League",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "canal": "Fox Sports",
+    "url": "https://la14hd.com/vivo/canal.php?stream=foxsports"
   },
   {
-    "partido": "Independiente del Valle vs Orense",
-    "liga": "Serie A",
+    "partido": "Estudiantes Río Cuarto vs San Martín Tucumán",
+    "liga": "Copa Argentina",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
+    "canal": "TyC Sports",
+    "url": "https://la14hd.com/vivo/canal.php?stream=tycsports"
   },
   {
-    "partido": "Ajax vs Twente",
-    "liga": "Eredivisie",
+    "partido": "Estudiantes Río Cuarto vs San Martín Tucumán",
+    "liga": "Copa Argentina",
     "hora": "14:00",
     "fecha": "",
-    "ESPN 2 MX": "https://tvtvhd.com/canales.php?stream=espn2mx",
-    "ESPN 2 NL": "https://tvtvhd.com/canales.php?stream=espn2_nl"
+    "canal": "TyC Sports Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/tycsports.html"
   },
   {
-    "partido": "Denver Nuggets vs San Antonio Spurs",
-    "liga": "NBA",
+    "partido": "Real Madrid vs Bayern München",
+    "liga": "UEFA Champions League",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "canal": "TWO Live",
+    "url": "https://tv.la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9kM3I4cGYxdTY0anNvYy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZWZlMjM5NmYzZDJkNDk1NTllZGI5OTJjMTQ5MDllNDIvaW5kZXgvaW5kZXgubTN1OA==&k=NmM0ZWYxNTRkZjJmMWMwNzcwNGY0ZmZhZTQwMDViZTY6Mjk0ZTBhMjdlNzZjNDNhZWIxNmMyYjcxZmMyMDFjZmI="
   },
   {
-    "partido": "Atlético Madrid vs Barcelona",
-    "liga": "LaLiga",
+    "partido": "Real Madrid vs Bayern München",
+    "liga": "UEFA Champions League",
     "hora": "14:00",
     "fecha": "",
-    "ESPN": "https://tvtvhd.com/canales.php?stream=espn",
-    "ESPN AR┃OP2": "https://tvtvhd.com/vivo/canal.php?stream=espn",
-    "ESPN AR┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espn",
-    "ESPN Deportes": "https://tvtvhd.com/canales.php?stream=espndeportes",
-    "ESPN Deportes  | OP2": "https://tvtvhd.com/vivo/canal.php?stream=espndeportes",
-    "ESPN Deportes  | OP3": "https://tvtvhd.com/vivo/canales.php?stream=espndeportes"
+    "canal": "Eventos",
+    "url": "https://tv.la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvcXhwcmx4YTNoYy9vdXQvdjEvMGE1ZmJjYzNmYzEyNGNmOWI5OTYyMDEwODdhNThiMmYvY2VuYy5tcGQ=&k=NzMzMDc0NDdjMzUxNzdhOGFjYzNlOGE0MmFhMjUxNmQ6NjNhM2VjMzZkNGJkYjgxMmU0MWU3NGYxMzJjNWZmMmY="
   },
   {
-    "partido": "Lille vs Lens",
-    "liga": "Ligue 1",
-    "hora": "14:05",
+    "partido": "Real Madrid vs Bayern München",
+    "liga": "UEFA Champions League",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=beinsportes"
+    "canal": "Eventos",
+    "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9kM3I4cGYxdTY0anNvYy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZWZlMjM5NmYzZDJkNDk1NTllZGI5OTJjMTQ5MDllNDIvaW5kZXgvaW5kZXgubTN1OA==&k=NmM0ZWYxNTRkZjJmMWMwNzcwNGY0ZmZhZTQwMDViZTY6Mjk0ZTBhMjdlNzZjNDNhZWIxNmMyYjcxZmMyMDFjZmI="
   },
   {
-    "partido": "Deportivo Colonia vs Plaza Colonia",
-    "liga": "Segunda División",
-    "hora": "14:30",
+    "partido": "Real Madrid vs Bayern München",
+    "liga": "UEFA Champions League",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
+    "canal": "ESPN",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn"
   },
   {
-    "partido": "Deportes Limache vs Unión La Calera",
-    "liga": "Primera División",
-    "hora": "15:30",
+    "partido": "Real Madrid vs Bayern München",
+    "liga": "UEFA Champions League",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=max1"
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney1"
   },
   {
-    "partido": "Melgar vs Cusco",
-    "liga": "Liga 1",
-    "hora": "15:30",
+    "partido": "Real Madrid vs Bayern München",
+    "liga": "UEFA Champions League",
+    "hora": "14:00",
     "fecha": "",
-    "Liga1MAX": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-    "Liga1Max | OP3": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
+    "canal": "ESPN Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/espn.html"
   },
   {
-    "partido": "Independiente vs Racing Club",
-    "liga": "Liga Profesional",
-    "hora": "15:30",
+    "partido": "Real Madrid vs Bayern München",
+    "liga": "UEFA Champions League",
+    "hora": "14:00",
     "fecha": "",
-    "ESPN Premium": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium",
-    "ESPN Premium┃OP3": "https://tvtvhd.com/vivo/canales.php?stream=espnpremium"
+    "canal": "TUDN USA",
+    "url": "https://la14hd.com/vivo/canal.php?stream=tudn"
   },
   {
-    "partido": "Real Potosí vs Aurora",
-    "liga": "Primera División",
-    "hora": "16:15",
+    "partido": "Real Madrid vs Bayern München",
+    "liga": "UEFA Champions League",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "canal": "TUDN USA Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/tudnusa.html"
   },
   {
-    "partido": "São Paulo vs Cruzeiro",
-    "liga": "Brasileirão",
+    "partido": "Rionegro Águilas vs Atlético Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "16:00",
+    "fecha": "",
+    "canal": "Win Sports +",
+    "url": "https://la14hd.com/vivo/canal.php?stream=winsportsplus"
+  },
+  {
+    "partido": "Rionegro Águilas vs Atlético Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "16:00",
+    "fecha": "",
+    "canal": "Win Sports + HD",
+    "url": "https://la14hd.com/vivo/canal.php?stream=winsports2"
+  },
+  {
+    "partido": "Rionegro Águilas vs Atlético Bucaramanga",
+    "liga": "Liga BetPlay",
+    "hora": "16:00",
+    "fecha": "",
+    "canal": "Win Sports + |  opc3",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/winplus.html"
+  },
+  {
+    "partido": "Vélez Sarsfield vs Deportivo Armenio",
+    "liga": "Copa Argentina",
     "hora": "16:30",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=premiere1"
+    "canal": "TyC Sports",
+    "url": "https://la14hd.com/vivo/canal.php?stream=tycsports"
   },
   {
-    "partido": "Olimpia vs Nacional Asunción",
-    "liga": "Primera División",
+    "partido": "Vélez Sarsfield vs Deportivo Armenio",
+    "liga": "Copa Argentina",
     "hora": "16:30",
     "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+    "canal": "TyC Sports Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/tycsports.html"
   },
   {
-    "partido": "Universidad Católica vs Guayaquil City",
-    "liga": "Serie A",
-    "hora": "16:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "partido": "Progreso vs Peñarol",
-    "liga": "Primera División",
+    "partido": "Independiente Rivadavia vs Bolívar",
+    "liga": "Copa Libertadores",
     "hora": "17:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=espn"
+    "canal": "ESPN5",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn5"
   },
   {
-    "partido": "Everton vs Ñublense",
-    "liga": "Primera División",
+    "partido": "Independiente Rivadavia vs Bolívar",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney3"
+  },
+  {
+    "partido": "Independiente Rivadavia vs Bolívar",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "ESPN5 Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/espn5.1.html"
+  },
+  {
+    "partido": "Independiente Rivadavia vs Bolívar",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "Fox Sports",
+    "url": "https://la14hd.com/vivo/canal.php?stream=foxsports"
+  },
+  {
+    "partido": "Independiente Rivadavia vs Bolívar",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "beIN Sports XTRA Español",
+    "url": "https://la14hd.com/vivo/canal.php?stream=beinsport_xtra_espanol"
+  },
+  {
+    "partido": "Deportivo La Guaira vs Fluminense",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "ESPN7",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn7"
+  },
+  {
+    "partido": "Deportivo La Guaira vs Fluminense",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney4"
+  },
+  {
+    "partido": "Deportivo La Guaira vs Fluminense",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "ESPN7 Movil",
+    "url": "https://rojadirectatve.com/sw3.html?get=https://la14hd.com/vivo/canal.php?stream=espn7"
+  },
+  {
+    "partido": "Deportivo La Guaira vs Fluminense",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "Fox Sports 2",
+    "url": "https://la14hd.com/vivo/canal.php?stream=foxsports2"
+  },
+  {
+    "partido": "Deportivo La Guaira vs Fluminense",
+    "liga": "Copa Libertadores",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "ESPN4 MX",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn4mx"
+  },
+  {
+    "partido": "Independiente Petrolero vs Racing Club",
+    "liga": "Copa Sudamericana",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "ESPN2",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn2"
+  },
+  {
+    "partido": "Independiente Petrolero vs Racing Club",
+    "liga": "Copa Sudamericana",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney5"
+  },
+  {
+    "partido": "Independiente Petrolero vs Racing Club",
+    "liga": "Copa Sudamericana",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "ESPN2 Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/espn2.html"
+  },
+  {
+    "partido": "Independiente Petrolero vs Racing Club",
+    "liga": "Copa Sudamericana",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "beIN Sports Ñ",
+    "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
+  },
+  {
+    "partido": "Barracas Central vs Vasco da Gama",
+    "liga": "Copa Sudamericana",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "Dsports",
+    "url": "https://la14hd.com/vivo/canal.php?stream=dsports"
+  },
+  {
+    "partido": "Barracas Central vs Vasco da Gama",
+    "liga": "Copa Sudamericana",
+    "hora": "17:00",
+    "fecha": "",
+    "canal": "Dsports Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/dgo.html"
+  },
+  {
+    "partido": "Tapatío vs Tlaxcala",
+    "liga": "Liga de Expansión MX",
     "hora": "18:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=max1"
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney6"
   },
   {
-    "partido": "Philadelphia 76ers vs Detroit Pistons",
-    "liga": "NBA",
+    "partido": "Tapatío vs Tlaxcala",
+    "liga": "Liga de Expansión MX",
     "hora": "18:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "canal": "ESPN2 MX",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn2mx"
   },
   {
-    "partido": "Coritiba vs Fluminense",
-    "liga": "Brasileirão",
-    "hora": "18:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "partido": "Deportivo Recoleta vs Sportivo San Lorenzo",
-    "liga": "Primera División",
-    "hora": "18:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "partido": "Inter Miami vs Austin",
-    "liga": "Major League Soccer",
-    "hora": "18:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=mls1es"
-  },
-  {
-    "partido": "San Antonio Bulo Bulo vs Oriente Petrolero",
-    "liga": "Primera División",
-    "hora": "18:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "partido": "Cerro Porteño vs 2 de Mayo",
-    "liga": "Primera División",
-    "hora": "18:30",
-    "fecha": "",
-    "url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "partido": "Emelec vs Deportivo Cuenca",
-    "liga": "Serie A",
+    "partido": "Nashville SC vs América",
+    "liga": "Copa de Campeones de la Concacaf",
     "hora": "19:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney7"
   },
   {
-    "partido": "Vasco da Gama vs Botafogo",
-    "liga": "Brasileirão",
+    "partido": "Nashville SC vs América",
+    "liga": "Copa de Campeones de la Concacaf",
     "hora": "19:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+    "canal": "TUDN USA",
+    "url": "https://la14hd.com/vivo/canal.php?stream=tudn"
   },
   {
-    "partido": "Rosario Central vs Atlético Tucumán",
-    "liga": "Liga Profesional",
+    "partido": "Nashville SC vs América",
+    "liga": "Copa de Campeones de la Concacaf",
     "hora": "19:00",
     "fecha": "",
-    "url": "https://tvtvhd.com/canales.php?stream=tntsports"
+    "canal": "FOX Sports 2 USA",
+    "url": "https://la14hd.com/vivo/canal.php?stream=foxsports2_usa"
   },
   {
-    "partido": "Deportes Tolima vs Santa Fe",
-    "liga": "Categoría Primera A",
+    "partido": "Nashville SC vs América",
+    "liga": "Copa de Campeones de la Concacaf",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "TUDN USA Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/tudnusa.html"
+  },
+  {
+    "partido": "Always Ready vs LDU Quito",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "ESPN7",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn7"
+  },
+  {
+    "partido": "Always Ready vs LDU Quito",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney8"
+  },
+  {
+    "partido": "Always Ready vs LDU Quito",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "ESPN7 Movil",
+    "url": "https://rojadirectatve.com/sw3.html?get=https://la14hd.com/vivo/canal.php?stream=espn7"
+  },
+  {
+    "partido": "Always Ready vs LDU Quito",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "Fox Sports 3",
+    "url": "https://la14hd.com/vivo/canal.php?stream=foxsports3"
+  },
+  {
+    "partido": "Barcelona SC vs Cruzeiro",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "ESPN2",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn2"
+  },
+  {
+    "partido": "Barcelona SC vs Cruzeiro",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney9"
+  },
+  {
+    "partido": "Barcelona SC vs Cruzeiro",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "ESPN2 Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/espn2.html"
+  },
+  {
+    "partido": "Barcelona SC vs Cruzeiro",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "Fox Sports 2",
+    "url": "https://la14hd.com/vivo/canal.php?stream=foxsports2"
+  },
+  {
+    "partido": "Barcelona SC vs Cruzeiro",
+    "liga": "Copa Libertadores",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "beIN Sports XTRA Español",
+    "url": "https://la14hd.com/vivo/canal.php?stream=beinsport_xtra_espanol"
+  },
+  {
+    "partido": "O'Higgins vs Millonarios",
+    "liga": "Copa Sudamericana",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "ESPN",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn"
+  },
+  {
+    "partido": "O'Higgins vs Millonarios",
+    "liga": "Copa Sudamericana",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney10"
+  },
+  {
+    "partido": "O'Higgins vs Millonarios",
+    "liga": "Copa Sudamericana",
+    "hora": "19:00",
+    "fecha": "",
+    "canal": "ESPN Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/espn.html"
+  },
+  {
+    "partido": "Boston River vs São Paulo",
+    "liga": "Copa Sudamericana",
     "hora": "19:30",
     "fecha": "",
-    "Win Sports +": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus",
-    "Win Sports + | OP3": "https://tvtvhd.com/vivo/canales.php?stream=winsportsplus"
+    "canal": "Dsports",
+    "url": "https://la14hd.com/vivo/canal.php?stream=dsports"
   },
   {
-    "partido": "Universitario vs Alianza Lima",
-    "liga": "Liga 1",
-    "hora": "20:00",
+    "partido": "Boston River vs São Paulo",
+    "liga": "Copa Sudamericana",
+    "hora": "19:30",
     "fecha": "",
-    "Liga1MAX": "https://tvtvhd.com/vivo/canal.php?stream=liga1max",
-    "Liga1Max | OP3": "https://tvtvhd.com/vivo/canales.php?stream=liga1max"
+    "canal": "Dsports Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/dgo.html"
+  },
+  {
+    "partido": "Universidad Católica vs Boca Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "fecha": "",
+    "canal": "ESPN5",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn5"
+  },
+  {
+    "partido": "Universidad Católica vs Boca Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney11"
+  },
+  {
+    "partido": "Universidad Católica vs Boca Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "fecha": "",
+    "canal": "ESPN5 Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/espn5.1.html"
+  },
+  {
+    "partido": "Universidad Católica vs Boca Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "fecha": "",
+    "canal": "Fox Sports",
+    "url": "https://la14hd.com/vivo/canal.php?stream=foxsports"
+  },
+  {
+    "partido": "Universidad Católica vs Boca Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "fecha": "",
+    "canal": "Telefe",
+    "url": "https://la14hd.com/vivo/canal.php?stream=telefe"
+  },
+  {
+    "partido": "Universidad Católica vs Boca Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "fecha": "",
+    "canal": "ESPN4 MX",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn4mx"
+  },
+  {
+    "partido": "Universidad Católica vs Boca Juniors",
+    "liga": "Copa Libertadores",
+    "hora": "19:30",
+    "fecha": "",
+    "canal": "beIN Sports Ñ",
+    "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
+  },
+  {
+    "partido": "Deportes Tolima vs Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "ESPN",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espn"
+  },
+  {
+    "partido": "Deportes Tolima vs Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney12"
+  },
+  {
+    "partido": "Deportes Tolima vs Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "ESPN Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/espn.html"
+  },
+  {
+    "partido": "Deportes Tolima vs Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "Fox Sports 3",
+    "url": "https://la14hd.com/vivo/canal.php?stream=foxsports3"
+  },
+  {
+    "partido": "Deportes Tolima vs Universitario",
+    "liga": "Copa Libertadores",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "beIN Sports Ñ",
+    "url": "https://la14hd.com/vivo/canal.php?stream=beinsportes"
+  },
+  {
+    "partido": "Alianza Atlético vs Tigre",
+    "liga": "Copa Sudamericana",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "Dsports 2",
+    "url": "https://la14hd.com/vivo/canal.php?stream=dsports2"
+  },
+  {
+    "partido": "Alianza Atlético vs Tigre",
+    "liga": "Copa Sudamericana",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "Dsports 2 Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/eventos.html"
+  },
+  {
+    "partido": "Los Angeles FC vs Cruz Azul",
+    "liga": "CONCACAF Champions Cup",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "Disney+",
+    "url": "https://la14hd.com/vivo/canal.php?stream=disney13"
+  },
+  {
+    "partido": "Los Angeles FC vs Cruz Azul",
+    "liga": "CONCACAF Champions Cup",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "TUDN USA",
+    "url": "https://la14hd.com/vivo/canal.php?stream=tudn"
+  },
+  {
+    "partido": "Los Angeles FC vs Cruz Azul",
+    "liga": "CONCACAF Champions Cup",
+    "hora": "21:00",
+    "fecha": "",
+    "canal": "TUDN USA Movil",
+    "url": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/tudnusa.html"
   }
 ]
