@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Player</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #0a0a0a;
+      color: #fff;
+      font-family: sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .spinner {
+      width: 40px; height: 40px;
+      border: 3px solid #333;
+      border-top-color: #e50914;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    p { font-size: 14px; color: #888; }
+    a { color: #e50914; text-decoration: none; font-size: 13px; }
+  </style>
+</head>
+<body>
+  <div class="spinner"></div>
+  <p>Cargando reproductor...</p>
+  <a id="fallback" href="#" style="display:none">Abrir manualmente</a>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
+
+    if (id) {
+      const url = "https://teagan.mvksstick9uq6cprotection.cfd/es/player.html?mdata=" + id + "&ilang=es";
+      document.getElementById("fallback").href = url;
+      // Mostrar enlace manual por si el redirect falla
+      setTimeout(() => {
+        document.getElementById("fallback").style.display = "inline";
+      }, 2000);
+      window.location.href = url;
+    } else {
+      document.querySelector("p").textContent = "No se proporcionó ID de contenido.";
+    }
+  </script>
+</body>
+</html>
