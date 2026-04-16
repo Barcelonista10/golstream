@@ -304,7 +304,7 @@
     "nombre": "LaLigaTV BAR",
     "categoria": "ESPAÑA",
     "stream": "laligatvbar",
-    "url": "https://la14hd.com/vivo/canales.php?stream=laligatvbar",
+    "url": "http://tvphp.alwaysdata.net/tv/media3.php?id=78",
     "activo": false
   }
 ]
