@@ -1,169 +1,422 @@
 [
   {
-    "title": "14:00 - FA Cup: Southampton vs Arsenal",
+    "partido": "ESPN 1",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "14:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=espn2",
-    "s2": "https://la14hd.com/vivo/canales.php?stream=disney7"
+    "url": "https://streamtp10.com/global1.php?stream=espn"
   },
   {
-    "title": "14:00 - Eredivisie: Ajax vs Twente",
+    "partido": "ESPN 2",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "14:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=disney9",
-    "s2": "https://la14hd.com/vivo/canales.php?stream=espn2mx",
-    "s3": "https://la14hd.com/vivo/canales.php?stream=espn2_nl"
+    "url": "https://streamtp10.com/global1.php?stream=espn2"
   },
   {
-    "title": "14:00 - LaLiga: Atlético Madrid vs Barcelona",
+    "partido": "ESPN 3",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "14:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=espn",
-    "s2": "https://la14hd.com/vivo/canales.php?stream=disney8",
-    "s3": "https://la14hd.com/vivo/canales.php?stream=espndeportes",
-    "s4": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga"
+    "url": "https://streamtp10.com/global1.php?stream=espn3"
   },
   {
-    "title": "14:05 - Ligue 1: Lille vs Lens",
+    "partido": "ESPN 4",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "14:05",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=disney10",
-    "s2": "https://la14hd.com/vivo/canales.php?stream=beinsportes"
+    "url": "https://streamtp10.com/global1.php?stream=espn4"
   },
   {
-    "title": "14:30 - Segunda División: Deportivo Colonia vs Plaza Colonia",
+    "partido": "ESPN 5",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "14:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=disney11"
+    "url": "https://streamtp10.com/global1.php?stream=espn5"
   },
   {
-    "title": "15:00 - Sudamericano Sub-17: Perú Sub-17 vs Argentina Sub-17",
+    "partido": "ESPN 6",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "15:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=dsportsplus"
+    "url": "https://streamtp10.com/global1.php?stream=espn6"
   },
   {
-    "title": "15:30 - Liga Profesional: Independiente vs Racing Club",
+    "partido": "ESPN 7",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "15:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=disney12",
-    "s2": "https://la14hd.com/vivo/canales.php?stream=espnpremium"
+    "url": "https://streamtp10.com/global1.php?stream=espn7"
   },
   {
-    "title": "15:30 - Liga 1: Melgar vs Cusco",
+    "partido": "Win Sports +",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "15:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=liga1max"
+    "url": "https://streamtp10.com/global1.php?stream=winplus"
   },
   {
-    "title": "16:30 - Brasileirão: São Paulo vs Cruzeiro",
+    "partido": "Win Sports + (Op2)",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "16:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=premiere3"
+    "url": "https://streamtp10.com/global1.php?stream=winplus2"
   },
   {
-    "title": "17:00 - Primera División: Progreso vs Peñarol",
+    "partido": "Win Sports",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "17:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=disney13"
+    "url": "https://streamtp10.com/global1.php?stream=winsports"
   },
   {
-    "title": "18:00 - Liga de Primera: Everton vs Ñublense",
+    "partido": "Fox Sports 1 (Argentina)",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "18:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=tntsportschile"
+    "url": "https://streamtp10.com/global1.php?stream=fox1ar"
   },
   {
-    "title": "18:00 - Liga MX: Monterrey vs Atlético San Luis",
+    "partido": "Fox Sports 2 (Argentina)",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "18:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=tudn"
+    "url": "https://streamtp10.com/global1.php?stream=fox2ar"
   },
   {
-    "title": "18:30 - Brasileirão: Coritiba vs Fluminense",
+    "partido": "Fox Sports 3 (Argentina)",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "18:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=premiere2"
+    "url": "https://streamtp10.com/global1.php?stream=fox3ar"
   },
   {
-    "title": "18:30 - MLS: Inter Miami vs Austin",
+    "partido": "Dsports",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "18:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=mls1es"
+    "url": "https://streamtp10.com/global1.php?stream=dsports"
   },
   {
-    "title": "19:00 - Brasileirão: Vasco da Gama vs Botafogo",
+    "partido": "Dsports 2",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "19:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=premiere1"
+    "url": "https://streamtp10.com/global1.php?stream=dsports2"
   },
   {
-    "title": "19:00 - Liga Profesional: Rosario Central vs Atlético Tucumán",
+    "partido": "Dsports +",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "19:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=tntsports"
+    "url": "https://streamtp10.com/global1.php?stream=dsportsplus"
   },
   {
-    "title": "19:30 - Liga BetPlay: Deportes Tolima vs Santa Fe",
+    "partido": "TNT Sports Chile",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "19:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=winsportsplus",
-    "s2": "https://la14hd.com/vivo/canales.php?stream=winsports2",
-    "s3": "https://rojadirectatve.com/sw.html?get=https://rojadirectatve.com/repro/winplus.html"
+    "url": "https://streamtp10.com/global1.php?stream=tntsportschile"
   },
   {
-    "title": "20:00 - Liga 1: Universitario vs Alianza Lima",
+    "partido": "TNT Sports Argentina",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "20:00",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=liga1max"
+    "url": "https://streamtp10.com/global1.php?stream=tntsports"
   },
   {
-    "title": "13:15 - Liga 1: Deportivo Garcilaso vs Sport Boys",
+    "partido": "ESPN Premium Argentina",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "13:15",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=liga1max"
+    "url": "https://streamtp10.com/global1.php?stream=espnpremium"
   },
   {
-    "title": "13:30 - Primera División: Danubio vs Torque",
+    "partido": "TyC Sports",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "13:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=disney4"
+    "url": "https://streamtp10.com/global1.php?stream=tycsports"
   },
   {
-    "title": "13:30 - Bundesliga 2: Dynamo Dresden vs Hertha BSC",
+    "partido": "Telefe",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "13:30",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=disney5"
+    "url": "https://streamtp10.com/global1.php?stream=telefe"
   },
   {
-    "title": "13:45 - Serie A: Lazio vs Parma",
+    "partido": "TV Pública",
+    "liga": "",
+    "hora": "",
     "fecha": "",
-    "hora": "13:45",
-    "duracion": 120,
-    "s1": "https://la14hd.com/vivo/canales.php?stream=espn3",
-    "s2": "https://la14hd.com/vivo/canales.php?stream=disney6",
-    "s3": "https://la14hd.com/vivo/canales.php?stream=espnmx",
-    "s4": "https://la14hd.com/vivo/canales.php?stream=foxdeportes"
+    "url": "https://streamtp10.com/global1.php?stream=tv_publica"
+  },
+  {
+    "partido": "Liga 1 MAX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=liga1max"
+  },
+  {
+    "partido": "ESPN Deportes USA",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=espndeportes"
+  },
+  {
+    "partido": "TUDN USA",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=tudn_usa"
+  },
+  {
+    "partido": "Fox Sports 1 USA",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=fox_1_usa"
+  },
+  {
+    "partido": "Fox Sports 2 USA",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=fox_2_usa"
+  },
+  {
+    "partido": "Universo USA",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=universo_usa"
+  },
+  {
+    "partido": "Univisíon USA",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=univision_usa"
+  },
+  {
+    "partido": "Fox Deportes USA",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=fox_deportes_usa"
+  },
+  {
+    "partido": "Azteca 7 MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=azteca7"
+  },
+  {
+    "partido": "Fox Sports 1 MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=foxsportsmx"
+  },
+  {
+    "partido": "Fox Sports 2 MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=foxsports2mx"
+  },
+  {
+    "partido": "Fox Sports 3 MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=foxsports3mx"
+  },
+  {
+    "partido": "Fox Sports Premium",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=foxsportspremium"
+  },
+  {
+    "partido": "ESPN MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=espnmx"
+  },
+  {
+    "partido": "ESPN 2 MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=espn2mx"
+  },
+  {
+    "partido": "ESPN 3 MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=espn3mx"
+  },
+  {
+    "partido": "TNT 1 GB",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=tnt_1_gb"
+  },
+  {
+    "partido": "TNT 2 GB",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=tnt_2_gb"
+  },
+  {
+    "partido": "TNT 3 GB",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=tnt_3_gb"
+  },
+  {
+    "partido": "TNT 4 GB",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=tnt_4_gb"
+  },
+  {
+    "partido": "Sport TV 1 BR",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=sporttvbr1"
+  },
+  {
+    "partido": "Sport TV 2 BR",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=sporttvbr2"
+  },
+  {
+    "partido": "Sport TV 3 BR",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=sporttvbr3"
+  },
+  {
+    "partido": "Premiere 1 BR",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=premiere1"
+  },
+  {
+    "partido": "Premiere 2 BR",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=premiere2"
+  },
+  {
+    "partido": "Premiere 3 BR",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=premiere3"
+  },
+  {
+    "partido": "ESPN 1 NL",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=espn_nl1"
+  },
+  {
+    "partido": "ESPN 2 NL",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=espn_nl2"
+  },
+  {
+    "partido": "ESPN 3 NL",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=espn_nl3"
+  },
+  {
+    "partido": "Fox ONE MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=foxone"
+  },
+  {
+    "partido": "Fox MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=fox"
+  },
+  {
+    "partido": "USA Network",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=usa_network"
+  },
+  {
+    "partido": "TyC Sports Internacional",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=tycinternacional"
+  },
+  {
+    "partido": "Canal 5 MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=canal5mx"
+  },
+  {
+    "partido": "TUDN MX",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=tudnmx"
+  },
+  {
+    "partido": "FUTV (Eventos)",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=futv"
+  },
+  {
+    "partido": "LaLiga Hypermotion",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=laligahypermotion"
+  },
+  {
+    "partido": "Tigo Sports Paraguay (Eventos)",
+    "liga": "",
+    "hora": "",
+    "fecha": "",
+    "url": "https://streamtp10.com/global1.php?stream=tigosportsparaguay"
   }
 ]
