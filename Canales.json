@@ -1,744 +1,433 @@
 [
   {
-    "partido": "ESPN",
-    "liga": "LATINOAMERICA",
-    "hora": "🔴 Inactivo",
+    "partido": "Udinese vs Parma",
+    "liga": "Serie A",
+    "hora": "08:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn"
+    "Disney+": "https://skylivefu.com/live.php?stream=disney1",
+    "Fox Deportes USA": "https://skylivefu.com/live.php?stream=fox_deportes_usa"
   },
   {
-    "partido": "ESPN 2",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Hoffenheim vs Borussia Dortmund",
+    "liga": "Bundesliga",
+    "hora": "08:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2"
+    "Disney+": "https://skylivefu.com/live.php?stream=disney2",
+    "ESPN": "https://skylivefu.com/live.php?stream=espn2"
   },
   {
-    "partido": "ESPN 3",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Bayer Leverkusen vs Augsburg",
+    "liga": "Bundesliga",
+    "hora": "08:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn3"
+    "url": "https://skylivefu.com/live.php?stream=disney3"
   },
   {
-    "partido": "ESPN 4",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Union Berlin vs Wolfsburg",
+    "liga": "Bundesliga",
+    "hora": "08:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn4"
+    "url": "https://skylivefu.com/live.php?stream=disney4"
   },
   {
-    "partido": "ESPN 5",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Werder Bremen vs Hamburger SV",
+    "liga": "Bundesliga",
+    "hora": "08:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn5"
+    "url": "https://skylivefu.com/live.php?stream=disney5"
   },
   {
-    "partido": "ESPN 6",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Real Zaragoza vs Ceuta",
+    "liga": "LaLiga 2",
+    "hora": "09:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn6"
+    "url": "https://skylivefu.com/live.php?stream=laligahypermotion"
   },
   {
-    "partido": "ESPN 7",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Lorient vs Olympique Marseille",
+    "liga": "Ligue 1",
+    "hora": "10:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn7"
+    "Disney+": "https://skylivefu.com/live.php?stream=disney6",
+    "ESPN": "https://skylivefu.com/live.php?stream=espn4"
   },
   {
-    "partido": "DSports",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Napoli vs Lazio",
+    "liga": "Serie A",
+    "hora": "11:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dsports"
+    "Disney+": "https://skylivefu.com/live.php?stream=disney7",
+    "ESPN": "https://skylivefu.com/live.php?stream=espn",
+    "ESPN MX": "https://skylivefu.com/live.php?stream=espnmx",
+    "Fox Deportes USA": "https://skylivefu.com/live.php?stream=fox_deportes_usa"
   },
   {
-    "partido": "DSports 2",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Progreso vs Wanderers",
+    "liga": "Primera División",
+    "hora": "11:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dsports2"
+    "url": "https://skylivefu.com/live.php?stream=disney8"
   },
   {
-    "partido": "DSports Plus",
-    "liga": "LATINOAMERICA",
-    "hora": "🔴 Inactivo",
+    "partido": "Eintracht Frankfurt vs RB Leipzig",
+    "liga": "Bundesliga",
+    "hora": "11:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus"
+    "Disney+": "https://skylivefu.com/live.php?stream=disney9",
+    "ESPN": "https://skylivefu.com/live.php?stream=espn2"
   },
   {
-    "partido": "GOLTV",
-    "liga": "LATINOAMERICA",
-    "hora": "🔴 Inactivo",
+    "partido": "CD Castellon vs Burgos",
+    "liga": "LaLiga 2",
+    "hora": "11:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=goltv"
+    "url": "https://skylivefu.com/live.php?stream=laligahypermotion"
   },
   {
-    "partido": "VTV Plus",
-    "liga": "LATINOAMERICA",
-    "hora": "🔴 Inactivo",
+    "partido": "Angers SCO vs Le Havre",
+    "liga": "Ligue 1",
+    "hora": "12:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=vtvplus"
+    "url": "https://skylivefu.com/live.php?stream=disney10"
   },
   {
-    "partido": "ECDF LigaPro (eventos)",
-    "liga": "LATINOAMERICA",
-    "hora": "🟢 Activo",
+    "partido": "Gençlerbirliği vs Galatasaray",
+    "liga": "Super Lig",
+    "hora": "12:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro"
+    "url": "https://skylivefu.com/live.php?stream=disney11"
   },
   {
-    "partido": "Fox Sports",
-    "liga": "ARGENTINA",
-    "hora": "🔴 Inactivo",
+    "partido": "Toronto FC vs Austin",
+    "liga": "MLS",
+    "hora": "12:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports"
+    "url": "https://skylivefu.com/live.php?stream=mls1en"
   },
   {
-    "partido": "Fox Sports 2",
-    "liga": "ARGENTINA",
-    "hora": "🟢 Activo",
+    "partido": "Raptors vs Cavaliers",
+    "liga": "NBA",
+    "hora": "12:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2"
+    "url": "https://skylivefu.com/live.php?stream=nba1"
   },
   {
-    "partido": "Fox Sports 3",
-    "liga": "ARGENTINA",
-    "hora": "🔴 Inactivo",
+    "partido": "Gimnasia La Plata vs Estudiantes Río Cuarto",
+    "liga": "Liga Profesional",
+    "hora": "13:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3"
+    "ESPN Premium Argentina": "https://skylivefu.com/live.php?stream=espnpremium",
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz1"
   },
   {
-    "partido": "TNT Sports",
-    "liga": "ARGENTINA",
-    "hora": "🟢 Activo",
+    "partido": "FC Cajamarca vs ADT",
+    "liga": "Liga 1",
+    "hora": "13:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tntsports"
+    "url": "https://skylivefu.com/live.php?stream=fanatiz2"
   },
   {
-    "partido": "ESPN Premium",
-    "liga": "ARGENTINA",
-    "hora": "🟢 Activo",
+    "partido": "CF Montréal vs New York RB",
+    "liga": "MLS",
+    "hora": "13:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium"
+    "url": "https://skylivefu.com/live.php?stream=mls2en"
   },
   {
-    "partido": "TyC Sports",
-    "liga": "ARGENTINA",
-    "hora": "🟢 Activo",
+    "partido": "Roma vs Atalanta",
+    "liga": "Serie A",
+    "hora": "13:45",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+    "url": "https://skylivefu.com/live.php?stream=disney12"
   },
   {
-    "partido": "TyC Sports Internacional (USA)",
-    "liga": "ARGENTINA",
-    "hora": "🟢 Activo",
+    "partido": "Atlético Madrid vs Real Sociedad | Final",
+    "liga": "Copa del Rey",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tycinternacional"
+    "ESPN+ | Español": "https://skylivefu.com/live.php?stream=espnplus1",
+    "ESPN+ | English": "https://skylivefu.com/live.php?stream=espnplus2",
+    "Win Sports": "https://skylivefu.com/live.php?stream=winsports",
+    "ESPN Deportes USA": "https://skylivefu.com/live.php?stream=espndeportes"
   },
   {
-    "partido": "Telefe",
-    "liga": "ARGENTINA",
-    "hora": "🔴 Inactivo",
+    "partido": "Racing vs Defensor Sporting",
+    "liga": "Primera División",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=telefe"
+    "url": "https://skylivefu.com/live.php?stream=disney13"
   },
   {
-    "partido": "TV Pública",
-    "liga": "ARGENTINA",
-    "hora": "🔴 Inactivo",
+    "partido": "Lille vs Nice",
+    "liga": "Ligue 1",
+    "hora": "14:05",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tvpublica"
+    "url": "https://skylivefu.com/live.php?stream=disney14"
   },
   {
-    "partido": "Liga1 MAX",
-    "liga": "PERÚ",
-    "hora": "🟢 Activo",
+    "partido": "Timberwolves vs Nuggets",
+    "liga": "NBA",
+    "hora": "14:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=liga1max"
+    "url": "https://skylivefu.com/live.php?stream=nba2"
   },
   {
-    "partido": "Movistar Deportes",
-    "liga": "PERÚ",
-    "hora": "🔴 Inactivo",
+    "partido": "Gilberto Burns vs Mike Malott",
+    "liga": "UFC",
+    "hora": "15:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=movistar"
+    "Paramount": "https://skylivefu.com/live.php?stream=paramount2"
   },
   {
-    "partido": "Win Sports Plus",
-    "liga": "COLOMBIA",
-    "hora": "🟢 Activo",
+    "partido": "Instituto vs Estudiantes (LP)",
+    "liga": "Liga Profesional",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus"
+    "TNT Sports Argentina": "https://skylivefu.com/live.php?stream=tntsports",
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz3"
   },
   {
-    "partido": "Win Sports plus (2)",
-    "liga": "COLOMBIA",
-    "hora": "🟢 Activo",
+    "partido": "Juan Pablo II College vs Comerciantes Unidos",
+    "liga": "Liga 1",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=winsports2"
+    "url": "https://skylivefu.com/live.php?stream=fanatiz4"
   },
   {
-    "partido": "Win Sports",
-    "liga": "COLOMBIA",
-    "hora": "🟢 Activo",
+    "partido": "Guaraní vs Sportivo Luqueño",
+    "liga": "Copa de Primera",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=winsports"
+    "url": "https://skylivefu.com/live.php?stream=fanatiz5"
   },
   {
-    "partido": "Fox Sports",
-    "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "partido": "Colorado Rapids vs Inter Miami",
+    "liga": "MLS",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsportsmx"
+    "url": "https://skylivefu.com/live.php?stream=mls3en"
   },
   {
-    "partido": "Fox Sports 2",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "Everton vs Universidad Chile",
+    "liga": "Liga de Primera",
+    "hora": "16:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2mx"
+    "url": "https://skylivefu.com/live.php?stream=max1"
   },
   {
-    "partido": "Fox Sports 3",
-    "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "partido": "Chapecoense vs Botafogo",
+    "liga": "Brasileirão",
+    "hora": "16:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3mx"
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz6",
+    "Premiere 2 BR": "https://skylivefu.com/live.php?stream=premiere2"
   },
   {
-    "partido": "Fox Sports Premium",
-    "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "partido": "Vasco da Gama vs São Paulo",
+    "liga": "Brasileirão",
+    "hora": "16:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsportspremium"
+    "url": "https://skylivefu.com/live.php?stream=fanatiz7"
   },
   {
-    "partido": "TUDN",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "WrestleMania 42 - Las Vegas",
+    "liga": "WWE",
+    "hora": "17:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
+    "ESPN+": "https://skylivefu.com/live.php?stream=espnplus4"
   },
   {
-    "partido": "ESPN",
-    "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "partido": "Hawks vs Knicks",
+    "liga": "NBA",
+    "hora": "17:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espnmx"
+    "url": "https://skylivefu.com/live.php?stream=nba3"
   },
   {
-    "partido": "ESPN 2",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "Independiente vs Defensa y Justicia",
+    "liga": "Liga Profesional",
+    "hora": "17:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2mx"
+    "ESPN Premium Argentina": "https://skylivefu.com/live.php?stream=espnpremium",
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz8"
   },
   {
-    "partido": "ESPN 3",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "Sport Huancayo vs Deportivo Garcilaso",
+    "liga": "Liga 1",
+    "hora": "17:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn3mx"
+    "url": "https://skylivefu.com/live.php?stream=fanatiz9"
   },
   {
-    "partido": "ESPN 4",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "Cruz Azul vs Tijuana",
+    "liga": "Liga MX",
+    "hora": "18:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn4mx"
+    "Canal 5 MX": "https://skylivefu.com/live.php?stream=canal5mx",
+    "TUDN USA": "https://skylivefu.com/live.php?stream=tudn_usa"
   },
   {
-    "partido": "Caliente TV",
-    "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "partido": "Vitória vs Corinthians",
+    "liga": "Brasileirão",
+    "hora": "18:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=calientetv"
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz10",
+    "Premiere 1 BR": "https://skylivefu.com/live.php?stream=premiere1"
   },
   {
-    "partido": "Azteca 7",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "Deportes Tolima vs Deportivo Pereira",
+    "liga": "Liga BetPlay",
+    "hora": "18:10",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=azteca7"
+    "Win Sports +": "https://skylivefu.com/live.php?stream=winplus",
+    "Win Sports + (Op2)": "https://skylivefu.com/live.php?stream=winplus2",
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz1"
   },
   {
-    "partido": "Canal 5",
-    "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "partido": "Deportivo Recoleta vs 2 de Mayo",
+    "liga": "Copa de Primera",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=canal5"
+    "url": "https://skylivefu.com/live.php?stream=fanatiz2"
   },
   {
-    "partido": "TVC Deportes",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "Atlanta United vs Nashville SC",
+    "liga": "MLS",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tvc_deportes"
+    "url": "https://skylivefu.com/live.php?stream=mls4en"
   },
   {
-    "partido": "Azteca Deportes",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "Cincinnati vs Chicago Fire",
+    "liga": "MLS",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes"
+    "url": "https://skylivefu.com/live.php?stream=mls5en"
   },
   {
-    "partido": "Hisports",
-    "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "partido": "New England vs Columbus Crew",
+    "liga": "MLS",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=hisports"
+    "url": "https://skylivefu.com/live.php?stream=mls6en"
   },
   {
-    "partido": "Sky Sports LaLiga",
-    "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "partido": "New York City vs Charlotte",
+    "liga": "MLS",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga"
+    "url": "https://skylivefu.com/live.php?stream=mls7en"
   },
   {
-    "partido": "Sky Sports Bundesliga",
-    "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "partido": "Orlando City SC vs Houston Dynamo",
+    "liga": "MLS",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga_mx"
+    "url": "https://skylivefu.com/live.php?stream=mls8en"
   },
   {
-    "partido": "Fox Deportes",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Philadelphia Union vs DC United",
+    "liga": "MLS",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxdeportes"
+    "url": "https://skylivefu.com/live.php?stream=mls9en"
   },
   {
-    "partido": "ESPN Deportes",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Cruzeiro vs Grêmio",
+    "liga": "Brasileirão",
+    "hora": "18:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes"
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz3",
+    "Premiere 3 BR": "https://skylivefu.com/live.php?stream=premiere3"
   },
   {
-    "partido": "TUDN",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Deportes Concepción vs La Serena",
+    "liga": "Liga de Primera",
+    "hora": "19:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tudn"
+    "url": "https://skylivefu.com/live.php?stream=max2"
   },
   {
-    "partido": "Univisión",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Dallas vs LA Galaxy",
+    "liga": "MLS",
+    "hora": "19:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=univision"
+    "url": "https://skylivefu.com/live.php?stream=mls10en"
   },
   {
-    "partido": "Fox Sports 1",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Minnesota United vs Portland Timbers",
+    "liga": "MLS",
+    "hora": "19:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports1_usa"
+    "url": "https://skylivefu.com/live.php?stream=mls1en"
   },
   {
-    "partido": "Fox Sports 2",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Rockets vs Lakers",
+    "liga": "NBA",
+    "hora": "19:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2_usa"
+    "ESPN": "https://skylivefu.com/live.php?stream=espn2",
+    "ESPN MX": "https://skylivefu.com/live.php?stream=espnmx"
   },
   {
-    "partido": "Universo",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Argentinos Juniors vs Atlético Tucumán",
+    "liga": "Liga Profesional",
+    "hora": "19:45",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=universo"
+    "TNT Sports Argentina": "https://skylivefu.com/live.php?stream=tntsports",
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz4"
   },
   {
-    "partido": "BeIN Sports Español",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Alianza Lima vs Cusco",
+    "liga": "Liga 1",
+    "hora": "20:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes"
+    "url": "https://skylivefu.com/live.php?stream=fanatiz5"
   },
   {
-    "partido": "Unimás",
-    "liga": "USA",
-    "hora": "🟢 Activo",
+    "partido": "Monterrey vs Pachuca",
+    "liga": "Liga MX",
+    "hora": "20:05",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=unimas"
+    "Canal 5 MX": "https://skylivefu.com/live.php?stream=canal5mx",
+    "TUDN USA": "https://skylivefu.com/live.php?stream=tudn_usa"
   },
   {
-    "partido": "BeIN Sports Xtra Español",
-    "liga": "USA",
-    "hora": "🔴 Inactivo",
+    "partido": "Guadalajara vs Puebla",
+    "liga": "Liga MX",
+    "hora": "20:05",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol"
+    "url": "https://skylivefu.com/live.php?stream=universo_usa"
   },
   {
-    "partido": "ESPN",
-    "liga": "USA",
-    "hora": "🔴 Inactivo",
+    "partido": "Fortaleza CEIF vs Rionegro Águilas",
+    "liga": "Liga BetPlay",
+    "hora": "20:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn_usa"
+    "Win Sports +": "https://skylivefu.com/live.php?stream=winplus",
+    "Win Sports + (Op2)": "https://skylivefu.com/live.php?stream=winplus2",
+    "Fanatiz": "https://skylivefu.com/live.php?stream=fanatiz6"
   },
   {
-    "partido": "ESPN2",
-    "liga": "USA",
-    "hora": "🔴 Inactivo",
+    "partido": "Real Salt Lake vs San Diego",
+    "liga": "MLS",
+    "hora": "20:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2_usa"
+    "url": "https://skylivefu.com/live.php?stream=mls2en"
   },
   {
-    "partido": "ESPN U",
-    "liga": "USA",
-    "hora": "🔴 Inactivo",
+    "partido": "Seattle Sounders FC vs St. Louis City",
+    "liga": "MLS",
+    "hora": "20:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espnu"
+    "url": "https://skylivefu.com/live.php?stream=mls3en"
   },
   {
-    "partido": "CBS Sports Network",
-    "liga": "USA",
-    "hora": "🔴 Inactivo",
+    "partido": "América vs Toluca",
+    "liga": "Liga MX",
+    "hora": "22:10",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=cbs_sports_network"
-  },
-  {
-    "partido": "USAnetwork",
-    "liga": "USA",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=usanetwork"
-  },
-  {
-    "partido": "Telemundo",
-    "liga": "USA",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=telemundo"
-  },
-  {
-    "partido": "TNT Sports Chile",
-    "liga": "CHILE",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=eventos13"
-  },
-  {
-    "partido": "Premiere 1",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere1"
-  },
-  {
-    "partido": "Premiere 2",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere2"
-  },
-  {
-    "partido": "Premiere 3",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere3"
-  },
-  {
-    "partido": "Premiere 4",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere4"
-  },
-  {
-    "partido": "Premiere 5",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere5"
-  },
-  {
-    "partido": "Premiere 6",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere6"
-  },
-  {
-    "partido": "Premiere 7",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere7"
-  },
-  {
-    "partido": "Premiere 8",
-    "liga": "BRASIL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=premiere8"
-  },
-  {
-    "partido": "Sportv",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "partido": "Sportv 2",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sportv2"
-  },
-  {
-    "partido": "Sportv 3",
-    "liga": "BRASIL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sportv3"
-  },
-  {
-    "partido": "Sport TV 1",
-    "liga": "PORTUGAL",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv1"
-  },
-  {
-    "partido": "Sport TV 2",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv2"
-  },
-  {
-    "partido": "Sport TV 3",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv3"
-  },
-  {
-    "partido": "Sport TV 4",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv4"
-  },
-  {
-    "partido": "Sport TV 5",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv5"
-  },
-  {
-    "partido": "Sport TV 6",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv6"
-  },
-  {
-    "partido": "Canal 11",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=canal11_pt"
-  },
-  {
-    "partido": "Dazn Eleven 1",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=eleven1_pt"
-  },
-  {
-    "partido": "Dazn Eleven 2",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=eleven2_pt"
-  },
-  {
-    "partido": "Dazn Eleven 3",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=eleven3_pt"
-  },
-  {
-    "partido": "Dazn Eleven 4",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=eleven4_pt"
-  },
-  {
-    "partido": "Dazn Eleven 5",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=eleven5_pt"
-  },
-  {
-    "partido": "Dazn Eleven 6",
-    "liga": "PORTUGAL",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=eleven6_pt"
-  },
-  {
-    "partido": "DAZN 1",
-    "liga": "ESPAÑA",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dazn1"
-  },
-  {
-    "partido": "DAZN 2",
-    "liga": "ESPAÑA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dazn2"
-  },
-  {
-    "partido": "DAZN 3 (eventos)",
-    "liga": "ESPAÑA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dazn3"
-  },
-  {
-    "partido": "DAZN 4 (eventos)",
-    "liga": "ESPAÑA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dazn4"
-  },
-  {
-    "partido": "DAZN LaLiga",
-    "liga": "ESPAÑA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dazn_laliga"
-  },
-  {
-    "partido": "La 1 TVE",
-    "liga": "ESPAÑA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=la1tve"
-  },
-  {
-    "partido": "Liga de Campeones 1",
-    "liga": "ESPAÑA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones1"
-  },
-  {
-    "partido": "Liga de Campeones 2",
-    "liga": "ESPAÑA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones2"
-  },
-  {
-    "partido": "Liga de Campeones 3",
-    "liga": "ESPAÑA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones3"
-  },
-  {
-    "partido": "LaLigaTV BAR",
-    "liga": "ESPAÑA",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=laligatvbar"
-  },
-  {
-    "partido": "Sky Bundesliga 1",
-    "liga": "MUNDO",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga1"
-  },
-  {
-    "partido": "Sky Bundesliga 2",
-    "liga": "MUNDO",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga2"
-  },
-  {
-    "partido": "Sky Bundesliga 3",
-    "liga": "MUNDO",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga3"
-  },
-  {
-    "partido": "Sky Bundesliga 4",
-    "liga": "MUNDO",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga4"
-  },
-  {
-    "partido": "Sky Bundesliga 5",
-    "liga": "MUNDO",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga5"
-  },
-  {
-    "partido": "DAZN 1 DE",
-    "liga": "MUNDO",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dazn1_de"
-  },
-  {
-    "partido": "DAZN 2 DE",
-    "liga": "MUNDO",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dazn2_de"
-  },
-  {
-    "partido": "ESPN 1 NL",
-    "liga": "MUNDO",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn1_nl"
-  },
-  {
-    "partido": "ESPN 2 NL",
-    "liga": "MUNDO",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2_nl"
-  },
-  {
-    "partido": "ESPN 3 NL",
-    "liga": "MUNDO",
-    "hora": "🟢 Activo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn3_nl"
-  },
-  {
-    "partido": "Dazn Eleven Pro 1 BE",
-    "liga": "MUNDO",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=elevenpro1_be"
+    "Canal 5 MX": "https://skylivefu.com/live.php?stream=canal5mx",
+    "TUDN USA": "https://skylivefu.com/live.php?stream=tudn_usa"
   }
 ]
