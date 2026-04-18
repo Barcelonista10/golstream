@@ -1,422 +1,744 @@
 [
   {
-    "partido": "ESPN 1",
-    "liga": "",
-    "hora": "",
+    "partido": "ESPN",
+    "liga": "LATINOAMERICA",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn"
   },
   {
     "partido": "ESPN 2",
-    "liga": "",
-    "hora": "",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn2"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn2"
   },
   {
     "partido": "ESPN 3",
-    "liga": "",
-    "hora": "",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn3"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn3"
   },
   {
     "partido": "ESPN 4",
-    "liga": "",
-    "hora": "",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn4"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn4"
   },
   {
     "partido": "ESPN 5",
-    "liga": "",
-    "hora": "",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn5"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn5"
   },
   {
     "partido": "ESPN 6",
-    "liga": "",
-    "hora": "",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn6"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn6"
   },
   {
     "partido": "ESPN 7",
-    "liga": "",
-    "hora": "",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn7"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn7"
   },
   {
-    "partido": "Win Sports +",
-    "liga": "",
-    "hora": "",
+    "partido": "DSports",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=winplus"
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsports"
   },
   {
-    "partido": "Win Sports + (Op2)",
-    "liga": "",
-    "hora": "",
+    "partido": "DSports 2",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=winplus2"
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsports2"
   },
   {
-    "partido": "Win Sports",
-    "liga": "",
-    "hora": "",
+    "partido": "DSports Plus",
+    "liga": "LATINOAMERICA",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=winsports"
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus"
   },
   {
-    "partido": "Fox Sports 1 (Argentina)",
-    "liga": "",
-    "hora": "",
+    "partido": "GOLTV",
+    "liga": "LATINOAMERICA",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=fox1ar"
+    "url": "https://la14hd.com/vivo/canales.php?stream=goltv"
   },
   {
-    "partido": "Fox Sports 2 (Argentina)",
-    "liga": "",
-    "hora": "",
+    "partido": "VTV Plus",
+    "liga": "LATINOAMERICA",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=fox2ar"
+    "url": "https://la14hd.com/vivo/canales.php?stream=vtvplus"
   },
   {
-    "partido": "Fox Sports 3 (Argentina)",
-    "liga": "",
-    "hora": "",
+    "partido": "ECDF LigaPro (eventos)",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=fox3ar"
+    "url": "https://la14hd.com/vivo/canales.php?stream=ecdf_ligapro"
   },
   {
-    "partido": "Dsports",
-    "liga": "",
-    "hora": "",
+    "partido": "Fox Sports",
+    "liga": "ARGENTINA",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=dsports"
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports"
   },
   {
-    "partido": "Dsports 2",
-    "liga": "",
-    "hora": "",
+    "partido": "Fox Sports 2",
+    "liga": "ARGENTINA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=dsports2"
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2"
   },
   {
-    "partido": "Dsports +",
-    "liga": "",
-    "hora": "",
+    "partido": "Fox Sports 3",
+    "liga": "ARGENTINA",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=dsportsplus"
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3"
   },
   {
-    "partido": "TNT Sports Chile",
-    "liga": "",
-    "hora": "",
+    "partido": "TNT Sports",
+    "liga": "ARGENTINA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tntsportschile"
+    "url": "https://la14hd.com/vivo/canales.php?stream=tntsports"
   },
   {
-    "partido": "TNT Sports Argentina",
-    "liga": "",
-    "hora": "",
+    "partido": "ESPN Premium",
+    "liga": "ARGENTINA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tntsports"
-  },
-  {
-    "partido": "ESPN Premium Argentina",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espnpremium"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espnpremium"
   },
   {
     "partido": "TyC Sports",
-    "liga": "",
-    "hora": "",
+    "liga": "ARGENTINA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tycsports"
+    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports"
+  },
+  {
+    "partido": "TyC Sports Internacional (USA)",
+    "liga": "ARGENTINA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=tycinternacional"
   },
   {
     "partido": "Telefe",
-    "liga": "",
-    "hora": "",
+    "liga": "ARGENTINA",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=telefe"
+    "url": "https://la14hd.com/vivo/canales.php?stream=telefe"
   },
   {
     "partido": "TV Pública",
-    "liga": "",
-    "hora": "",
+    "liga": "ARGENTINA",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tv_publica"
+    "url": "https://la14hd.com/vivo/canales.php?stream=tvpublica"
   },
   {
-    "partido": "Liga 1 MAX",
-    "liga": "",
-    "hora": "",
+    "partido": "Liga1 MAX",
+    "liga": "PERÚ",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=liga1max"
+    "url": "https://la14hd.com/vivo/canales.php?stream=liga1max"
   },
   {
-    "partido": "ESPN Deportes USA",
-    "liga": "",
-    "hora": "",
+    "partido": "Movistar Deportes",
+    "liga": "PERÚ",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espndeportes"
+    "url": "https://la14hd.com/vivo/canales.php?stream=movistar"
   },
   {
-    "partido": "TUDN USA",
-    "liga": "",
-    "hora": "",
+    "partido": "Win Sports Plus",
+    "liga": "COLOMBIA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tudn_usa"
+    "url": "https://la14hd.com/vivo/canales.php?stream=winsportsplus"
   },
   {
-    "partido": "Fox Sports 1 USA",
-    "liga": "",
-    "hora": "",
+    "partido": "Win Sports plus (2)",
+    "liga": "COLOMBIA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=fox_1_usa"
+    "url": "https://la14hd.com/vivo/canales.php?stream=winsports2"
   },
   {
-    "partido": "Fox Sports 2 USA",
-    "liga": "",
-    "hora": "",
+    "partido": "Win Sports",
+    "liga": "COLOMBIA",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=fox_2_usa"
+    "url": "https://la14hd.com/vivo/canales.php?stream=winsports"
   },
   {
-    "partido": "Universo USA",
-    "liga": "",
-    "hora": "",
+    "partido": "Fox Sports",
+    "liga": "MÉXICO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=universo_usa"
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsportsmx"
   },
   {
-    "partido": "Univisíon USA",
-    "liga": "",
-    "hora": "",
+    "partido": "Fox Sports 2",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=univision_usa"
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2mx"
   },
   {
-    "partido": "Fox Deportes USA",
-    "liga": "",
-    "hora": "",
+    "partido": "Fox Sports 3",
+    "liga": "MÉXICO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=fox_deportes_usa"
-  },
-  {
-    "partido": "Azteca 7 MX",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=azteca7"
-  },
-  {
-    "partido": "Fox Sports 1 MX",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=foxsportsmx"
-  },
-  {
-    "partido": "Fox Sports 2 MX",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=foxsports2mx"
-  },
-  {
-    "partido": "Fox Sports 3 MX",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=foxsports3mx"
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3mx"
   },
   {
     "partido": "Fox Sports Premium",
-    "liga": "",
-    "hora": "",
+    "liga": "MÉXICO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=foxsportspremium"
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsportspremium"
   },
   {
-    "partido": "ESPN MX",
-    "liga": "",
-    "hora": "",
+    "partido": "TUDN",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espnmx"
+    "url": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
   },
   {
-    "partido": "ESPN 2 MX",
-    "liga": "",
-    "hora": "",
+    "partido": "ESPN",
+    "liga": "MÉXICO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn2mx"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espnmx"
   },
   {
-    "partido": "ESPN 3 MX",
-    "liga": "",
-    "hora": "",
+    "partido": "ESPN 2",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn3mx"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn2mx"
   },
   {
-    "partido": "TNT 1 GB",
-    "liga": "",
-    "hora": "",
+    "partido": "ESPN 3",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tnt_1_gb"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn3mx"
   },
   {
-    "partido": "TNT 2 GB",
-    "liga": "",
-    "hora": "",
+    "partido": "ESPN 4",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tnt_2_gb"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn4mx"
   },
   {
-    "partido": "TNT 3 GB",
-    "liga": "",
-    "hora": "",
+    "partido": "Caliente TV",
+    "liga": "MÉXICO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tnt_3_gb"
+    "url": "https://la14hd.com/vivo/canales.php?stream=calientetv"
   },
   {
-    "partido": "TNT 4 GB",
-    "liga": "",
-    "hora": "",
+    "partido": "Azteca 7",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tnt_4_gb"
+    "url": "https://la14hd.com/vivo/canales.php?stream=azteca7"
   },
   {
-    "partido": "Sport TV 1 BR",
-    "liga": "",
-    "hora": "",
+    "partido": "Canal 5",
+    "liga": "MÉXICO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=sporttvbr1"
+    "url": "https://la14hd.com/vivo/canales.php?stream=canal5"
   },
   {
-    "partido": "Sport TV 2 BR",
-    "liga": "",
-    "hora": "",
+    "partido": "TVC Deportes",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=sporttvbr2"
+    "url": "https://la14hd.com/vivo/canales.php?stream=tvc_deportes"
   },
   {
-    "partido": "Sport TV 3 BR",
-    "liga": "",
-    "hora": "",
+    "partido": "Azteca Deportes",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=sporttvbr3"
+    "url": "https://la14hd.com/vivo/canales.php?stream=azteca_deportes"
   },
   {
-    "partido": "Premiere 1 BR",
-    "liga": "",
-    "hora": "",
+    "partido": "Hisports",
+    "liga": "MÉXICO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=premiere1"
+    "url": "https://la14hd.com/vivo/canales.php?stream=hisports"
   },
   {
-    "partido": "Premiere 2 BR",
-    "liga": "",
-    "hora": "",
+    "partido": "Sky Sports LaLiga",
+    "liga": "MÉXICO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=premiere2"
+    "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga"
   },
   {
-    "partido": "Premiere 3 BR",
-    "liga": "",
-    "hora": "",
+    "partido": "Sky Sports Bundesliga",
+    "liga": "MÉXICO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=premiere3"
+    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga_mx"
+  },
+  {
+    "partido": "Fox Deportes",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxdeportes"
+  },
+  {
+    "partido": "ESPN Deportes",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espndeportes"
+  },
+  {
+    "partido": "TUDN",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=tudn"
+  },
+  {
+    "partido": "Univisión",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=univision"
+  },
+  {
+    "partido": "Fox Sports 1",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports1_usa"
+  },
+  {
+    "partido": "Fox Sports 2",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2_usa"
+  },
+  {
+    "partido": "Universo",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=universo"
+  },
+  {
+    "partido": "BeIN Sports Español",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=beinsportes"
+  },
+  {
+    "partido": "Unimás",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=unimas"
+  },
+  {
+    "partido": "BeIN Sports Xtra Español",
+    "liga": "USA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=beinsport_xtra_espanol"
+  },
+  {
+    "partido": "ESPN",
+    "liga": "USA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn_usa"
+  },
+  {
+    "partido": "ESPN2",
+    "liga": "USA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn2_usa"
+  },
+  {
+    "partido": "ESPN U",
+    "liga": "USA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espnu"
+  },
+  {
+    "partido": "CBS Sports Network",
+    "liga": "USA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=cbs_sports_network"
+  },
+  {
+    "partido": "USAnetwork",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=usanetwork"
+  },
+  {
+    "partido": "Telemundo",
+    "liga": "USA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=telemundo"
+  },
+  {
+    "partido": "TNT Sports Chile",
+    "liga": "CHILE",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=eventos13"
+  },
+  {
+    "partido": "Premiere 1",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere1"
+  },
+  {
+    "partido": "Premiere 2",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere2"
+  },
+  {
+    "partido": "Premiere 3",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere3"
+  },
+  {
+    "partido": "Premiere 4",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere4"
+  },
+  {
+    "partido": "Premiere 5",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere5"
+  },
+  {
+    "partido": "Premiere 6",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere6"
+  },
+  {
+    "partido": "Premiere 7",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere7"
+  },
+  {
+    "partido": "Premiere 8",
+    "liga": "BRASIL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=premiere8"
+  },
+  {
+    "partido": "Sportv",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "partido": "Sportv 2",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sportv2"
+  },
+  {
+    "partido": "Sportv 3",
+    "liga": "BRASIL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sportv3"
+  },
+  {
+    "partido": "Sport TV 1",
+    "liga": "PORTUGAL",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv1"
+  },
+  {
+    "partido": "Sport TV 2",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv2"
+  },
+  {
+    "partido": "Sport TV 3",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv3"
+  },
+  {
+    "partido": "Sport TV 4",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv4"
+  },
+  {
+    "partido": "Sport TV 5",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv5"
+  },
+  {
+    "partido": "Sport TV 6",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sporttv6"
+  },
+  {
+    "partido": "Canal 11",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=canal11_pt"
+  },
+  {
+    "partido": "Dazn Eleven 1",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=eleven1_pt"
+  },
+  {
+    "partido": "Dazn Eleven 2",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=eleven2_pt"
+  },
+  {
+    "partido": "Dazn Eleven 3",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=eleven3_pt"
+  },
+  {
+    "partido": "Dazn Eleven 4",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=eleven4_pt"
+  },
+  {
+    "partido": "Dazn Eleven 5",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=eleven5_pt"
+  },
+  {
+    "partido": "Dazn Eleven 6",
+    "liga": "PORTUGAL",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=eleven6_pt"
+  },
+  {
+    "partido": "DAZN 1",
+    "liga": "ESPAÑA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dazn1"
+  },
+  {
+    "partido": "DAZN 2",
+    "liga": "ESPAÑA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dazn2"
+  },
+  {
+    "partido": "DAZN 3 (eventos)",
+    "liga": "ESPAÑA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dazn3"
+  },
+  {
+    "partido": "DAZN 4 (eventos)",
+    "liga": "ESPAÑA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dazn4"
+  },
+  {
+    "partido": "DAZN LaLiga",
+    "liga": "ESPAÑA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dazn_laliga"
+  },
+  {
+    "partido": "La 1 TVE",
+    "liga": "ESPAÑA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=la1tve"
+  },
+  {
+    "partido": "Liga de Campeones 1",
+    "liga": "ESPAÑA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones1"
+  },
+  {
+    "partido": "Liga de Campeones 2",
+    "liga": "ESPAÑA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones2"
+  },
+  {
+    "partido": "Liga de Campeones 3",
+    "liga": "ESPAÑA",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=ligadecampeones3"
+  },
+  {
+    "partido": "LaLigaTV BAR",
+    "liga": "ESPAÑA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=laligatvbar"
+  },
+  {
+    "partido": "Sky Bundesliga 1",
+    "liga": "MUNDO",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga1"
+  },
+  {
+    "partido": "Sky Bundesliga 2",
+    "liga": "MUNDO",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga2"
+  },
+  {
+    "partido": "Sky Bundesliga 3",
+    "liga": "MUNDO",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga3"
+  },
+  {
+    "partido": "Sky Bundesliga 4",
+    "liga": "MUNDO",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga4"
+  },
+  {
+    "partido": "Sky Bundesliga 5",
+    "liga": "MUNDO",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=sky_bundesliga5"
+  },
+  {
+    "partido": "DAZN 1 DE",
+    "liga": "MUNDO",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dazn1_de"
+  },
+  {
+    "partido": "DAZN 2 DE",
+    "liga": "MUNDO",
+    "hora": "🔴 Inactivo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dazn2_de"
   },
   {
     "partido": "ESPN 1 NL",
-    "liga": "",
-    "hora": "",
+    "liga": "MUNDO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn_nl1"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn1_nl"
   },
   {
     "partido": "ESPN 2 NL",
-    "liga": "",
-    "hora": "",
+    "liga": "MUNDO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn_nl2"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn2_nl"
   },
   {
     "partido": "ESPN 3 NL",
-    "liga": "",
-    "hora": "",
+    "liga": "MUNDO",
+    "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=espn_nl3"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn3_nl"
   },
   {
-    "partido": "Fox ONE MX",
-    "liga": "",
-    "hora": "",
+    "partido": "Dazn Eleven Pro 1 BE",
+    "liga": "MUNDO",
+    "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=foxone"
-  },
-  {
-    "partido": "Fox MX",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=fox"
-  },
-  {
-    "partido": "USA Network",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=usa_network"
-  },
-  {
-    "partido": "TyC Sports Internacional",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tycinternacional"
-  },
-  {
-    "partido": "Canal 5 MX",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=canal5mx"
-  },
-  {
-    "partido": "TUDN MX",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tudnmx"
-  },
-  {
-    "partido": "FUTV (Eventos)",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=futv"
-  },
-  {
-    "partido": "LaLiga Hypermotion",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=laligahypermotion"
-  },
-  {
-    "partido": "Tigo Sports Paraguay (Eventos)",
-    "liga": "",
-    "hora": "",
-    "fecha": "",
-    "url": "https://streamtp10.com/global1.php?stream=tigosportsparaguay"
+    "url": "https://la14hd.com/vivo/canales.php?stream=elevenpro1_be"
   }
 ]
