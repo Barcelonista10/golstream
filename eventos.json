@@ -1,212 +1,380 @@
 [
   {
-    "partido": "Alemania vs Austria opción 1",
-    "liga": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "hora": "11:15",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn3"
-  },
-  {
-    "partido": "Alemania vs Austria opción 2",
-    "liga": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "hora": "11:15",
-    "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney1"
-  },
-  {
-    "partido": "Suecia vs Dinamarca",
-    "liga": "Clasificatorias para el Mundial Femenino de la FIFA",
+    "partido": "Cleveland Cavaliers vs Toronto Raptors opción 1",
+    "liga": "NBA",
     "hora": "12:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney2"
+    "url": "https://www.capoplay.net/canal45.php"
   },
   {
-    "partido": "Deportivo Moquegua vs Juan Pablo II College",
-    "liga": "Liga 1",
+    "partido": "Cleveland Cavaliers vs Toronto Raptors opción 2",
+    "liga": "NBA",
+    "hora": "12:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal46.php"
+  },
+  {
+    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 1",
+    "liga": "Liga de Argentina",
     "hora": "13:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=liga1max"
+    "url": "https://www.capoplay.net/espnpremium.php"
   },
   {
-    "partido": "Al Quadisiya vs Al Shabab",
-    "liga": "Pro League",
+    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 2",
+    "liga": "Liga de Argentina",
     "hora": "13:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2_usa"
+    "url": "https://www.capoplay.net/canal47.php"
   },
   {
-    "partido": "Inglaterra vs España opción 1",
-    "liga": "Clasificatorias para el Mundial Femenino de la FIFA",
+    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 3",
+    "liga": "Liga de Argentina",
     "hora": "13:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney3"
+    "url": "https://www.capoplay.net/canal48.php"
   },
   {
-    "partido": "Inglaterra vs España opción 2",
-    "liga": "Clasificatorias para el Mundial Femenino de la FIFA",
+    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 4",
+    "liga": "Liga de Argentina",
     "hora": "13:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espnmx"
+    "url": "https://www.capoplay.net/canal49.php"
   },
   {
-    "partido": "Al Ittihad vs Al Wahda opción 1",
-    "liga": "AFC Champions League Elite",
+    "partido": "FC Cajamarca vs ADT Tarma opción 1",
+    "liga": "Liga de Peru",
     "hora": "13:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney4"
+    "url": "https://www.capoplay.net/liga1max.php"
   },
   {
-    "partido": "Al Ittihad vs Al Wahda opción 2",
-    "liga": "AFC Champions League Elite",
+    "partido": "FC Cajamarca vs ADT Tarma opción 2",
+    "liga": "Liga de Peru",
     "hora": "13:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn4mx"
+    "url": "https://www.capoplay.net/canal50.php"
   },
   {
-    "partido": "Liverpool vs PSG opción 1",
-    "liga": "Liga de Campeones de la UEFA",
+    "partido": "FC Cajamarca vs ADT Tarma opción 3",
+    "liga": "Liga de Peru",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal6.php"
+  },
+  {
+    "partido": "FC Cajamarca vs ADT Tarma opción 4",
+    "liga": "Liga de Peru",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal7.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 1",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/capodeportes4.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 2",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/seriea5.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 3",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/seriea6.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 4",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/seriea7.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 5",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/seriea8.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 6",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal1.php"
+  },
+  {
+    "partido": "Atletico Madrid vs Real Sociedad opción 1",
+    "liga": "Copa del Rey",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2"
+    "url": "https://www.capoplay.net/capodeportes.php"
   },
   {
-    "partido": "Liverpool vs PSG opción 2",
-    "liga": "Liga de Campeones de la UEFA",
+    "partido": "Atletico Madrid vs Real Sociedad opción 2",
+    "liga": "Copa del Rey",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney6"
+    "url": "https://www.capoplay.net/laliga1.php"
   },
   {
-    "partido": "Dominica vs Antigua y Barbuda",
-    "liga": "Campeonato W de CONCACAF",
+    "partido": "Atletico Madrid vs Real Sociedad opción 3",
+    "liga": "Copa del Rey",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney8"
+    "url": "https://www.capoplay.net/ott5.php?id=la1"
   },
   {
-    "partido": "Atlético Madrid vs Barcelona opción 1",
-    "liga": "Liga de Campeones de la UEFA",
+    "partido": "Atletico Madrid vs Real Sociedad opción 4",
+    "liga": "Copa del Rey",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9kM3I4cGYxdTY0anNvYy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZWZlMjM5NmYzZDJkNDk1NTllZGI5OTJjMTQ5MDllNDIvaW5kZXgvaW5kZXgubTN1OA==&k=NmM0ZWYxNTRkZjJmMWMwNzcwNGY0ZmZhZTQwMDViZTY6Mjk0ZTBhMjdlNzZjNDNhZWIxNmMyYjcxZmMyMDFjZmI="
+    "url": "https://www.capoplay.net/laliga3.php"
   },
   {
-    "partido": "Atlético Madrid vs Barcelona opción 2",
-    "liga": "Liga de Campeones de la UEFA",
+    "partido": "Atletico Madrid vs Real Sociedad opción 5",
+    "liga": "Copa del Rey",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn"
+    "url": "https://www.capoplay.net/laliga4.php"
   },
   {
-    "partido": "Atlético Madrid vs Barcelona opción 3",
-    "liga": "Liga de Campeones de la UEFA",
+    "partido": "Atletico Madrid vs Real Sociedad opción 6",
+    "liga": "Copa del Rey",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney5"
+    "url": "https://www.capoplay.net/canal2.php"
   },
   {
-    "partido": "Atlético Madrid vs Barcelona opción 4",
-    "liga": "Liga de Campeones de la UEFA",
+    "partido": "Atletico Madrid vs Real Sociedad opción 7",
+    "liga": "Copa del Rey",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=max1"
+    "url": "https://www.capoplay.net/canal3.php"
   },
   {
-    "partido": "Atlético Madrid vs Barcelona opción 5",
-    "liga": "Liga de Campeones de la UEFA",
+    "partido": "Chelsea vs Manchester United opción 1",
+    "liga": "Premier League",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tudn"
+    "url": "https://www.capoplay.net/capodeportes2.php"
   },
   {
-    "partido": "Portsmouth vs Ipswich Town",
-    "liga": "Championship",
+    "partido": "Chelsea vs Manchester United opción 2",
+    "liga": "Premier League",
     "hora": "14:00",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney7"
+    "url": "https://www.capoplay.net/premier5.php"
   },
   {
-    "partido": "ADT vs Alianza Lima",
-    "liga": "Liga 1",
+    "partido": "Chelsea vs Manchester United opción 3",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/premier6.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 4",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/premier7.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 5",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/premier8.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 6",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal4.php"
+  },
+  {
+    "partido": "Racing Montevideo vs Defensor Sporting opción 1",
+    "liga": "Liga de Uruguay",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/vtv.php"
+  },
+  {
+    "partido": "Racing Montevideo vs Defensor Sporting opción 2",
+    "liga": "Liga de Uruguay",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal8.php"
+  },
+  {
+    "partido": "Racing Montevideo vs Defensor Sporting opción 3",
+    "liga": "Liga de Uruguay",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal9.php"
+  },
+  {
+    "partido": "Racing Montevideo vs Defensor Sporting opción 4",
+    "liga": "Liga de Uruguay",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal10.php"
+  },
+  {
+    "partido": "Mushuc Runa vs Tecnico Universitario opción 1",
+    "liga": "Liga de Ecuador",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/goltv.php"
+  },
+  {
+    "partido": "Mushuc Runa vs Tecnico Universitario opción 2",
+    "liga": "Liga de Ecuador",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal11.php"
+  },
+  {
+    "partido": "Mushuc Runa vs Tecnico Universitario opción 3",
+    "liga": "Liga de Ecuador",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal12.php"
+  },
+  {
+    "partido": "Lille vs Nice opción 1",
+    "liga": "Ligue 1",
+    "hora": "14:05",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal13.php"
+  },
+  {
+    "partido": "Lille vs Nice opción 2",
+    "liga": "Ligue 1",
+    "hora": "14:05",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal14.php"
+  },
+  {
+    "partido": "Denver Nuggets vs Minnesota Timberwolves opción 1",
+    "liga": "NBA",
+    "hora": "14:30",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal15.php"
+  },
+  {
+    "partido": "Denver Nuggets vs Minnesota Timberwolves opción 2",
+    "liga": "NBA",
+    "hora": "14:30",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal16.php"
+  },
+  {
+    "partido": "Instituto vs Estudiantes de La Plata opción 1",
+    "liga": "Liga de Argentina",
     "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=liga1max"
+    "url": "https://www.capoplay.net/tntargentina.php"
   },
   {
-    "partido": "San Vicente / Granadinas vs U.S. Virgin Islands",
-    "liga": "Campeonato W de CONCACAF",
-    "hora": "16:00",
+    "partido": "Instituto vs Estudiantes de La Plata opción 2",
+    "liga": "Liga de Argentina",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney9"
+    "url": "https://www.capoplay.net/canal17.php"
   },
   {
-    "partido": "Granada vs Islas Caimán",
-    "liga": "Campeonato W de CONCACAF",
-    "hora": "16:30",
+    "partido": "Instituto vs Estudiantes de La Plata opción 3",
+    "liga": "Liga de Argentina",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney10"
+    "url": "https://www.capoplay.net/canal18.php"
   },
   {
-    "partido": "Estudiantes vs Cusco",
-    "liga": "Copa Libertadores",
-    "hora": "17:00",
+    "partido": "Instituto vs Estudiantes de La Plata opción 4",
+    "liga": "Liga de Argentina",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney11"
+    "url": "https://www.capoplay.net/canal19.php"
   },
   {
-    "partido": "Nacional vs Deportes Tolima opción 1",
-    "liga": "Copa Libertadores",
-    "hora": "17:00",
+    "partido": "Juan Pablo II vs Comerciantes Unidos opción 1",
+    "liga": "Liga de Peru",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2"
+    "url": "https://www.capoplay.net/liga1max.php"
   },
   {
-    "partido": "Nacional vs Deportes Tolima opción 2",
-    "liga": "Copa Libertadores",
-    "hora": "17:00",
+    "partido": "Juan Pablo II vs Comerciantes Unidos opción 2",
+    "liga": "Liga de Peru",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney12"
+    "url": "https://www.capoplay.net/canal20.php"
   },
   {
-    "partido": "Cerro Porteño vs Junior opción 1",
-    "liga": "Copa Libertadores",
-    "hora": "17:00",
+    "partido": "Juan Pablo II vs Comerciantes Unidos opción 3",
+    "liga": "Liga de Peru",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn"
+    "url": "https://www.capoplay.net/canal21.php"
   },
   {
-    "partido": "Cerro Porteño vs Junior opción 2",
-    "liga": "Copa Libertadores",
-    "hora": "17:00",
+    "partido": "Juan Pablo II vs Comerciantes Unidos opción 4",
+    "liga": "Liga de Peru",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney13"
+    "url": "https://www.capoplay.net/canal22.php"
   },
   {
-    "partido": "Boca Juniors vs Barcelona opción 1",
-    "liga": "Copa Libertadores",
-    "hora": "19:00",
+    "partido": "Colorado Rapids vs Inter Miami opción 1",
+    "liga": "MLS",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn"
+    "url": "https://www.capoplay.net/capodeportes3.php"
   },
   {
-    "partido": "Boca Juniors vs Barcelona opción 2",
-    "liga": "Copa Libertadores",
-    "hora": "19:00",
+    "partido": "Colorado Rapids vs Inter Miami opción 2",
+    "liga": "MLS",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney15"
+    "url": "https://www.capoplay.net/bundesliga5.php"
   },
   {
-    "partido": "Vasco da Gama vs Audax Italiano opción 1",
-    "liga": "Copa Sudamericana",
-    "hora": "19:00",
+    "partido": "Colorado Rapids vs Inter Miami opción 3",
+    "liga": "MLS",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=espn2"
+    "url": "https://www.capoplay.net/bundesliga6.php"
   },
   {
-    "partido": "Vasco da Gama vs Audax Italiano opción 2",
-    "liga": "Copa Sudamericana",
-    "hora": "19:00",
+    "partido": "Colorado Rapids vs Inter Miami opción 4",
+    "liga": "MLS",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://la14hd.com/vivo/canales.php?stream=disney14"
+    "url": "https://www.capoplay.net/bundesliga7.php"
+  },
+  {
+    "partido": "Colorado Rapids vs Inter Miami opción 5",
+    "liga": "MLS",
+    "hora": "15:30",
+    "fecha": "",
+    "url": "https://www.capoplay.net/bundesliga8.php"
+  },
+  {
+    "partido": "Colorado Rapids vs Inter Miami opción 6",
+    "liga": "MLS",
+    "hora": "15:30",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal5.php"
   }
 ]
