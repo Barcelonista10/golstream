@@ -1,443 +1,380 @@
 [
   {
-    "partido": "Gimnasia La Plata vs Estudiantes Río Cuarto opción 1",
-    "liga": "Liga Profesional",
-    "hora": "1:00pm",
+    "partido": "Cleveland Cavaliers vs Toronto Raptors opción 1",
+    "liga": "NBA",
+    "hora": "12:00",
     "fecha": "",
-    "url": "https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/lD8Enn3vDPr4Lb2ezZGCfoD1WU2QGW8mIsMO-McKNE2lKnGJycbl6v10uPWeqTDnCfdpL7BtzO3eJry_wNF1JA/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_delta.m3u8?type=live"
+    "url": "https://www.capoplay.net/canal45.php"
   },
   {
-    "partido": "Gimnasia La Plata vs Estudiantes Río Cuarto opción 2",
-    "liga": "Liga Profesional",
-    "hora": "1:00pm",
+    "partido": "Cleveland Cavaliers vs Toronto Raptors opción 2",
+    "liga": "NBA",
+    "hora": "12:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz1"
+    "url": "https://www.capoplay.net/canal46.php"
   },
   {
-    "partido": "FC Cajamarca vs ADT",
-    "liga": "Liga 1",
-    "hora": "1:00pm",
+    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 1",
+    "liga": "Liga de Argentina",
+    "hora": "13:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz2"
+    "url": "https://www.capoplay.net/espnpremium.php"
   },
   {
-    "partido": "CF Montréal vs New York RB",
-    "liga": "MLS",
-    "hora": "1:30pm",
+    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 2",
+    "liga": "Liga de Argentina",
+    "hora": "13:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls2en"
+    "url": "https://www.capoplay.net/canal47.php"
   },
   {
-    "partido": "Roma vs Atalanta",
+    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 3",
+    "liga": "Liga de Argentina",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal48.php"
+  },
+  {
+    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 4",
+    "liga": "Liga de Argentina",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal49.php"
+  },
+  {
+    "partido": "FC Cajamarca vs ADT Tarma opción 1",
+    "liga": "Liga de Peru",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/liga1max.php"
+  },
+  {
+    "partido": "FC Cajamarca vs ADT Tarma opción 2",
+    "liga": "Liga de Peru",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal50.php"
+  },
+  {
+    "partido": "FC Cajamarca vs ADT Tarma opción 3",
+    "liga": "Liga de Peru",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal6.php"
+  },
+  {
+    "partido": "FC Cajamarca vs ADT Tarma opción 4",
+    "liga": "Liga de Peru",
+    "hora": "13:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal7.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 1",
     "liga": "Serie A",
-    "hora": "1:45pm",
+    "hora": "13:45",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=disney12"
+    "url": "https://www.capoplay.net/capodeportes4.php"
   },
   {
-    "partido": "Atlético Madrid vs Real Sociedad | Final opción 1",
+    "partido": "AS Roma vs Atalanta opción 2",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/seriea5.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 3",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/seriea6.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 4",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/seriea7.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 5",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/seriea8.php"
+  },
+  {
+    "partido": "AS Roma vs Atalanta opción 6",
+    "liga": "Serie A",
+    "hora": "13:45",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal1.php"
+  },
+  {
+    "partido": "Atletico Madrid vs Real Sociedad opción 1",
     "liga": "Copa del Rey",
-    "hora": "2:00pm",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnplus1"
+    "url": "https://www.capoplay.net/capodeportes.php"
   },
   {
-    "partido": "Atlético Madrid vs Real Sociedad | Final opción 2",
+    "partido": "Atletico Madrid vs Real Sociedad opción 2",
     "liga": "Copa del Rey",
-    "hora": "2:00pm",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnplus2"
+    "url": "https://www.capoplay.net/laliga1.php"
   },
   {
-    "partido": "Atlético Madrid vs Real Sociedad | Final opción 3",
+    "partido": "Atletico Madrid vs Real Sociedad opción 3",
     "liga": "Copa del Rey",
-    "hora": "2:00pm",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winsports"
+    "url": "https://www.capoplay.net/ott5.php?id=la1"
   },
   {
-    "partido": "Atlético Madrid vs Real Sociedad | Final opción 4",
+    "partido": "Atletico Madrid vs Real Sociedad opción 4",
     "liga": "Copa del Rey",
-    "hora": "2:00pm",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espndeportes"
+    "url": "https://www.capoplay.net/laliga3.php"
   },
   {
-    "partido": "Racing vs Defensor Sporting",
-    "liga": "Primera División",
-    "hora": "2:00pm",
+    "partido": "Atletico Madrid vs Real Sociedad opción 5",
+    "liga": "Copa del Rey",
+    "hora": "14:00",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=disney13"
+    "url": "https://www.capoplay.net/laliga4.php"
   },
   {
-    "partido": "Lille vs Nice",
+    "partido": "Atletico Madrid vs Real Sociedad opción 6",
+    "liga": "Copa del Rey",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal2.php"
+  },
+  {
+    "partido": "Atletico Madrid vs Real Sociedad opción 7",
+    "liga": "Copa del Rey",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal3.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 1",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/capodeportes2.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 2",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/premier5.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 3",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/premier6.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 4",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/premier7.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 5",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/premier8.php"
+  },
+  {
+    "partido": "Chelsea vs Manchester United opción 6",
+    "liga": "Premier League",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal4.php"
+  },
+  {
+    "partido": "Racing Montevideo vs Defensor Sporting opción 1",
+    "liga": "Liga de Uruguay",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/vtv.php"
+  },
+  {
+    "partido": "Racing Montevideo vs Defensor Sporting opción 2",
+    "liga": "Liga de Uruguay",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal8.php"
+  },
+  {
+    "partido": "Racing Montevideo vs Defensor Sporting opción 3",
+    "liga": "Liga de Uruguay",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal9.php"
+  },
+  {
+    "partido": "Racing Montevideo vs Defensor Sporting opción 4",
+    "liga": "Liga de Uruguay",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal10.php"
+  },
+  {
+    "partido": "Mushuc Runa vs Tecnico Universitario opción 1",
+    "liga": "Liga de Ecuador",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/goltv.php"
+  },
+  {
+    "partido": "Mushuc Runa vs Tecnico Universitario opción 2",
+    "liga": "Liga de Ecuador",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal11.php"
+  },
+  {
+    "partido": "Mushuc Runa vs Tecnico Universitario opción 3",
+    "liga": "Liga de Ecuador",
+    "hora": "14:00",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal12.php"
+  },
+  {
+    "partido": "Lille vs Nice opción 1",
     "liga": "Ligue 1",
-    "hora": "2:05pm",
+    "hora": "14:05",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=disney14"
+    "url": "https://www.capoplay.net/canal13.php"
   },
   {
-    "partido": "Timberwolves vs Nuggets",
+    "partido": "Lille vs Nice opción 2",
+    "liga": "Ligue 1",
+    "hora": "14:05",
+    "fecha": "",
+    "url": "https://www.capoplay.net/canal14.php"
+  },
+  {
+    "partido": "Denver Nuggets vs Minnesota Timberwolves opción 1",
     "liga": "NBA",
-    "hora": "2:30pm",
+    "hora": "14:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=nba2"
+    "url": "https://www.capoplay.net/canal15.php"
   },
   {
-    "partido": "Gilberto Burns vs Mike Malott opción 1",
-    "liga": "UFC",
-    "hora": "3:00pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=paramount1"
-  },
-  {
-    "partido": "Gilberto Burns vs Mike Malott opción 2",
-    "liga": "UFC",
-    "hora": "3:00pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=paramount2"
-  },
-  {
-    "partido": "Instituto vs Estudiantes (LP) opción 1",
-    "liga": "Liga Profesional",
-    "hora": "3:15pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tntsports"
-  },
-  {
-    "partido": "Instituto vs Estudiantes (LP) opción 2",
-    "liga": "Liga Profesional",
-    "hora": "3:15pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz3"
-  },
-  {
-    "partido": "Juan Pablo II College vs Comerciantes Unidos",
-    "liga": "Liga 1",
-    "hora": "3:15pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz4"
-  },
-  {
-    "partido": "Guaraní vs Sportivo Luqueño",
-    "liga": "Copa de Primera",
-    "hora": "3:15pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz5"
-  },
-  {
-    "partido": "Colorado Rapids vs Inter Miami",
-    "liga": "MLS",
-    "hora": "3:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls3en"
-  },
-  {
-    "partido": "Everton vs Universidad Chile",
-    "liga": "Liga de Primera",
-    "hora": "4:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=max1"
-  },
-  {
-    "partido": "Chapecoense vs Botafogo opción 1",
-    "liga": "Brasileirão",
-    "hora": "4:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz6"
-  },
-  {
-    "partido": "Chapecoense vs Botafogo opción 2",
-    "liga": "Brasileirão",
-    "hora": "4:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=premiere2"
-  },
-  {
-    "partido": "Vasco da Gama vs São Paulo",
-    "liga": "Brasileirão",
-    "hora": "4:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz7"
-  },
-  {
-    "partido": "WrestleMania 42 - Las Vegas opción 1",
-    "liga": "WWE",
-    "hora": "5:00pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnplus3"
-  },
-  {
-    "partido": "WrestleMania 42 - Las Vegas opción 2",
-    "liga": "WWE",
-    "hora": "5:00pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnplus4"
-  },
-  {
-    "partido": "Hawks vs Knicks",
+    "partido": "Denver Nuggets vs Minnesota Timberwolves opción 2",
     "liga": "NBA",
-    "hora": "5:00pm",
+    "hora": "14:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=nba3"
+    "url": "https://www.capoplay.net/canal16.php"
   },
   {
-    "partido": "Independiente vs Defensa y Justicia opción 1",
-    "liga": "Liga Profesional",
-    "hora": "5:30pm",
+    "partido": "Instituto vs Estudiantes de La Plata opción 1",
+    "liga": "Liga de Argentina",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnpremium"
+    "url": "https://www.capoplay.net/tntargentina.php"
   },
   {
-    "partido": "Independiente vs Defensa y Justicia opción 2",
-    "liga": "Liga Profesional",
-    "hora": "5:30pm",
+    "partido": "Instituto vs Estudiantes de La Plata opción 2",
+    "liga": "Liga de Argentina",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz8"
+    "url": "https://www.capoplay.net/canal17.php"
   },
   {
-    "partido": "Sport Huancayo vs Deportivo Garcilaso",
-    "liga": "Liga 1",
-    "hora": "5:30pm",
+    "partido": "Instituto vs Estudiantes de La Plata opción 3",
+    "liga": "Liga de Argentina",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz9"
+    "url": "https://www.capoplay.net/canal18.php"
   },
   {
-    "partido": "Cruz Azul vs Tijuana opción 1",
-    "liga": "Liga MX",
-    "hora": "6:00pm",
+    "partido": "Instituto vs Estudiantes de La Plata opción 4",
+    "liga": "Liga de Argentina",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=canal5mx"
+    "url": "https://www.capoplay.net/canal19.php"
   },
   {
-    "partido": "Cruz Azul vs Tijuana opción 2",
-    "liga": "Liga MX",
-    "hora": "6:00pm",
+    "partido": "Juan Pablo II vs Comerciantes Unidos opción 1",
+    "liga": "Liga de Peru",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
+    "url": "https://www.capoplay.net/liga1max.php"
   },
   {
-    "partido": "Vitória vs Corinthians opción 1",
-    "liga": "Brasileirão",
-    "hora": "6:00pm",
+    "partido": "Juan Pablo II vs Comerciantes Unidos opción 2",
+    "liga": "Liga de Peru",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz10"
+    "url": "https://www.capoplay.net/canal20.php"
   },
   {
-    "partido": "Vitória vs Corinthians opción 2",
-    "liga": "Brasileirão",
-    "hora": "6:00pm",
+    "partido": "Juan Pablo II vs Comerciantes Unidos opción 3",
+    "liga": "Liga de Peru",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=premiere1"
+    "url": "https://www.capoplay.net/canal21.php"
   },
   {
-    "partido": "Deportes Tolima vs Deportivo Pereira opción 1",
-    "liga": "Liga BetPlay",
-    "hora": "6:10pm",
+    "partido": "Juan Pablo II vs Comerciantes Unidos opción 4",
+    "liga": "Liga de Peru",
+    "hora": "15:15",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winplus"
+    "url": "https://www.capoplay.net/canal22.php"
   },
   {
-    "partido": "Deportes Tolima vs Deportivo Pereira opción 2",
-    "liga": "Liga BetPlay",
-    "hora": "6:10pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winplus2"
-  },
-  {
-    "partido": "Deportes Tolima vs Deportivo Pereira opción 3",
-    "liga": "Liga BetPlay",
-    "hora": "6:10pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz1"
-  },
-  {
-    "partido": "Deportivo Recoleta vs 2 de Mayo",
-    "liga": "Copa de Primera",
-    "hora": "6:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz2"
-  },
-  {
-    "partido": "Atlanta United vs Nashville SC",
+    "partido": "Colorado Rapids vs Inter Miami opción 1",
     "liga": "MLS",
-    "hora": "6:30pm",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls4en"
+    "url": "https://www.capoplay.net/capodeportes3.php"
   },
   {
-    "partido": "Cincinnati vs Chicago Fire",
+    "partido": "Colorado Rapids vs Inter Miami opción 2",
     "liga": "MLS",
-    "hora": "6:30pm",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls5en"
+    "url": "https://www.capoplay.net/bundesliga5.php"
   },
   {
-    "partido": "New England vs Columbus Crew",
+    "partido": "Colorado Rapids vs Inter Miami opción 3",
     "liga": "MLS",
-    "hora": "6:30pm",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls6en"
+    "url": "https://www.capoplay.net/bundesliga6.php"
   },
   {
-    "partido": "New York City vs Charlotte",
+    "partido": "Colorado Rapids vs Inter Miami opción 4",
     "liga": "MLS",
-    "hora": "6:30pm",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls7en"
+    "url": "https://www.capoplay.net/bundesliga7.php"
   },
   {
-    "partido": "Orlando City SC vs Houston Dynamo",
+    "partido": "Colorado Rapids vs Inter Miami opción 5",
     "liga": "MLS",
-    "hora": "6:30pm",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls8en"
+    "url": "https://www.capoplay.net/bundesliga8.php"
   },
   {
-    "partido": "Philadelphia Union vs DC United",
+    "partido": "Colorado Rapids vs Inter Miami opción 6",
     "liga": "MLS",
-    "hora": "6:30pm",
+    "hora": "15:30",
     "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls9en"
-  },
-  {
-    "partido": "Cruzeiro vs Grêmio opción 1",
-    "liga": "Brasileirão",
-    "hora": "6:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz3"
-  },
-  {
-    "partido": "Cruzeiro vs Grêmio opción 2",
-    "liga": "Brasileirão",
-    "hora": "6:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=premiere3"
-  },
-  {
-    "partido": "Deportes Concepción vs La Serena",
-    "liga": "Liga de Primera",
-    "hora": "7:00pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=max2"
-  },
-  {
-    "partido": "Dallas vs LA Galaxy",
-    "liga": "MLS",
-    "hora": "7:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls10en"
-  },
-  {
-    "partido": "Minnesota United vs Portland Timbers",
-    "liga": "MLS",
-    "hora": "7:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls1en"
-  },
-  {
-    "partido": "Rockets vs Lakers opción 1",
-    "liga": "NBA",
-    "hora": "7:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espn2"
-  },
-  {
-    "partido": "Rockets vs Lakers opción 2",
-    "liga": "NBA",
-    "hora": "7:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=espnmx"
-  },
-  {
-    "partido": "Argentinos Juniors vs Atlético Tucumán opción 1",
-    "liga": "Liga Profesional",
-    "hora": "7:45pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tntsports"
-  },
-  {
-    "partido": "Argentinos Juniors vs Atlético Tucumán opción 2",
-    "liga": "Liga Profesional",
-    "hora": "7:45pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz4"
-  },
-  {
-    "partido": "Alianza Lima vs Cusco",
-    "liga": "Liga 1",
-    "hora": "8:00pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz5"
-  },
-  {
-    "partido": "Monterrey vs Pachuca opción 1",
-    "liga": "Liga MX",
-    "hora": "8:05pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=canal5mx"
-  },
-  {
-    "partido": "Monterrey vs Pachuca opción 2",
-    "liga": "Liga MX",
-    "hora": "8:05pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
-  },
-  {
-    "partido": "Guadalajara vs Puebla",
-    "liga": "Liga MX",
-    "hora": "8:05pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=universo_usa"
-  },
-  {
-    "partido": "Fortaleza CEIF vs Rionegro Águilas opción 1",
-    "liga": "Liga BetPlay",
-    "hora": "8:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winplus"
-  },
-  {
-    "partido": "Fortaleza CEIF vs Rionegro Águilas opción 2",
-    "liga": "Liga BetPlay",
-    "hora": "8:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=winplus2"
-  },
-  {
-    "partido": "Fortaleza CEIF vs Rionegro Águilas opción 3",
-    "liga": "Liga BetPlay",
-    "hora": "8:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=fanatiz6"
-  },
-  {
-    "partido": "Real Salt Lake vs San Diego",
-    "liga": "MLS",
-    "hora": "8:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls2en"
-  },
-  {
-    "partido": "Seattle Sounders FC vs St. Louis City",
-    "liga": "MLS",
-    "hora": "8:30pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=mls3en"
-  },
-  {
-    "partido": "América vs Toluca opción 1",
-    "liga": "Liga MX",
-    "hora": "10:10pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=canal5mx"
-  },
-  {
-    "partido": "América vs Toluca opción 2",
-    "liga": "Liga MX",
-    "hora": "10:10pm",
-    "fecha": "",
-    "url": "https://streamtpnew.com/global1.php?stream=tudn_usa"
+    "url": "https://www.capoplay.net/canal5.php"
   }
 ]
