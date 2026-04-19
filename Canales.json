@@ -1,380 +1,254 @@
 [
   {
-    "partido": "HBO FAMILY",
-    "liga": "NBA",
-    "hora": "12:00",
-    "fecha": "",
-    "url": "https://wolverine.alwaysdata.net/raza-unica-m3u8/stream/815206.m3u8"
-  },
-  {
-    "partido": "Pelicula",
-    "liga": "NBA",
-    "hora": "12:00",
-    "fecha": "",
-    "url": "https://vimeos.net/embed-0a5sm8h3422y.html"
-  },
-  {
-    "partido": "Animal Planet",
-    "liga": "Liga de Argentina",
-    "hora": "13:00",
+    "partido": "DSports 1",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
     "url": "https://skylivefu.com/live.php?stream=dsports"
   },
   {
-    "partido": "Free Family",
-    "liga": "Liga de Argentina",
-    "hora": "13:00",
+    "partido": "DSports 2",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8"
+    "url": "https://skylivefu.com/live.php?stream=dsports2"
   },
   {
-    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 3",
-    "liga": "Liga de Argentina",
-    "hora": "13:00",
+    "partido": "DSports Plus",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal48.php"
+    "url": "https://skylivefu.com/live.php?stream=dsportsplus"
   },
   {
-    "partido": "Gimnasia La Plata vs Estudiantes de Rio Cuarto opción 4",
-    "liga": "Liga de Argentina",
-    "hora": "13:00",
+    "partido": "ESPN 1",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal49.php"
+    "url": "https://skylivefu.com/live.php?stream=espn"
   },
   {
-    "partido": "FC Cajamarca vs ADT Tarma opción 1",
-    "liga": "Liga de Peru",
-    "hora": "13:00",
+    "partido": "ESPN 2",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/liga1max.php"
+    "url": "https://skylivefu.com/live.php?stream=espn2"
   },
   {
-    "partido": "FC Cajamarca vs ADT Tarma opción 2",
-    "liga": "Liga de Peru",
-    "hora": "13:00",
+    "partido": "ESPN 3",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal50.php"
+    "url": "https://skylivefu.com/live.php?stream=espn3"
   },
   {
-    "partido": "FC Cajamarca vs ADT Tarma opción 3",
-    "liga": "Liga de Peru",
-    "hora": "13:00",
+    "partido": "ESPN 4",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal6.php"
+    "url": "https://skylivefu.com/live.php?stream=espn4"
   },
   {
-    "partido": "FC Cajamarca vs ADT Tarma opción 4",
-    "liga": "Liga de Peru",
-    "hora": "13:00",
+    "partido": "ESPN 5",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal7.php"
+    "url": "https://skylivefu.com/live.php?stream=espn5"
   },
   {
-    "partido": "AS Roma vs Atalanta opción 1",
-    "liga": "Serie A",
-    "hora": "13:45",
+    "partido": "ESPN 6",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/capodeportes4.php"
+    "url": "https://skylivefu.com/live.php?stream=espn6"
   },
   {
-    "partido": "AS Roma vs Atalanta opción 2",
-    "liga": "Serie A",
-    "hora": "13:45",
+    "partido": "ESPN 7",
+    "liga": "IMPORTANTES",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/seriea5.php"
+    "url": "https://skylivefu.com/live.php?stream=espn7"
   },
   {
-    "partido": "AS Roma vs Atalanta opción 3",
-    "liga": "Serie A",
-    "hora": "13:45",
+    "partido": "ESPN Premium",
+    "liga": "Argentina",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/seriea6.php"
+    "url": "https://skylivefu.com/live.php?stream=espnpremium"
   },
   {
-    "partido": "AS Roma vs Atalanta opción 4",
-    "liga": "Serie A",
-    "hora": "13:45",
+    "partido": "Fox Sports",
+    "liga": "Argentina",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/seriea7.php"
+    "url": "https://skylivefu.com/live.php?stream=fox1ar"
   },
   {
-    "partido": "AS Roma vs Atalanta opción 5",
-    "liga": "Serie A",
-    "hora": "13:45",
+    "partido": "Fox Sports 2",
+    "liga": "Argentina",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/seriea8.php"
+    "url": "https://skylivefu.com/live.php?stream=fox2ar"
   },
   {
-    "partido": "AS Roma vs Atalanta opción 6",
-    "liga": "Serie A",
-    "hora": "13:45",
+    "partido": "Fox Sports 3",
+    "liga": "Argentina",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal1.php"
+    "url": "https://skylivefu.com/live.php?stream=fox3ar"
   },
   {
-    "partido": "Atletico Madrid vs Real Sociedad opción 1",
-    "liga": "Copa del Rey",
-    "hora": "14:00",
+    "partido": "Telefe",
+    "liga": "Argentina",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/capodeportes.php"
+    "url": "https://skylivefu.com/live.php?stream=telefe"
   },
   {
-    "partido": "Atletico Madrid vs Real Sociedad opción 2",
-    "liga": "Copa del Rey",
-    "hora": "14:00",
+    "partido": "TNT Sports",
+    "liga": "Argentina",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/laliga1.php"
+    "url": "https://skylivefu.com/live.php?stream=tntsports"
   },
   {
-    "partido": "Atletico Madrid vs Real Sociedad opción 3",
-    "liga": "Copa del Rey",
-    "hora": "14:00",
+    "partido": "TV Pública",
+    "liga": "Argentina",
+    "hora": "🔴 Offline",
     "fecha": "",
-    "url": "https://www.capoplay.net/ott5.php?id=la1"
+    "url": "https://skylivefu.com/live.php?stream=tv_publica"
   },
   {
-    "partido": "Atletico Madrid vs Real Sociedad opción 4",
-    "liga": "Copa del Rey",
-    "hora": "14:00",
+    "partido": "TyC Sports",
+    "liga": "Argentina",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/laliga3.php"
+    "url": "https://skylivefu.com/live.php?stream=tycsports"
   },
   {
-    "partido": "Atletico Madrid vs Real Sociedad opción 5",
-    "liga": "Copa del Rey",
-    "hora": "14:00",
+    "partido": "Liga 1 Max",
+    "liga": "Perú",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/laliga4.php"
+    "url": "https://skylivefu.com/live.php?stream=liga1max"
   },
   {
-    "partido": "Atletico Madrid vs Real Sociedad opción 6",
-    "liga": "Copa del Rey",
-    "hora": "14:00",
+    "partido": "Movistar Deportes Perú",
+    "liga": "Perú",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal2.php"
+    "url": "https://skylivefu.com/live.php?stream=movistar_deportes_peru"
   },
   {
-    "partido": "Atletico Madrid vs Real Sociedad opción 7",
-    "liga": "Copa del Rey",
-    "hora": "14:00",
+    "partido": "Win Sports",
+    "liga": "Colombia",
+    "hora": "🔴 Offline",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal3.php"
+    "url": "https://skylivefu.com/live.php?stream=winsports"
   },
   {
-    "partido": "Chelsea vs Manchester United opción 1",
-    "liga": "Premier League",
-    "hora": "14:00",
+    "partido": "Win Sports Plus",
+    "liga": "Colombia",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/capodeportes2.php"
+    "url": "https://skylivefu.com/live.php?stream=winplus"
   },
   {
-    "partido": "Chelsea vs Manchester United opción 2",
-    "liga": "Premier League",
-    "hora": "14:00",
+    "partido": "Win Sports Plus 2",
+    "liga": "Colombia",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/premier5.php"
+    "url": "https://skylivefu.com/live.php?stream=winplus2"
   },
   {
-    "partido": "Chelsea vs Manchester United opción 3",
-    "liga": "Premier League",
-    "hora": "14:00",
+    "partido": "Azteca 7",
+    "liga": "México",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/premier6.php"
+    "url": "https://skylivefu.com/live.php?stream=azteca7"
   },
   {
-    "partido": "Chelsea vs Manchester United opción 4",
-    "liga": "Premier League",
-    "hora": "14:00",
+    "partido": "Canal 5 MX",
+    "liga": "México",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/premier7.php"
+    "url": "https://skylivefu.com/live.php?stream=canal5mx"
   },
   {
-    "partido": "Chelsea vs Manchester United opción 5",
-    "liga": "Premier League",
-    "hora": "14:00",
+    "partido": "Espn 1 MX",
+    "liga": "México",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/premier8.php"
+    "url": "https://skylivefu.com/live.php?stream=espnmx"
   },
   {
-    "partido": "Chelsea vs Manchester United opción 6",
-    "liga": "Premier League",
-    "hora": "14:00",
+    "partido": "Espn 2 MX",
+    "liga": "México",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal4.php"
+    "url": "https://skylivefu.com/live.php?stream=espn2mx"
   },
   {
-    "partido": "Racing Montevideo vs Defensor Sporting opción 1",
-    "liga": "Liga de Uruguay",
-    "hora": "14:00",
+    "partido": "Espn 3 MX",
+    "liga": "México",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/vtv.php"
+    "url": "https://skylivefu.com/live.php?stream=espn3mx"
   },
   {
-    "partido": "Racing Montevideo vs Defensor Sporting opción 2",
-    "liga": "Liga de Uruguay",
-    "hora": "14:00",
+    "partido": "Espn 4 MX",
+    "liga": "México",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal8.php"
+    "url": "https://skylivefu.com/live.php?stream=espn4mx"
   },
   {
-    "partido": "Racing Montevideo vs Defensor Sporting opción 3",
-    "liga": "Liga de Uruguay",
-    "hora": "14:00",
+    "partido": "ESPN Deportes",
+    "liga": "USA",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal9.php"
+    "url": "https://skylivefu.com/live.php?stream=espndeportes"
   },
   {
-    "partido": "Racing Montevideo vs Defensor Sporting opción 4",
-    "liga": "Liga de Uruguay",
-    "hora": "14:00",
+    "partido": "Fox Deportes USA",
+    "liga": "USA",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal10.php"
+    "url": "https://skylivefu.com/live.php?stream=fox_deportes_usa"
   },
   {
-    "partido": "Mushuc Runa vs Tecnico Universitario opción 1",
-    "liga": "Liga de Ecuador",
-    "hora": "14:00",
+    "partido": "TUDN USA",
+    "liga": "USA",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/goltv.php"
+    "url": "https://skylivefu.com/live.php?stream=tudn_usa"
   },
   {
-    "partido": "Mushuc Runa vs Tecnico Universitario opción 2",
-    "liga": "Liga de Ecuador",
-    "hora": "14:00",
+    "partido": "Universo USA",
+    "liga": "USA",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal11.php"
+    "url": "https://skylivefu.com/live.php?stream=universo_usa"
   },
   {
-    "partido": "Mushuc Runa vs Tecnico Universitario opción 3",
-    "liga": "Liga de Ecuador",
-    "hora": "14:00",
+    "partido": "Premiere 1",
+    "liga": "Brasil",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal12.php"
+    "url": "https://skylivefu.com/live.php?stream=premiere1"
   },
   {
-    "partido": "Lille vs Nice opción 1",
-    "liga": "Ligue 1",
-    "hora": "14:05",
+    "partido": "Premiere 2",
+    "liga": "Brasil",
+    "hora": "🟢 En vivo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal13.php"
+    "url": "https://skylivefu.com/live.php?stream=premiere2"
   },
   {
-    "partido": "Lille vs Nice opción 2",
-    "liga": "Ligue 1",
-    "hora": "14:05",
+    "partido": "Sport TV BR 1",
+    "liga": "Brasil",
+    "hora": "🔴 Offline",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal14.php"
-  },
-  {
-    "partido": "Denver Nuggets vs Minnesota Timberwolves opción 1",
-    "liga": "NBA",
-    "hora": "14:30",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal15.php"
-  },
-  {
-    "partido": "Denver Nuggets vs Minnesota Timberwolves opción 2",
-    "liga": "NBA",
-    "hora": "14:30",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal16.php"
-  },
-  {
-    "partido": "Instituto vs Estudiantes de La Plata opción 1",
-    "liga": "Liga de Argentina",
-    "hora": "15:15",
-    "fecha": "",
-    "url": "https://www.capoplay.net/tntargentina.php"
-  },
-  {
-    "partido": "Instituto vs Estudiantes de La Plata opción 2",
-    "liga": "Liga de Argentina",
-    "hora": "15:15",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal17.php"
-  },
-  {
-    "partido": "Instituto vs Estudiantes de La Plata opción 3",
-    "liga": "Liga de Argentina",
-    "hora": "15:15",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal18.php"
-  },
-  {
-    "partido": "Instituto vs Estudiantes de La Plata opción 4",
-    "liga": "Liga de Argentina",
-    "hora": "15:15",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal19.php"
-  },
-  {
-    "partido": "Juan Pablo II vs Comerciantes Unidos opción 1",
-    "liga": "Liga de Peru",
-    "hora": "15:15",
-    "fecha": "",
-    "url": "https://www.capoplay.net/liga1max.php"
-  },
-  {
-    "partido": "Juan Pablo II vs Comerciantes Unidos opción 2",
-    "liga": "Liga de Peru",
-    "hora": "15:15",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal20.php"
-  },
-  {
-    "partido": "Juan Pablo II vs Comerciantes Unidos opción 3",
-    "liga": "Liga de Peru",
-    "hora": "15:15",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal21.php"
-  },
-  {
-    "partido": "Juan Pablo II vs Comerciantes Unidos opción 4",
-    "liga": "Liga de Peru",
-    "hora": "15:15",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal22.php"
-  },
-  {
-    "partido": "Colorado Rapids vs Inter Miami opción 1",
-    "liga": "MLS",
-    "hora": "15:30",
-    "fecha": "",
-    "url": "https://www.capoplay.net/capodeportes3.php"
-  },
-  {
-    "partido": "Colorado Rapids vs Inter Miami opción 2",
-    "liga": "MLS",
-    "hora": "15:30",
-    "fecha": "",
-    "url": "https://www.capoplay.net/bundesliga5.php"
-  },
-  {
-    "partido": "Colorado Rapids vs Inter Miami opción 3",
-    "liga": "MLS",
-    "hora": "15:30",
-    "fecha": "",
-    "url": "https://www.capoplay.net/bundesliga6.php"
-  },
-  {
-    "partido": "Colorado Rapids vs Inter Miami opción 4",
-    "liga": "MLS",
-    "hora": "15:30",
-    "fecha": "",
-    "url": "https://www.capoplay.net/bundesliga7.php"
-  },
-  {
-    "partido": "Colorado Rapids vs Inter Miami opción 5",
-    "liga": "MLS",
-    "hora": "15:30",
-    "fecha": "",
-    "url": "https://www.capoplay.net/bundesliga8.php"
-  },
-  {
-    "partido": "Colorado Rapids vs Inter Miami opción 6",
-    "liga": "MLS",
-    "hora": "15:30",
-    "fecha": "",
-    "url": "https://www.capoplay.net/canal5.php"
+    "url": "https://skylivefu.com/live.php?stream=sporttvbr1"
   }
 ]
