@@ -1,24 +1,24 @@
 [
   {
-    "partido": "PELIS",
+    "partido": "ESPN",
     "liga": "LATINOAMERICA",
     "hora": "🔴 Inactivo",
     "fecha": "",
-    "url": "https://vimeos.net/embed-9w6h2fmb36ep.html"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn"
   },
   {
-    "partido": "EVENTO 24",
-    "liga": "LATINOAMERICA",
-    "hora": "🔴 Inactivo",
-    "fecha": "",
-    "url": "https://acectv.blogspot.com/p/exoplayer.html?Id=EVE2"
-  },
-  {
-    "partido": "EVENTO 3",
+    "partido": "ESPN 2",
     "liga": "LATINOAMERICA",
     "hora": "🟢 Activo",
     "fecha": "",
-    "url": "https://www.capoplay.net/canal34.php"
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn2"
+  },
+  {
+    "partido": "ESPN 3",
+    "liga": "LATINOAMERICA",
+    "hora": "🟢 Activo",
+    "fecha": "",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn3"
   },
   {
     "partido": "ESPN 4",
@@ -93,7 +93,7 @@
   {
     "partido": "Fox Sports",
     "liga": "ARGENTINA",
-    "hora": "🟢 Activo",
+    "hora": "🔴 Inactivo",
     "fecha": "",
     "url": "https://la14hd.com/vivo/canales.php?stream=foxsports"
   },
@@ -107,7 +107,7 @@
   {
     "partido": "Fox Sports 3",
     "liga": "ARGENTINA",
-    "hora": "🟢 Activo",
+    "hora": "🔴 Inactivo",
     "fecha": "",
     "url": "https://la14hd.com/vivo/canales.php?stream=foxsports3"
   },
@@ -142,7 +142,7 @@
   {
     "partido": "Telefe",
     "liga": "ARGENTINA",
-    "hora": "🟢 Activo",
+    "hora": "🔴 Inactivo",
     "fecha": "",
     "url": "https://la14hd.com/vivo/canales.php?stream=telefe"
   },
@@ -198,7 +198,7 @@
   {
     "partido": "Fox Sports 2",
     "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "hora": "🟢 Activo",
     "fecha": "",
     "url": "https://la14hd.com/vivo/canales.php?stream=foxsports2mx"
   },
@@ -219,14 +219,14 @@
   {
     "partido": "TUDN",
     "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "hora": "🟢 Activo",
     "fecha": "",
     "url": "https://la14hd.com/vivo/canales.php?stream=tudn_mx"
   },
   {
     "partido": "ESPN",
     "liga": "MÉXICO",
-    "hora": "🟢 Activo",
+    "hora": "🔴 Inactivo",
     "fecha": "",
     "url": "https://la14hd.com/vivo/canales.php?stream=espnmx"
   },
@@ -296,7 +296,7 @@
   {
     "partido": "Sky Sports LaLiga",
     "liga": "MÉXICO",
-    "hora": "🔴 Inactivo",
+    "hora": "🟢 Activo",
     "fecha": "",
     "url": "https://la14hd.com/vivo/canales.php?stream=sky_sports_laliga"
   },
