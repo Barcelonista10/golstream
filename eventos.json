@@ -1,29 +1,29 @@
 [
   {
-    "equipo1": "México",
-    "equipo2": "Sudáfrica",
-    "logo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.pngctly-free-vector.jpg",
-    "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mJuhRvIU26XQhwSCSihEap_tBcfvBJPkq_Zw9xTWaQ&s",
+    "equipo1": "Peru",
+    "equipo2": "Espana",
+    "logo1": "https://static.vecteezy.com/system/resources/previews/016/328/184/non_2x/peru-flag-flag-of-peru-free-vector.jpg",
+    "logo2": "https://static.vecteezy.com/system/resources/previews/008/070/285/non_2x/spain-flag-icon-in-official-color-and-proportion-correctly-free-vector.jpg",
     "hora": "09:00 p.m.",
     "categoria": "Amistoso",
     "destacado": true,
     "servidores": [
-      {"nombre": "Servidor 1", "url": "https://stream1.m3u8"},
-      {"nombre": "Servidor 2", "url": "https://stream2.m3u8"},
-      {"nombre": "Servidor 3", "url": "https://stream3.m3u8"}
+      {"nombre": "ESPN", "url": "https://la18hd.com/vivo/canales.php?stream=espn"},
+      {"nombre": "ESPN 2", "url": "https://la18hd.com/vivo/canales.php?stream=espn2"},
+      {"nombre": "Fox Sports", "url": "https://la18hd.com/vivo/canales.php?stream=foxsports"}
     ]
   },
   {
-    "equipo1": "Korea del Sur",
-    "equipo2": "Chequia",
-    "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThlmuvL4IDwqaxN3plyBaFBdB37Ot3FbFQqSGiPaax-g&s=10",
-    "logo2": "https://teknoquo.com/wp-content/uploads/2024/01/bandera-de-Chequia-colores-RGB.png",
+    "equipo1": "Colombia",
+    "equipo2": "Brasil",
+    "logo1": "https://static.vecteezy.com/system/resources/previews/011/571/514/non_2x/colombia-flag-free-vector.jpg",
+    "logo2": "https://static.vecteezy.com/system/resources/previews/000/267/609/non_2x/brazil-flag-vector.jpg",
     "hora": "07:00 p.m.",
     "categoria": "Copa America",
     "destacado": false,
     "servidores": [
-      {"nombre": "Servidor 1", "url": "https://stream1.m3u8"},
-      {"nombre": "Servidor 2", "url": "https://stream2.m3u8"}
+      {"nombre": "DSports", "url": "https://la18hd.com/vivo/canales.php?stream=dsports"},
+      {"nombre": "DSports 2", "url": "https://la18hd.com/vivo/canales.php?stream=dsports2"}
     ]
   }
 ]
