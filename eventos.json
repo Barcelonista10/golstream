@@ -2,8 +2,8 @@
   {
     "equipo1": "Peru",
     "equipo2": "Espana",
-    "logo1": "https://static.vecteezy.com/system/resources/previews/008/070/285/non_2x/spain-flag-icon-in-official-color-and-proportion-correctly-free-vector.jpg",
-    "logo2": "https://i.imgur.com/esp.png",
+    "logo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/250px-Flag_of_Mexico.svg.pngctly-free-vector.jpg",
+    "logo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3mJuhRvIU26XQhwSCSihEap_tBcfvBJPkq_Zw9xTWaQ&s",
     "hora": "09:00 p.m.",
     "categoria": "Amistoso",
     "destacado": true,
@@ -14,10 +14,10 @@
     ]
   },
   {
-    "equipo1": "Colombia",
-    "equipo2": "Brasil",
-    "logo1": "https://i.imgur.com/col.png",
-    "logo2": "https://i.imgur.com/bra.png",
+    "equipo1": "Korea del Sur",
+    "equipo2": "Chequia",
+    "logo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThlmuvL4IDwqaxN3plyBaFBdB37Ot3FbFQqSGiPaax-g&s=10",
+    "logo2": "https://teknoquo.com/wp-content/uploads/2024/01/bandera-de-Chequia-colores-RGB.png",
     "hora": "07:00 p.m.",
     "categoria": "Copa America",
     "destacado": false,
